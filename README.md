@@ -1,6 +1,255 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2025-06-17
++ [FormGym: Doing Paperwork with Agents](https://arxiv.org//abs/2506.14079)
+
+	Matthew Toles, Rattandeep Singh, Isaac Song Zhou Yu
+
++ [Lightweight Relevance Grader in RAG](https://arxiv.org//abs/2506.14084)
+
+	Taehee Jeong
+
++ [Fragile Preferences: A Deep Dive Into Order Effects in Large Language Models](https://arxiv.org//abs/2506.14092)
+
+	Haonan Yin, Shai Vardi, Vidyanand Choudhary
+
++ [Collaborative Editable Model](https://arxiv.org//abs/2506.14146)
+
+	Kaiwen Tang, Aitong Wu, Yao Lu, Guangda Sun
+
++ [From Black Boxes to Transparent Minds: Evaluating and Enhancing the Theory of Mind in Multimodal Large Language Models](https://arxiv.org//abs/2506.14224)
+
+	Xinyang Li, Siqi Liu, Bochao Zou, Jiansheng Chen, Huimin Ma
+
++ [Causes in neuron diagrams, and testing causal reasoning in Large Language Models. A glimpse of the future of philosophy?](https://arxiv.org//abs/2506.14239)
+
+	Louis Vervoort, Vitaly Nikolaev
+
++ [Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs](https://arxiv.org//abs/2506.14245)
+
+	Xumeng Wen, Zihan Liu, Shun Zheng, Zhijian Xu, Shengyu Ye, Zhirong Wu, Xiao Liang, Yang Wang, Junjie Li, Ziming Miao, Jiang Bian, Mao Yang
+
++ [Don't throw the baby out with the bathwater: How and why deep learning for ARC](https://arxiv.org//abs/2506.14276)
+
+	Jack Cole, Mohamed Osman
+
++ [ADRD: LLM-Driven Autonomous Driving Based on Rule-based Decision Systems](https://arxiv.org//abs/2506.14299)
+
+	Fanzhi Zeng, Siqi Wang, Chuzhao Zhu, Li Li
+
++ [AviationLLM: An LLM-based Knowledge System for Aviation Training](https://arxiv.org//abs/2506.14336)
+
+	Jia'ang Wan, Feng Shen, Fujuan Li, Yanjin Sun, Yan Li, Shiwen Zhang
+
++ [Don't Make It Up: Preserving Ignorance Awareness in LLM Fine-Tuning](https://arxiv.org//abs/2506.14387)
+
+	William F. Shen, Xinchi Qiu, Nicola Cancedda, Nicholas D. Lane
+
++ [LLM-Powered Swarms: A New Frontier or a Conceptual Stretch?](https://arxiv.org//abs/2506.14496)
+
+	Muhammad Atta Ur Rahman, Melanie Schranz
+
++ [Doppelgänger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack](https://arxiv.org//abs/2506.14539)
+
+	Daewon Kang, YeongHwan Shin, Doyeon Kim, Kyu-Hwan Jung, Meong Hi Son
+
++ [AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes](https://arxiv.org//abs/2506.14728)
+
+	Jiahao Qiu, Xinzhe Juan, Yimin Wang, Ling Yang, Xuan Qi, Tongcheng Zhang, Jiacheng Guo, Yifu Lu, Zixin Yao, Hongru Wang, Shilong Liu, Xun Jiang, Liu Leqi, Mengdi Wang
+
++ [Optimizing Length Compression in Large Reasoning Models](https://arxiv.org//abs/2506.14755)
+
+	Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou
+
++ [InsertRank: LLMs can reason over BM25 scores to Improve Listwise Reranking](https://arxiv.org//abs/2506.14086)
+
+	Rahul Seetharaman, Kaustubh D. Dhole, Aman Bansal
+
++ [S$^4$C: Speculative Sampling with Syntactic and Semantic Coherence for Efficient Inference of Large Language Models](https://arxiv.org//abs/2506.14158)
+
+	Tao He, Guang Huang, Yu Yang, Tianshi Xu, Sicheng Zhao, Guiguang Ding, Pengyang Wang, Feng Tian
+
++ [GRAM: A Generative Foundation Reward Model for Reward Generalization](https://arxiv.org//abs/2506.14175)
+
+	Chenglong Wang, Yang Gan, Yifu Huo, Yongyu Mu, Qiaozhi He, Murun Yang, Bei Li, Tong Xiao, Chunliang Zhang, Tongran Liu, Jingbo Zhu
+
++ [TriGuard: Testing Model Safety with Attribution Entropy, Verification, and Drift](https://arxiv.org//abs/2506.14217)
+
+	Dipesh Tharu Mahato, Rohan Poudel, Pramod Dhungana
+
++ [Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team](https://arxiv.org//abs/2506.14234)
+
+	Md Tanzib Hosain, Salman Rahman, Md Kishor Morol, Md Rizwan Parvez
+
++ [Re-Initialization Token Learning for Tool-Augmented Large Language Models](https://arxiv.org//abs/2506.14248)
+
+	Chenghao Li, Liu Liu, Baosheng Yu, Jiayan Qiu, Yibing Zhan
+
++ [Knowledge Adaptation as Posterior Correction](https://arxiv.org//abs/2506.14262)
+
+	Mohammad Emtiyaz Khan
+
++ [LLM-Powered Intent-Based Categorization of Phishing Emails](https://arxiv.org//abs/2506.14337)
+
+	Even Eilertsen, Vasileios Mavroeidis, Gudmund Grov
+
++ [RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition](https://arxiv.org//abs/2506.14412)
+
+	Tim Cofala, Oleh Astappiev, William Xion, Hailay Teklehaymanot
+
++ [Sharp Generalization Bounds for Foundation Models with Asymmetric Randomized Low-Rank Adapters](https://arxiv.org//abs/2506.14530)
+
+	Anastasis Kratsios, Tin Sum Cheng, Aurelien Lucchi, Haitz Sáez de Ocáriz Borde
+
++ [AlphaDecay:Module-wise Weight Decay for Heavy-Tailed Balancing in LLMs](https://arxiv.org//abs/2506.14562)
+
+	Di He, Ajay Jaiswal, Songjun Tu, Li Shen, Ganzhao Yuan, Shiwei Liu, Lu Yin
+
++ [TGDPO: Harnessing Token-Level Reward Guidance for Enhancing Direct Preference Optimization](https://arxiv.org//abs/2506.14574)
+
+	Mingkang Zhu, Xi Chen, Zhongdao Wang, Bei Yu, Hengshuang Zhao, Jiaya Jia
+
++ [GenerationPrograms: Fine-grained Attribution with Executable Programs](https://arxiv.org//abs/2506.14580)
+
+	David Wan, Eran Hirsch, Elias Stengel-Eskin, Ido Dagan, Mohit Bansal
+
++ [Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models](https://arxiv.org//abs/2506.14625)
+
+	Chenchen Yuan, Zheyu Zhang, Shuo Yang, Bardh Prenkaj, Gjergji Kasneci
+
++ [Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot](https://arxiv.org//abs/2506.14641)
+
+	Xiang Cheng, Chengyan Pan, Minjun Zhao, Deyang Li, Fangchao Liu, Xinyu Zhang, Xiao Zhang, Yong Liu
+
++ [Unified Software Engineering agent as AI Software Engineer](https://arxiv.org//abs/2506.14683)
+
+	Leonhard Applis, Yuntong Zhang, Shanchao Liang, Nan Jiang, Lin Tan, Abhik Roychoudhury
+
++ [Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs](https://arxiv.org//abs/2506.14731)
+
+	Ring Team, Bin Hu, Cai Chen, Deng Zhao, Ding Liu, Dingnan Jin, Feng Zhu, Hao Dai, Hongzhi Luan, Jia Guo, Jiaming Liu, Jiewei Wu, Jun Mei, Jun Zhou, Junbo Zhao, Junwu Xiong, Kaihong Zhang, Kuan Xu, Lei Liang, Liang Jiang, Liangcheng Fu, Longfei Zheng, Qiang Gao, Qing Cui, Quan Wan, Shaomian Zheng, Shuaicheng Li, Tongkai Yang, Wang Ren, Xiaodong Yan, Xiaopei Wan, Xiaoyun Feng, Xin Zhao, Xinxing Yang, Xinyu Kong, Xuemin Yang, Yang Li, Yingting Wu, Yongkang Liu, Zhankai Xu, Zhenduo Zhang, Zhenglei Zhou, Zhenyu Huang, Zhiqiang Zhang, Zihao Wang, Zujie Wen
+
++ [Sampling from Your Language Model One Byte at a Time](https://arxiv.org//abs/2506.14123)
+
+	Jonathan Hayase, Alisa Liu, Noah A. Smith, Sewoong Oh
+
++ [DCRM: A Heuristic to Measure Response Pair Quality in Preference Optimization](https://arxiv.org//abs/2506.14157)
+
+	Chengyu Huang, Tanya Goyal
+
++ [MIST: Towards Multi-dimensional Implicit Bias and Stereotype Evaluation of LLMs via Theory of Mind](https://arxiv.org//abs/2506.14161)
+
+	Yanlin Li, Hao Liu, Huimin Liu, Yinwei Wei, Yupeng Hu
+
++ [AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org//abs/2506.14205)
+
+	Jingxu Xie, Dylan Xu, Xuandong Zhao, Dawn Song
+
++ [From What to Respond to When to Respond: Timely Response Generation for Open-domain Dialogue Agents](https://arxiv.org//abs/2506.14285)
+
+	Seongbo Jang, Minjin Jeon, Jaehoon Lee, Seonghyeon Lee, Dongha Lee, Hwanjo Yu
+
++ [Expectation Confirmation Preference Optimization for Multi-Turn Conversational Recommendation Agent](https://arxiv.org//abs/2506.14302)
+
+	Xueyang Feng, Jingsen Zhang, Jiakai Tang, Wei Li, Guohao Cai, Xu Chen, Quanyu Dai, Yue Zhu, Zhenhua Dong
+
++ [ELLIS Alicante at CQs-Gen 2025: Winning the critical thinking questions shared task: LLM-based question generation and selection](https://arxiv.org//abs/2506.14371)
+
+	Lucile Favero, Daniel Frases, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver
+
++ [Thunder-NUBench: A Benchmark for LLMs' Sentence-Level Negation Understanding](https://arxiv.org//abs/2506.14397)
+
+	Yeonkyoung So, Gyuseong Lee, Sungmok Jung, Joonhak Lee, JiA Kang, Sangho Kim, Jaejin Lee
+
++ [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org//abs/2506.14429)
+
+	Xiaoran Liu, Zhigeng Liu, Zengfeng Huang, Qipeng Guo, Ziwei He, Xipeng Qiu
+
++ [How Far Can LLMs Improve from Experience? Measuring Test-Time Learning Ability in LLMs with Human Comparison](https://arxiv.org//abs/2506.14448)
+
+	Jiayin Wang, Zhiquang Guo, Weizhi Ma, Min Zhang
+
++ [LexiMark: Robust Watermarking via Lexical Substitutions to Enhance Membership Verification of an LLM's Textual Training Data](https://arxiv.org//abs/2506.14474)
+
+	Eyal German, Sagiv Antebi, Edan Habler, Asaf Shabtai, Yuval Elovici
+
++ [LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops](https://arxiv.org//abs/2506.14493)
+
+	Jiyuan Fu, Kaixun Jiang, Lingyi Hong, Jinglun Li, Haijing Guo, Dingkang Yang, Zhaoyu Chen, Wenqiang Zhang
+
++ [Passing the Turing Test in Political Discourse: Fine-Tuning LLMs to Mimic Polarized Social Media Comments](https://arxiv.org//abs/2506.14645)
+
+	. Pazzaglia, V. Vendetti, L. D. Comencini, F. Deriu, V. Modugno
+
++ [GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors](https://arxiv.org//abs/2506.14646)
+
+	Hengyuan Zhang, Xinrong Chen, Yingmin Qiu, Xiao Liang, Ziyue Li, Guanyu Wang, Weiping Li, Tong Mo, Wenyue Li, Hayden Kwok-Hay So, Ngai Wong
+
++ [Massive Supervised Fine-tuning Experiments Reveal How Data, Layer, and Training Factors Shape LLM Alignment Quality](https://arxiv.org//abs/2506.14681)
+
+	Yuto Harada, Yusuke Yamauchi, Yusuke Oda, Yohei Oseki, Yusuke Miyao, Yu Takagi
+
++ [Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers](https://arxiv.org//abs/2506.14702)
+
+	Daniel D'souza, Julia Kreutzer, Adrien Morisot, Ahmet Üstün, Sara Hooker
+
++ [Capacity Matters: a Proof-of-Concept for Transformer Memorization on Real-World Data](https://arxiv.org//abs/2506.14704)
+
+	Anton Changalidis, Aki Härmä
+
++ [Reasoning with Exploration: An Entropy Perspective](https://arxiv.org//abs/2506.14758)
+
+	Daixuan Cheng, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei
+
++ [RadFabric: Agentic AI System with Reasoning Capability for Radiology](https://arxiv.org//abs/2506.14142)
+
+	Wenting Chen, Yi Dong, Zhaojun Ding, Yucheng Shi, Yifan Zhou, Fang Zeng, Yijun Luo, Tianyu Lin, Yihang Su, Yichen Wu, Kai Zhang, Zhen Xiang, Tianming Liu, Ninghao Liu, Lichao Sun, Yixuan Yuan, Xiang Li
+
++ [ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM](https://arxiv.org//abs/2506.14766)
+
+	Yujun Wang, Jinhe Bi, Yunpu Ma, Soeren Pirk
+
++ [Interpreting Biomedical VLMs on High-Imbalance Out-of-Distributions: An Insight into BiomedCLIP on Radiology](https://arxiv.org//abs/2506.14136)
+
+	Nafiz Sadman, Farhana Zulkernine, Benjamin Kwan
+
++ [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models](https://arxiv.org//abs/2506.14435)
+
+	Hongyu Wang, Jiayu Xu, Ruiping Wang, Yan Feng, Yitao Zhai, Peng Pei, Xunliang Cai, Xilin Chen
+
++ [Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification](https://arxiv.org//abs/2506.14074)
+
+	Nathaniel Pinckney, Chenhui Deng, Chia-Tung Ho, Yun-Da Tsai, Mingjie Liu, Wenfei Zhou, Brucek Khailany, Haoxing Ren
+
++ [RL-Obfuscation: Can Language Models Learn to Evade Latent-Space Monitors?](https://arxiv.org//abs/2506.14261)
+
+	Rohan Gupta, Erik Jenner
+
++ [MoORE: SVD-based Model MoE-ization for Conflict- and Oblivion-Resistant Multi-Task Adaptation](https://arxiv.org//abs/2506.14436)
+
+	Shen Yuan, Yin Zheng, Taifeng Wang, Binbin Liu, Hongteng Xu
+
++ [Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution](https://arxiv.org//abs/2506.14529)
+
+	Xiaohan Zheng, Lanning Wei, Yong Li, Quanming Yao
+
++ [Excessive Reasoning Attack on Reasoning LLMs](https://arxiv.org//abs/2506.14374)
+
+	Wai Man Si, Mingjie Li, Michael Backes, Yang Zhang
+
++ [ReDASH: Fast and efficient Scaling in Arithmetic Garbled Circuits for Secure Outsourced Inference](https://arxiv.org//abs/2506.14489)
+
+	Felix Maurer, Jonas Sander, Thomas Eisenbarth
+
++ [AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models](https://arxiv.org//abs/2506.14682)
+
+	Ads Dawson, Rob Mulla, Nick Landers, Shane Caldwell
+
++ [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](https://arxiv.org//abs/2506.14697)
+
+	Aishan Liu, Zonghao Ying, Le Wang, Junjie Mu, Jinyang Guo, Jiakai Wang, Yuqing Ma, Siyuan Liang, Mingchuan Zhang, Xianglong Liu, Dacheng Tao
+
 # 2025-06-16
 + [A Practical Guide for Evaluating LLMs and LLM-Reliant Systems](https://arxiv.org//abs/2506.13023)
 
@@ -310,6 +559,58 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Zhenhao Zhu, Yue Liu, Yingwei Ma, Hongcheng Gao, Nuo Chen, Yanpei Guo, Wenjie Qu, Huiying Xu, Xinzhong Zhu, Jiaheng Zhang
 
++ [LocationReasoner: Evaluating LLMs on Real-World Site Selection Reasoning](https://arxiv.org//abs/2506.13841)
+
+	Miho Koda, Yu Zheng, Ruixian Ma, Mingyang Sun, Devesh Pansare, Fabio Duarte, Paolo Santi
+
++ [ProfiLLM: An LLM-Based Framework for Implicit Profiling of Chatbot Users](https://arxiv.org//abs/2506.13980)
+
+	Shahaf David, Yair Meidan, Ido Hersko, Daniel Varnovitzky, Dudu Mimran, Yuval Elovici, Asaf Shabtai
+
++ [Fake it till You Make it: Reward Modeling as Discriminative Prediction](https://arxiv.org//abs/2506.13846)
+
+	Runtao Liu, Jiahao Zhan, Yingqing He, Chen Wei, Alan Yuille, Qifeng Chen
+
++ [Investigating the interaction of linguistic and mathematical reasoning in language models using multilingual number puzzles](https://arxiv.org//abs/2506.13886)
+
+	Antara Raaghavi Bhattacharya, Isabel Papadimitriou, Kathryn Davidson, David Alvarez-Melis
+
++ [Alignment Quality Index (AQI) : Beyond Refusals: AQI as an Intrinsic Alignment Diagnostic via Latent Geometry, Cluster Divergence, and Layer wise Pooled Representations](https://arxiv.org//abs/2506.13901)
+
+	Abhilekh Borah, Chhavi Sharma, Danush Khanna, Utkarsh Bhatt, Gurpreet Singh, Hasnat Md Abdullah, Raghav Kaushik Ravi, Vinija Jain, Jyoti Patel, Shubham Singh, Vasu Sharma, Arpita Vats, Rahul Raja, Aman Chadha, Amitava Das
+
++ [How Does LLM Reasoning Work for Code? A Survey and a Call to Action](https://arxiv.org//abs/2506.13932)
+
+	Ira Ceka, Saurabh Pujar, Irene Manotas, Gail Kaiser, Baishakhi Ray, Shyam Ramji
+
++ [Taming Polysemanticity in LLMs: Provable Feature Recovery via Sparse Autoencoders](https://arxiv.org//abs/2506.14002)
+
+	Siyu Chen, Heejune Sheen, Xuyuan Xiong, Tianhao Wang, Zhuoran Yang
+
++ [Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text](https://arxiv.org//abs/2506.14012)
+
+	Amr Mohamed, Yang Zhang, Michalis Vazirgiannis, Guokan Shang
+
++ [MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation](https://arxiv.org//abs/2506.14028)
+
+	Xueqing Peng, Lingfei Qian, Yan Wang, Ruoyu Xiang, Yueru He, Yang Ren, Mingyang Jiang, Jeff Zhao, Huan He, Yi Han, Yun Feng, Yuechen Jiang, Yupeng Cao, Haohang Li, Yangyang Yu, Xiaoyu Wang, Penglei Gao, Shengyuan Lin, Keyi Wang, Shanshan Yang, Yilun Zhao, Zhiwei Liu, Peng Lu, Jerry Huang, Suyuchen Wang, Triantafillos Papadopoulos, Polydoros Giannouris, Efstathia Soufleri, Nuo Chen, Guojun Xiong, Zhiyang Deng, Yijia Zhao, Mingquan Lin, Meikang Qiu, Kaleb E Smith, Arman Cohan, Xiao-Yang Liu, Jimin Huang, Alejandro Lopez-Lira, Xi Chen, Junichi Tsujii, Jian-Yun Nie, Sophia Ananiadou, Qianqian Xie
+
++ [Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences](https://arxiv.org//abs/2506.13996)
+
+	Stas Bekman, Samyam Rajbhandari, Michael Wyatt, Jeff Rasley, Tunji Ruwase, Zhewei Yao, Aurick Qiao, Yuxiong He
+
++ [Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs](https://arxiv.org//abs/2506.14003)
+
+	Yiwei Chen, Soumyadeep Pal, Yimeng Zhang, Qing Qu, Sijia Liu
+
++ [Load Balancing Mixture of Experts with Similarity Preserving Routers](https://arxiv.org//abs/2506.14038)
+
+	Nabil Omi, Siddhartha Sen, Ali Farhadi
+
++ [A Regret Perspective on Online Selective Generation](https://arxiv.org//abs/2506.14067)
+
+	Minjae Lee, Yoonjae Jung, Sangdon Park
+
 # 2025-06-15
 + [SciSage: A Multi-Agent Framework for High-Quality Scientific Survey Generation](https://arxiv.org//abs/2506.12689)
 
@@ -422,6 +723,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Universal Jailbreak Suffixes Are Strong Attention Hijackers](https://arxiv.org//abs/2506.12880)
 
 	Matan Ben-Tov, Mor Geva, Mahmood Sharif
+
++ [Structured Program Synthesis using LLMs: Results and Insights from the IPARC Challenge](https://arxiv.org//abs/2506.13820)
+
+	Shraddha Surana, Ashwin Srinivasan, Michael Bain
 
 # 2025-06-14
 + [The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason](https://arxiv.org//abs/2506.12286)
@@ -928,6 +1233,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Can LLMs Generate High-Quality Test Cases for Algorithm Problems? TestCase-Eval: A Systematic Evaluation of Fault Coverage and Exposure](https://arxiv.org//abs/2506.12278)
 
 	Zheyuan Yang, Zexi Kuang, Xue Xia, Yilun Zhao
+
++ [Enhancing Clinical Decision Support and EHR Insights through LLMs and the Model Context Protocol: An Open-Source MCP-FHIR Framework](https://arxiv.org//abs/2506.13800)
+
+	Abul Ehtesham, Aditi Singh, Saket Kumar
+
++ [Dr. GPT Will See You Now, but Should It? Exploring the Benefits and Harms of Large Language Models in Medical Diagnosis using Crowdsourced Clinical Cases](https://arxiv.org//abs/2506.13805)
+
+	Bonam Mingole, Aditya Majumdar, Firdaus Ahmed Choudhury, Jennifer L. Kraschnewski, Shyam S. Sundar, Amulya Yadav
 
 # 2025-06-12
 + [WGSR-Bench: Wargame-based Game-theoretic Strategic Reasoning Benchmark for Large Language Models](https://arxiv.org//abs/2506.10264)
@@ -1631,6 +1944,22 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Jack Contro, Simrat Deol, Yulan He, Martim Brandão
 
++ [The NordDRG AI Benchmark for Large Language Models](https://arxiv.org//abs/2506.13790)
+
+	Tapio Pitkäranta
+
++ [Med-REFL: Medical Reasoning Enhancement via Self-Corrected Fine-grained Reflection](https://arxiv.org//abs/2506.13793)
+
+	Zongxian Yang, Jiayu Qian, Zegao Peng, Haoyu Zhang, Zhi-An Huang
+
++ [AcademicBrowse: Benchmarking Academic Browse Ability of LLMs](https://arxiv.org//abs/2506.13784)
+
+	Junting Zhou, Wang Li, Yiyan Liao, Nengyuan Zhang, Tingjia Miaoand Zhihui Qi, Yuhan Wu, Tong Yang
+
++ [CRITICTOOL: Evaluating Self-Critique Capabilities of Large Language Models in Tool-Calling Error Scenarios](https://arxiv.org//abs/2506.13977)
+
+	Shiting Huang, Zhen Fang, Zehui Chen, Siyu Yuan, Junjie Ye, Yu Zeng, Lin Chen, Qi Mao, Feng Zhao
+
 # 2025-06-10
 + [ORFS-agent: Tool-Using Agents for Chip Design Optimization](https://arxiv.org//abs/2506.08332)
 
@@ -2028,6 +2357,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Kiarash Ahi
 
++ [XGraphRAG: Interactive Visual Analysis for Graph-based Retrieval-Augmented Generation](https://arxiv.org//abs/2506.13782)
+
+	Ke Wang, Bo Pan, Yingchaojie Feng, Yuwei Wu, Jieyi Chen, Minfeng Zhu, Wei Chen
+
 # 2025-06-09
 + [Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph](https://arxiv.org//abs/2506.08098)
 
@@ -2205,6 +2538,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Guibin Zhang, Muxin Fu, Guancheng Wan, Miao Yu, Kun Wang, Shuicheng Yan
 
++ [Knowledge Compression via Question Generation: Enhancing Multihop Document Retrieval without Fine-tuning](https://arxiv.org//abs/2506.13778)
+
+	Anvi Alex Eponon, Moein Shahiki-Tash, Ildar Batyrshin, Christian E. Maldonado-Sifuentes, Grigori Sidorov, Alexander Gelbukh
+
 # 2025-06-08
 + [Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test](https://arxiv.org//abs/2506.06975)
 
@@ -2249,6 +2586,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants](https://arxiv.org//abs/2506.07042)
 
 	Stergios Chatzikyriakidis
+
++ [Personalized Constitutionally-Aligned Agentic Superego: Secure AI Behavior Aligned to Diverse Human Values](https://arxiv.org//abs/2506.13774)
+
+	Nell Watson, Ahmed Amer, Evan Harris, Preeti Ravindra, Shujun Zhang
 
 # 2025-06-07
 + [Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org//abs/2506.06821)
@@ -2559,6 +2900,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [DAM: Dynamic Attention Mask for Long-Context Large Language Model Inference Acceleration](https://arxiv.org//abs/2506.11104)
 
 	Hanzhi Zhang, Heng Fan, Kewei Sha, Yan Huang, Yunhe Feng
+
++ [SPARQ: Synthetic Problem Generation for Reasoning via Quality-Diversity Algorithms](https://arxiv.org//abs/2506.06499)
+
+	Alex Havrilla, Edward Hughes, Mikayel Samvelyan, Jacob Abernethy
 
 # 2025-06-05
 + [CHANCERY: Evaluating corporate governance reasoning capabilities in language models](https://arxiv.org//abs/2506.04636)
@@ -3040,6 +3385,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System](https://arxiv.org//abs/2506.05020)
 
 	Haokun Liu, Zhaoqi Ma, Yunong Li, Junichiro Sugihara, Yicheng Chen, Jinjie Li, Moju Zhao
+
++ [MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs](https://arxiv.org//abs/2506.13772)
+
+	Zhenyan Lu, Daliang Xu, Dongqi Cai, Zexi Li, Wei Liu, Fangming Liu, Shangguang Wang, Mengwei Xu
 
 # 2025-06-04
 + [Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games](https://arxiv.org//abs/2506.03610)
@@ -4882,6 +5231,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation](https://arxiv.org//abs/2506.11063)
 
 	Jiayu Yao, Shenghua Liu, Yiwei Wang, Lingrui Mei, Baolong Bi, Yuyao Ge, Zhecheng Li, Xueqi Cheng
+
++ [LittleBit: Ultra Low-Bit Quantization via Latent Factorization](https://arxiv.org//abs/2506.13771)
+
+	Banseok Lee, Dongkyu Kim, Youngcheon You, Youngmin Kim
 
 # 2025-05-29
 + [Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness](https://arxiv.org//abs/2505.22960)
@@ -7815,6 +8168,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Rethinking the Understanding Ability across LLMs through Mutual Information](https://arxiv.org//abs/2505.23790)
 
 	Shaojie Wang, Sirui Ding, Na Zou
+
++ [AssistedDS: Benchmarking How External Domain Knowledge Assists LLMs in Automated Data Science](https://arxiv.org//abs/2506.13992)
+
+	An Luo, Xun Xian, Jin Du, Fangqiao Tian, Ganghua Wang, Ming Zhong, Shengchun Zhao, Xuan Bi, Zirui Liu, Jiawei Zhou, Jayanth Srinivasa, Ashish Kundu, Charles Fleming, Mingyi Hong, Jie Ding
 
 # 2025-05-24
 + [Pedagogy-R1: Pedagogically-Aligned Reasoning Model with Balanced Educational Benchmark](https://arxiv.org//abs/2505.18467)
@@ -11714,6 +12071,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Shivani Shukla, Himanshu Joshi, Romilla Syed
 
++ [Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis](https://arxiv.org//abs/2505.13227)
+
+	Tianbao Xie, Jiaqi Deng, Xiaochuan Li, Junlin Yang, Haoyuan Wu, Jixuan Chen, Wenjing Hu, Xinyuan Wang, Yuhui Xu, Zekun Wang, Yiheng Xu, Junli Wang, Doyen Sahoo, Tao Yu, Caiming Xiong
+
 # 2025-05-18
 + [Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering](https://arxiv.org//abs/2505.12189)
 
@@ -13870,6 +14231,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Prompt Engineering: How Prompt Vocabulary affects Domain Knowledge](https://arxiv.org//abs/2505.17037)
 
 	Dimitri Schreiter
+
++ [T2V-OptJail: Discrete Prompt Optimization for Text-to-Video Jailbreak Attacks](https://arxiv.org//abs/2505.06679)
+
+	Jiayang Liu, Siyuan Liang, Shiqian Zhao, Rongcheng Tu, Wenbo Zhou, Aishan Liu, Dacheng Tao, Siew Kei Lam
 
 # 2025-05-09
 + [APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning](https://arxiv.org//abs/2505.05758)
@@ -17294,6 +17659,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Junjie Zhang, Rushuai Yang, Shunyu Liu, Ting-En Lin, Fei Huang, Yi Chen, Yongbin Li, Dacheng Tao
 
++ [Automated Construction of a Knowledge Graph of Nuclear Fusion Energy for Effective Elicitation and Retrieval of Information](https://arxiv.org//abs/2504.07738)
+
+	Andrea Loreti, Kesi Chen, Ruby George, Robert Firth, Adriano Agnello, Shinnosuke Tanaka
+
 # 2025-04-09
 + [Understanding Users' Security and Privacy Concerns and Attitudes Towards Conversational AI Platforms](https://arxiv.org//abs/2504.06552)
 
@@ -17482,6 +17851,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [BabyLM's First Words: Word Segmentation as a Phonological Probing Task](https://arxiv.org//abs/2504.03338)
 
 	Zébulon Goriely, Paula Buttery
+
++ [Inherent and emergent liability issues in LLM-based agentic systems: a principal-agent perspective](https://arxiv.org//abs/2504.03255)
+
+	Garry A. Gabison, R. Patrick Xian
 
 # 2025-04-03
 + [Cognitive Memory in Large Language Models](https://arxiv.org//abs/2504.02441)
@@ -18240,6 +18613,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Xiaoxiao Liu, Qingying Xiao, Junying Chen, Xiangyi Feng, Xiangbo Wu, Bairui Zhang, Xiang Wan, Jian Chang, Guangjun Yu, Yan Hu, Benyou Wang
 
++ [Chain-of-Thought Reasoning In The Wild Is Not Always Faithful](https://arxiv.org//abs/2503.08679)
+
+	Iván Arcuschin, Jett Janiak, Robert Krzyzanowski, Senthooran Rajamanoharan, Neel Nanda, Arthur Conmy
+
++ [SOPBench: Evaluating Language Agents at Following Standard Operating Procedures and Constraints](https://arxiv.org//abs/2503.08669)
+
+	Zekun Li, Shinda Huang, Jiangtian Wang, Nathan Zhang, Antonis Antoniades, Wenyue Hua, Kaijie Zhu, Sirui Zeng, Chi Wang, William Yang Wang, Xifeng Yan
+
 # 2025-03-10
 + [Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols](https://arxiv.org//abs/2503.06991)
 
@@ -18280,6 +18661,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [PoisonedParrot: Subtle Data Poisoning Attacks to Elicit Copyright-Infringing Content from Large Language Models](https://arxiv.org//abs/2503.07697)
 
 	Michael-Andrei Panaitescu-Liess, Pankayaraj Pathmanathan, Yigitcan Kaya, Zora Che, Bang An, Sicheng Zhu, Aakriti Agrawal, Furong Huang
+
++ [Effect of Selection Format on LLM Performance](https://arxiv.org//abs/2503.06926)
+
+	Yuchen Han, Yucheng Wu, Jeffrey Willard
 
 # 2025-03-09
 + [HCT-QA: A Benchmark for Question Answering on Human-Centric Tables](https://arxiv.org//abs/2504.20047)
@@ -18611,6 +18996,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Jiawei Zhang, Shuang Yang, Bo Li
 
++ [Rectifying Belief Space via Unlearning to Harness LLMs' Reasoning](https://arxiv.org//abs/2502.20620)
+
+	Ayana Niwa, Masahiro Kaneko, Kentaro Inui
+
 # 2025-02-27
 + [LLM-driven Effective Knowledge Tracing by Integrating Dual-channel Difficulty](https://arxiv.org//abs/2502.19915)
 
@@ -18781,6 +19170,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Stephan Rabanser, Nathalie Rauschmayr, Achin Kulshrestha, Petra Poklukar, Wittawat Jitkrittum, Sean Augenstein, Congchao Wang, Federico Tombari
 
++ [Reward Shaping to Mitigate Reward Hacking in RLHF](https://arxiv.org//abs/2502.18770)
+
+	Jiayi Fu, Xuandong Zhao, Chengyuan Yao, Heng Wang, Qi Han, Yanghua Xiao
+
 # 2025-02-25
 + [Faster, Cheaper, Better: Multi-Objective Hyperparameter Optimization for LLM and RAG Systems](https://arxiv.org//abs/2502.18635)
 
@@ -18891,6 +19284,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Yuming Yang, Yang Nan, Junjie Ye, Shihan Dou, Xiao Wang, Shuo Li, Huijie Lv, Mingqi Wu, Tao Gui, Qi Zhang, Xuanjing Huang
 
++ [LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification](https://arxiv.org//abs/2502.17421)
+
+	Penghui Yang, Cunxiao Du, Fengzhuo Zhang, Haonan Wang, Tianyu Pang, Chao Du, Bo An
+
 # 2025-02-23
 + [Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation](https://arxiv.org//abs/2502.16529)
 
@@ -18936,6 +19333,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [C2-DPO: Constrained Controlled Direct Preference Optimization](https://arxiv.org//abs/2502.17507)
 
 	Kavosh Asadi, Julien Han, Idan Pipano, Xingzi Xu, Dominique Perrault-Joncas, Shoham Sabach, Karim Bouyarmane, Mohammad Ghavamzadeh
+
++ [SAE-V: Interpreting Multimodal Models for Enhanced Alignment](https://arxiv.org//abs/2502.17514)
+
+	Hantao Lou, Changye Li, Jiaming Ji, Yaodong Yang
 
 # 2025-02-21
 + [Machine-generated text detection prevents language model collapse](https://arxiv.org//abs/2502.15654)
@@ -19017,6 +19418,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [On Synthesizing Data for Context Attribution in Question Answering](https://arxiv.org//abs/2504.05317)
 
 	Gorjan Radevski, Kiril Gashteovski, Shahbaz Syed, Christopher Malon, Sebastien Nicolas, Chia-Chien Hung, Timo Sztyler, Verena Heußer, Wiem Ben Rim, Masafumi Enomoto, Kunihiro Takeoka, Masafumi Oyamada, Goran Glavaš, Carolin Lawrence
+
++ [Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models](https://arxiv.org//abs/2502.15910)
+
+	Zheyuan Liu, Guangyao Dou, Xiangchi Yuan, Chunhui Zhang, Zhaoxuan Tan, Meng Jiang
 
 # 2025-02-20
 + [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org//abs/2502.14289)
@@ -19107,6 +19512,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Xun Deng, Han Zhong, Rui Ai, Fuli Feng, Zheng Wang, Xiangnan He
 
++ [PredictaBoard: Benchmarking LLM Score Predictability](https://arxiv.org//abs/2502.14445)
+
+	Lorenzo Pacchiardi, Konstantinos Voudouris, Ben Slater, Fernando Martínez-Plumed, José Hernández-Orallo, Lexin Zhou, Wout Schellaert
+
 # 2025-02-19
 + [FairKV: Balancing Per-Head KV Cache for Fast Multi-GPU Inference](https://arxiv.org//abs/2502.15804)
 
@@ -19195,6 +19604,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Self-Regularization with Sparse Autoencoders for Controllable LLM-based Classification](https://arxiv.org//abs/2502.14133)
 
 	Xuansheng Wu, Wenhao Yu, Xiaoming Zhai, Ninghao Liu
+
++ [Towards Geo-Culturally Grounded LLM Generations](https://arxiv.org//abs/2502.13497)
+
+	Piyawat Lertvittayakumjorn, David Kinney, Vinodkumar Prabhakaran, Donald Martin Jr., Sunipa Dev
 
 # 2025-02-18
 + [EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning](https://arxiv.org//abs/2502.12486)
@@ -19483,6 +19896,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Mingjie Sun, Yida Yin, Zhiqiu Xu, J. Zico Kolter, Zhuang Liu
 
++ [Planning of Heuristics: Strategic Planning on Large Language Models with Monte Carlo Tree Search for Automating Heuristic Optimization](https://arxiv.org//abs/2502.11422)
+
+	Chaoxu Mu, Xufeng Zhang, Hui Wang
+
++ [Counterfactual-Consistency Prompting for Relative Temporal Understanding in Large Language Models](https://arxiv.org//abs/2502.11425)
+
+	Jongho Kim, Seung-won Hwang
+
 # 2025-02-16
 + [Leveraging Conditional Mutual Information to Improve Large Language Model Fine-Tuning For Classification](https://arxiv.org//abs/2502.11258)
 
@@ -19608,6 +20029,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Towards Effective Extraction and Evaluation of Factual Claims](https://arxiv.org//abs/2502.10855)
 
 	Dasha Metropolitansky, Jonathan Larson
+
++ [Distraction is All You Need for Multimodal Large Language Model Jailbreaking](https://arxiv.org//abs/2502.10794)
+
+	Zuopeng Yang, Jiluan Fan, Anli Yan, Erdun Gao, Xin Lin, Tao Li, Kanghua Mo, Changyu Dong
 
 # 2025-02-14
 + [Cooperative Multi-Agent Planning with Adaptive Skill Synthesis](https://arxiv.org//abs/2502.10148)
@@ -19760,6 +20185,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation](https://arxiv.org//abs/2502.07306)
 
 	Navid Rajabi, Jana Kosecka
+
++ [MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces](https://arxiv.org//abs/2502.07709)
+
+	Loris Gaven, Thomas Carta, Clément Romac, Cédric Colas, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer
 
 # 2025-02-10
 + [Generating Privacy-Preserving Personalized Advice with Zero-Knowledge Proofs and LLMs](https://arxiv.org//abs/2502.06425)
@@ -20605,6 +21034,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, Hengyuan Zhang, Xingxing Zhang, Mahmoud Khademi, Hany Awadalla, Junjie Wang, Yujiu Yang, Furu Wei
 
++ [The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs](https://arxiv.org//abs/2501.10970)
+
+	Nitay Calderon, Roi Reichart, Rotem Dror
+
 # 2025-01-17
 + [Know Your Mistakes: Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling](https://arxiv.org//abs/2501.10316)
 
@@ -20707,6 +21140,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Ruilin Luo, Zhuofan Zheng, Yifan Wang, Xinzhe Ni, Zicheng Lin, Songtao Jiang, Yiyao Yu, Chufan Shi, Ruihang Chu, Jin Zeng, Yujiu Yang
 
++ [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org//abs/2501.04227)
+
+	Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Michael Moor, Zicheng Liu, Emad Barsoum
+
 # 2025-01-07
 + [More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives](https://arxiv.org//abs/2501.04070)
 
@@ -20719,6 +21156,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation](https://arxiv.org//abs/2501.03545)
 
 	Chris Samarinas, Alexander Krubner, Alireza Salemi, Youngwoo Kim, Hamed Zamani
+
++ [Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models](https://arxiv.org//abs/2501.05478)
+
+	Malak Mansour, Ahmed Aly, Bahey Tharwat, Sarim Hashmi, Dong An, Ian Reid
+
++ [mFabric: An Efficient and Scalable Fabric for Mixture-of-Experts Training](https://arxiv.org//abs/2501.03905)
+
+	Xudong Liao, Yijun Sun, Han Tian, Xinchen Wan, Yilun Jin, Zilong Wang, Zhenghang Ren, Xinyang Huang, Wenxue Li, Kin Fai Tse, Zhizhen Zhong, Guyue Liu, Ying Zhang, Xiaofeng Ye, Yiming Zhang, Kai Chen
 
 # 2025-01-06
 + [GeAR: Generation Augmented Retrieval](https://arxiv.org//abs/2501.02772)
@@ -21224,6 +21669,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Thomas Pouplin, Katarzyna Kobalczyk, Hao Sun, Mihaela van der Schaar
 
++ [ONEBench to Test Them All: Sample-Level Benchmarking Over Open-Ended Capabilities](https://arxiv.org//abs/2412.06745)
+
+	Adhiraj Ghosh, Sebastian Dziadzio, Ameya Prabhu, Vishaal Udandarao, Samuel Albanie, Matthias Bethge
+
 # 2024-12-08
 + [7B Fully Open Source Moxin-LLM/VLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](https://arxiv.org//abs/2412.06845)
 
@@ -21245,6 +21694,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [PromptRefine: Enhancing Few-Shot Performance on Low-Resource Indic Languages with Example Selection from Related Example Banks](https://arxiv.org//abs/2412.05710)
 
 	Soumya Suvra Ghosal, Soumyabrata Pal, Koyel Mukherjee, Dinesh Manocha
+
++ [Batch-Max: Higher LLM Throughput using Larger Batch Sizes and KV Cache Compression](https://arxiv.org//abs/2412.05693)
+
+	Michael R. Metel, Boxing Chen, Mehdi Rezagholizadeh
 
 # 2024-12-06
 + [Multi-Party Supervised Fine-tuning of Language Models for Multi-Party Dialogue Generation](https://arxiv.org//abs/2412.05342)
@@ -21297,6 +21750,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Guangda Liu, Chengwei Li, Jieru Zhao, Chenqi Zhang, Minyi Guo
 
++ [Robust Multi-bit Text Watermark with LLM-based Paraphrasers](https://arxiv.org//abs/2412.03123)
+
+	Xiaojun Xu, Jinghan Jia, Yuanshun Yao, Yang Liu, Hang Li
+
 # 2024-12-03
 + [Enhancing LLMs with Smart Preprocessing for EHR Analysis](https://arxiv.org//abs/2412.02868)
 
@@ -21341,6 +21798,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Initialization using Update Approximation is a Silver Bullet for Extremely Efficient Low-Rank Fine-Tuning](https://arxiv.org//abs/2411.19557)
 
 	Kaustubh Ponkshe, Raghav Singhal, Eduard Gorbunov, Alexey Tumanov, Samuel Horvath, Praneeth Vepakomma
+
++ [Ensemble Watermarks for Large Language Models](https://arxiv.org//abs/2411.19563)
+
+	Georg Niess, Roman Kern
 
 # 2024-11-28
 + [Personalized Federated Fine-Tuning for LLMs via Data-Driven Heterogeneous Model Architectures](https://arxiv.org//abs/2411.19128)
@@ -22270,6 +22731,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Sara Ghazanfari, Alexandre Araujo, Prashanth Krishnamurthy, Siddharth Garg, Farshad Khorrami
 
++ [Geometric Signatures of Compositionality Across a Language Model's Lifetime](https://arxiv.org//abs/2410.01444)
+
+	Jin Hwa Lee, Thomas Jiralerspong, Lei Yu, Yoshua Bengio, Emily Cheng
+
 # 2024-10-01
 + [RATIONALYST: Mining Implicit Rationales for Process Supervision of Reasoning](https://arxiv.org//abs/2410.01044)
 
@@ -22828,6 +23293,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Rounak Meyur, Hung Phan, Koby Hayashi, Ian Stewart, Shivam Sharma, Sarthak Chaturvedi, Mike Parker, Dan Nally, Sadie Montgomery, Karl Pazdernik, Ali Jannesari, Mahantesh Halappanavar, Sai Munikoti, Sameera Horawalavithana, Anurag Acharya
 
+# 2024-07-08
++ [Controllable and Reliable Knowledge-Intensive Task-Oriented Conversational Agents with Declarative Genie Worksheets](https://arxiv.org//abs/2407.05674)
+
+	Harshit Joshi, Shicheng Liu, James Chen, Robert Weigle, Monica S. Lam
+
 # 2024-07-06
 + [Algorithmic Language Models with Neurally Compiled Libraries](https://arxiv.org//abs/2407.04899)
 
@@ -22921,6 +23391,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging](https://arxiv.org//abs/2406.16330)
 
 	Deyuan Liu, Zhanyue Qin, Hairu Wang, Zhao Yang, Zecheng Wang, Fangying Rong, Qingbin Liu, Yanchao Hao, Xi Chen, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
+
+# 2024-06-21
++ [Do Large Language Models Exhibit Cognitive Dissonance? Studying the Difference Between Revealed Beliefs and Stated Answers](https://arxiv.org//abs/2406.14986)
+
+	Manuel Mondal, Ljiljana Dolamic, Gérôme Bovet, Philippe Cudré-Mauroux, Julien Audiffren
 
 # 2024-06-20
 + [ReaL: Efficient RLHF Training of Large Language Models with Parameter Reallocation](https://arxiv.org//abs/2406.14088)
@@ -23505,6 +23980,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Xin Xu, Shizhe Diao, Can Yang, Yang Wang
 
++ [Assessing the Reasoning Capabilities of LLMs in the context of Evidence-based Claim Verification](https://arxiv.org//abs/2402.10735)
+
+	John Dougrez-Lewis, Mahmud Elahi Akhter, Federico Ruggeri, Sebastian Löbbers, Yulan He, Maria Liakata
+
 # 2024-02-15
 + [CodeMind: Evaluating Large Language Models for Code Reasoning](https://arxiv.org//abs/2402.09664)
 
@@ -23647,6 +24126,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources](https://arxiv.org//abs/2310.07147)
 
 	Zhikai Li, Xiaoxuan Liu, Banghua Zhu, Zhen Dong, Qingyi Gu, Kurt Keutzer
+
++ [OpsEval: A Comprehensive IT Operations Benchmark Suite for Large Language Models](https://arxiv.org//abs/2310.07637)
+
+	Yuhe Liu, Changhua Pei, Longlong Xu, Bohan Chen, Mingze Sun, Zhirui Zhang, Yongqian Sun, Shenglin Zhang, Kun Wang, Haiming Zhang, Jianhui Li, Gaogang Xie, Xidao Wen, Xiaohui Nie, Minghua Ma, Dan Pei
 
 # 2023-10-07
 + [Uncovering Model Processing Strategies with Non-Negative Per-Example Fisher Factorization](https://arxiv.org//abs/2310.04649)
