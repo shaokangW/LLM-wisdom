@@ -202,6 +202,22 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Wenhao Li, Selvakumar Manickam, Yung-wey Chong, Shankar Karuppayah
 
++ [Modeling the One-to-Many Property in Open-Domain Dialogue with LLMs](https://arxiv.org//abs/2506.15131)
+
+	Jing Yang Lee, Kong-Aik Lee, Woon-Seng Gan
+
++ [Unlocking Post-hoc Dataset Inference with Synthetic Data](https://arxiv.org//abs/2506.15271)
+
+	Bihe Zhao, Pratyush Maini, Franziska Boenisch, Adam Dziedzic
+
++ [Demystifying the Visual Quality Paradox in Multimodal Large Language Models](https://arxiv.org//abs/2506.15645)
+
+	Shuo Xing, Lanqing Guo, Hongyuan Hua, Seoyoung Lee, Peiran Li, Yufei Wang, Zhangyang Wang, Zhengzhong Tu
+
++ [CipherMind:The Longest Codebook in the World](https://arxiv.org//abs/2506.15117)
+
+	Ming Nie, Zhixiong Yang, Bingsheng Wei
+
 # 2025-06-17
 + [FormGym: Doing Paperwork with Agents](https://arxiv.org//abs/2506.14079)
 
@@ -21010,6 +21026,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Shirley Wu, Michel Galley, Baolin Peng, Hao Cheng, Gavin Li, Yao Dou, Weixin Cai, James Zou, Jure Leskovec, Jianfeng Gao
 
++ [Representations Shape Weak-to-Strong Generalization: Theoretical Insights and Empirical Predictions](https://arxiv.org//abs/2502.00620)
+
+	Yihao Xue, Jiping Li, Baharan Mirzasoleiman
+
 # 2025-02-01
 + [Explorations of the Softmax Space: Knowing When the Neural Network Doesn't Know](https://arxiv.org//abs/2502.00456)
 
@@ -22897,6 +22917,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Scaling Laws For Mixed Qquantization](https://arxiv.org//abs/2410.06722)
 
 	Zeyu Cao, Boyang Gu, Cheng Zhang, Pedro Gimenes, Jianqiao Lu, Jianyi Cheng, Xitong Gao, Yiren Zhao
+
++ [Pap2Pat: Benchmarking Outline-Guided Long-Text Patent Generation with Patent-Paper Pairs](https://arxiv.org//abs/2410.07009)
+
+	Valentin Knappich, Simon Razniewski, Anna Hätty, Annemarie Friedrich
 
 # 2024-10-08
 + [Large Continual Instruction Assistant](https://arxiv.org//abs/2410.10868)
