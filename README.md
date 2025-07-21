@@ -1,6 +1,43 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2025-07-18
++ [GIFT: Gradient-aware Immunization of diffusion models against malicious Fine-Tuning with safe concepts retention](https://arxiv.org//abs/2507.13598)
+
+	Amro Abdalla, Ismail Shaheen, Dan DeGenaro, Rupayan Mallick, Bogdan Raita, Sarah Adel Bargal
+
++ [Large Language Models in Cybersecurity: Applications, Vulnerabilities, and Defense Techniques](https://arxiv.org//abs/2507.13629)
+
+	Niveen O. Jaffal, Mohammed Alkhanafseh, David Mohaisen
+
++ [Innocence in the Crossfire: Roles of Skip Connections in Jailbreaking Visual Language Models](https://arxiv.org//abs/2507.13761)
+
+	Palash Nandi, Maithili Joshi, Tanmoy Chakraborty
+
++ [Learning Deblurring Texture Prior from Unpaired Data with Diffusion Model](https://arxiv.org//abs/2507.13599)
+
+	Chengxu Liu, Lu Qi, Jinshan Pan, Xueming Qian, Ming-Hsuan Yang
+
++ [Adversarial Training Improves Generalization Under Distribution Shifts in Bioacoustics](https://arxiv.org//abs/2507.13727)
+
+	René Heinrich, Lukas Rauch, Bernhard Sick, Christoph Scholz
+
++ [Byzantine-resilient federated online learning for Gaussian process regression](https://arxiv.org//abs/2507.14021)
+
+	Xu Zhang, Zhenyuan Yuan, Minghui Zhu
+
++ [FuSeFL: Fully Secure and Scalable Cross-Silo Federated Learning](https://arxiv.org//abs/2507.13591)
+
+	Sahar Ghoflsaz Ghinani, Elaheh Sadredini
+
++ [An Adversarial-Driven Experimental Study on Deep Learning for RF Fingerprinting](https://arxiv.org//abs/2507.14109)
+
+	Xinyu Cao, Bimal Adhikari, Shangqing Zhao, Jingxian Wu, Yanjun Pan
+
++ [TopicAttack: An Indirect Prompt Injection Attack via Topic Transition](https://arxiv.org//abs/2507.13686)
+
+	Yulin Chen, Haoran Li, Yuexin Li, Yue Liu, Yangqiu Song, Bryan Hooi
+
 # 2025-07-17
 + [Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework](https://arxiv.org//abs/2507.12872)
 
@@ -41,6 +78,22 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems](https://arxiv.org//abs/2507.13038)
 
 	Yu Cui, Hongyang Du
+
++ [IConMark: Robust Interpretable Concept-Based Watermark For AI Images](https://arxiv.org//abs/2507.13407)
+
+	Vinu Sankar Sadasivan, Mehrdad Saberi, Soheil Feizi
+
++ [Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers](https://arxiv.org//abs/2507.13474)
+
+	Liang Lin, Zhihao Xu, Xuehai Tang, Shi Liu, Biyu Zhou, Fuqing Zhu, Jizhong Han, Songlin Hu
+
++ [Revisiting LLM Value Probing Strategies: Are They Robust and Expressive?](https://arxiv.org//abs/2507.13490)
+
+	Siqi Shen, Mehar Singh, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Rada Mihalcea
+
++ [Fake or Real: The Impostor Hunt in Texts for Space Operations](https://arxiv.org//abs/2507.13508)
+
+	Agata Kaczmarek (1), Dawid Płudowski (1), Piotr Wilczyński (1), Przemysław Biecek (1), Krzysztof Kotowski (2), Ramez Shendy (2), Jakub Nalepa (2 and 3), Artur Janicki (1), Evridiki Ntagiou (4) ((1) Warsaw University of Technology, (2) KP Labs, (3) Silesian University of Technology, (4) European Space Agency, European Space Operations Center)
 
 # 2025-07-16
 + [Spatial Frequency Modulation for Semantic Segmentation](https://arxiv.org//abs/2507.11893)
@@ -106,6 +159,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Safeguarding Federated Learning-based Road Condition Classification](https://arxiv.org//abs/2507.12568)
 
 	Sheng Liu, Panos Papadimitratos
+
++ [Minimalist Concept Erasure in Generative Models](https://arxiv.org//abs/2507.13386)
+
+	Yang Zhang, Er Jin, Yanfei Dong, Yixuan Wu, Philip Torr, Ashkan Khakzar, Johannes Stegmaier, Kenji Kawaguchi
 
 # 2025-07-15
 + [Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization](https://arxiv.org//abs/2507.10923)
@@ -7462,6 +7519,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [SPEED-RL: Faster Training of Reasoning Models via Online Curriculum Learning](https://arxiv.org//abs/2506.09016)
 
 	Ruiqi Zhang, Daman Arora, Song Mei, Andrea Zanette
+
++ [DiffGradCAM: A Universal Class Activation Map Resistant to Adversarial Training](https://arxiv.org//abs/2506.08514)
+
+	Jacob Piland, Chris Sweet, Adam Czajka
 
 # 2025-06-09
 + [Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph](https://arxiv.org//abs/2506.08098)
@@ -21232,6 +21293,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	John Yang, Kilian Leret, Carlos E. Jimenez, Alexander Wettig, Kabir Khandpur, Yanzhe Zhang, Binyuan Hui, Ofir Press, Ludwig Schmidt, Diyi Yang
 
++ [Sparsification Under Siege: Defending Against Poisoning Attacks in Communication-Efficient Federated Learning](https://arxiv.org//abs/2505.01454)
+
+	Zhiyong Jin, Runhua Xu, Chao Li, Yizhong Liu, Jianxin Li
+
 # 2025-04-29
 + [TAMO:Fine-Grained Root Cause Analysis via Tool-Assisted LLM Agent with Multi-Modality Observation Data](https://arxiv.org//abs/2504.20462)
 
@@ -25051,6 +25116,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Chenlong Wang, Zhaoyang Chu, Zhengxiang Cheng, Xuyi Yang, Kaiyue Qiu, Yao Wan, Zhou Zhao, Xuanhua Shi, Dongping Chen
 
++ [Can Indirect Prompt Injection Attacks Be Detected and Removed?](https://arxiv.org//abs/2502.16580)
+
+	Yulin Chen, Haoran Li, Yuan Sui, Yufei He, Yue Liu, Yangqiu Song, Bryan Hooi
+
 # 2025-02-22
 + [Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals](https://arxiv.org//abs/2502.16101)
 
@@ -27388,6 +27457,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [The Impact of Input Order Bias on Large Language Models for Software Fault Localization](https://arxiv.org//abs/2412.18750)
 
 	Md Nakhla Rafi, Dong Jae Kim, Tse-Hsun Chen, Shaowei Wang
+
++ [Robustness Evaluation of Offline Reinforcement Learning for Robot Control Against Action Perturbations](https://arxiv.org//abs/2412.18781)
+
+	Shingo Ayabe, Takuto Otomo, Hiroshi Kera, Kazuhiko Kawamoto
 
 # 2024-12-24
 + [LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment](https://arxiv.org//abs/2412.18135)
