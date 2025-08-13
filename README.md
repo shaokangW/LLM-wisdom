@@ -1,6 +1,75 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2025-08-12
++ [Safe Semantics, Unsafe Interpretations: Tackling Implicit Reasoning Safety in Large Vision-Language Models](https://arxiv.org//abs/2508.08926)
+
+	Wei Cai, Jian Zhao, Yuchu Jiang, Tianle Zhang, Xuelong Li
+
++ [SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](https://arxiv.org//abs/2508.09105)
+
+	Shixuan Sun, Siyuan Liang, Ruoyu Chen, Jianjie Huang, Jingzhi Li, Xiaochun Cao
+
++ [AI Security Map: Holistic Organization of AI Security Technologies and Impacts on Stakeholders](https://arxiv.org//abs/2508.08583)
+
+	Hiroya Kato, Kentaro Kita, Kento Hasegawa, Seira Hidano
+
++ [Generative AI for Critical Infrastructure in Smart Grids: A Unified Framework for Synthetic Data Generation and Anomaly Detection](https://arxiv.org//abs/2508.08593)
+
+	Aydin Zaboli, Junho Hong
+
++ [Securing Educational LLMs: A Generalised Taxonomy of Attacks on LLMs and DREAD Risk Assessment](https://arxiv.org//abs/2508.08629)
+
+	Farzana Zahid, Anjalika Sewwandi, Lee Brandon, Vimal Kumar, Roopak Sinha
+
++ [SafeFix: Targeted Model Repair via Controlled Image Generation](https://arxiv.org//abs/2508.08701)
+
+	Ouyang Xu, Baoming Zhang, Ruiyu Mao, Yunhui Guo
+
++ [EditMF: Drawing an Invisible Fingerprint for Your Large Language Models](https://arxiv.org//abs/2508.08836)
+
+	Jiaxuan Wu, Yinghan Zhou, Wanli Peng, Yiming Xue, Juan Wen, Ping Zhong
+
++ [Attacks and Defenses Against LLM Fingerprinting](https://arxiv.org//abs/2508.09021)
+
+	Kevin Kurian, Ethan Holland, Sean Oesch
+
++ [When Deepfakes Look Real: Detecting AI-Generated Faces with Unlabeled Data due to Annotation Challenges](https://arxiv.org//abs/2508.09022)
+
+	Zhiqiang Yang, Renshuai Tao, Xiaolong Zheng, Guodong Yang, Chunjie Zhang
+
++ [Privacy-protected Retrieval-Augmented Generation for Knowledge Graph Question Answering](https://arxiv.org//abs/2508.08785)
+
+	Yunfeng Ning, Mayi Xu, Jintao Wen, Qiankun Pi, Yuanyuan Zhu, Ming Zhong, Jiawei Jiang, Tieyun Qian
+
++ [MADPromptS: Unlocking Zero-Shot Morphing Attack Detection with Multiple Prompt Aggregation](https://arxiv.org//abs/2508.08939)
+
+	Eduarda Caldeira, Fadi Boutros, Naser Damer
+
++ [Deep Learning Models for Robust Facial Liveness Detection](https://arxiv.org//abs/2508.09094)
+
+	Oleksandr Kuznetsov, Emanuele Frontoni, Luca Romeo, Riccardo Rosati, Andrea Maranesi, Alessandro Muscatello
+
++ [Exploring Cross-Stage Adversarial Transferability in Class-Incremental Continual Learning](https://arxiv.org//abs/2508.08920)
+
+	Jungwoo Kim, Jong-Seok Lee
+
++ [Fre-CW: Targeted Attack on Time Series Forecasting using Frequency Domain Loss](https://arxiv.org//abs/2508.08955)
+
+	Naifu Feng, Lixing Chen, Junhua Tang, Hua Ding, Jianhua Li, Yang Bai
+
++ [Multi-Target Backdoor Attacks Against Speaker Recognition](https://arxiv.org//abs/2508.08559)
+
+	Alexandrine Fortier, Sonal Joshi, Thomas Thebaud, Jesus Villalba Lopez, Najim Dehak, Patrick Cardinal
+
++ [Evasive Ransomware Attacks Using Low-level Behavioral Adversarial Examples](https://arxiv.org//abs/2508.08656)
+
+	Manabu Hirano, Ryotaro Kobayashi
+
++ [Never Compromise to Vulnerabilities: A Comprehensive Survey on AI Governance](https://arxiv.org//abs/2508.08789)
+
+	Yuchu Jiang, Jian Zhao, Yuchen Yuan, Tianle Zhang, Yao Huang, Yanghao Zhang, Yan Wang, Yanshu Li, Xizhong Guo, Yusheng Zhao, Jun Zhang, Zhi Zhang, Xiaojian Lin, Yixiu Zou, Haoxuan Ma, Yuhu Shang, Yuzhi Hu, Keshu Cai, Ruochen Zhang, Boyuan Chen, Yilan Gao, Ziheng Jiao, Yi Qin, Shuangjun Du, Xiao Tong, Zhekun Liu, Yu Chen, Xuankun Rong, Rui Wang, Yejie Zheng, Zhaoxin Fan, Hongyuan Zhang, Pan Zhou, Lei Jin, Hao Zhao, Xu Yang, Jiaojiao Zhao, Jianshu Li, Joey Tianyi Zhou, Zhi-Qi Cheng, Longtao Huang, Zhiyi Liu, Zheng Zhu, Jianan Li, Gang Wang, Qi Li, Xu-Yao Zhang, Yaodong Yang, Mang Ye, Wenqi Ren, Zhaofeng He, Hang Su, Rongrong Ni, Liping Jing, Xingxing Wei, Junliang Xing, Massimo Alioto, Shengmei Shen, Petia Radeva, Dacheng Tao, Ya-Qin Zhang, Shuicheng Yan, Chi Zhang, Zhongjiang He, Xuelong Li
+
 # 2025-08-11
 + [Optimization of Private Semantic Communication Performance: An Uncooperative Covert Communication Method](https://arxiv.org//abs/2508.07586)
 
@@ -97,6 +166,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Fully-Fluctuating Participation in Sleepy Consensus](https://arxiv.org//abs/2508.08068)
 
 	Yuval Efron, Joachim Neu, Toniann Pitassi
+
++ [Processing of synthetic data in AI development for healthcare and the definition of personal data in EU law](https://arxiv.org//abs/2508.08353)
+
+	Vibeke Binz Vallevik, Anne Kjersti C. Befring, Severin Elvatun, Jan Franz Nygaard
+
++ [VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models](https://arxiv.org//abs/2508.08521)
+
+	Mansi Phute (Georgia Tech), Ravikumar Balakrishnan (HiddenLayer)
+
++ [Designing with Deception: ML- and Covert Gate-Enhanced Camouflaging to Thwart IC Reverse Engineering](https://arxiv.org//abs/2508.08462)
+
+	Junling Fan, David Koblah, Domenic Forte
 
 # 2025-08-10
 + [Hallucination as a Computational Boundary: A Hierarchy of Inevitability and the Oracle Escape](https://arxiv.org//abs/2508.07334)
@@ -1423,6 +1504,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [GATEBLEED: Exploiting On-Core Accelerator Power Gating for High Performance & Stealthy Attacks on AI](https://arxiv.org//abs/2507.17033)
 
 	Joshua Kalyanapu, Farshad Dizani, Darsh Asher, Azam Ghanbari, Rosario Cammarota, Aydin Aysu, Samira Mirbagher Ajorpaz
+
++ [Argument Quality Annotation and Gender Bias Detection in Financial Communication through Large Language Models](https://arxiv.org//abs/2508.08262)
+
+	Alaa Alhamzeh, Mays Al Rebdawi
 
 # 2025-07-21
 + [Challenges of Trustworthy Federated Learning: What's Done, Current Trends and Remaining Work](https://arxiv.org//abs/2507.15796)
@@ -10596,6 +10681,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Qiuhan Han, Qian Wang, Atsushi Yoshikawa, Masayuki Yamamura
 
++ [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org//abs/2506.03850)
+
+	Liang Chen, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong
+
 # 2025-06-03
 + [Helpful Agent Meets Deceptive Judge: Understanding Vulnerabilities in Agentic Workflows](https://arxiv.org//abs/2506.03332)
 
@@ -14091,6 +14180,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Label Leakage in Federated Inertial-based Human Activity Recognition](https://arxiv.org//abs/2505.20924)
 
 	Marius Bock, Maximilian Hopp, Kristof Van Laerhoven, Michael Moeller
+
++ [Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration](https://arxiv.org//abs/2505.21472)
+
+	Mehrdad Fazli, Bowen Wei, Ahmet Sari, Ziwei Zhu
 
 # 2025-05-26
 + [CaseEdit: Enhancing Localized Commonsense Reasoning via Null-Space Constrained Knowledge Editing in Small Parameter Language Models](https://arxiv.org//abs/2505.19383)
@@ -17857,6 +17950,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Enhancing Certified Robustness via Block Reflector Orthogonal Layers and Logit Annealing Loss](https://arxiv.org//abs/2505.15174)
 
 	Bo-Han Lai, Pin-Han Huang, Bo-Han Kung, Shang-Tse Chen
+
++ [Few-Shot Adversarial Low-Rank Fine-Tuning of Vision-Language Models](https://arxiv.org//abs/2505.15130)
+
+	Sajjad Ghiasvand, Haniyeh Ehsani Oskouie, Mahnoosh Alizadeh, Ramtin Pedarsani
 
 # 2025-05-20
 + [Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models](https://arxiv.org//abs/2505.13828)
@@ -32428,6 +32525,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [A Survey on Speech Deepfake Detection](https://arxiv.org//abs/2404.13914)
 
 	Menglu Li, Yasaman Ahmadiadli, Xiao-Ping Zhang
+
++ [Multidimensional Adaptive Coefficient for Inference Trajectory Optimization in Flow and Diffusion](https://arxiv.org//abs/2404.14161)
+
+	Dohoon Lee, Jaehyun Park, Hyunwoo J. Kim, Kyogu Lee
 
 # 2024-04-20
 + [Personalized Wireless Federated Learning for Large Language Models](https://arxiv.org//abs/2404.13238)
