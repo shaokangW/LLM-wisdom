@@ -1,6 +1,51 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2025-08-13
++ [Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference](https://arxiv.org//abs/2508.09442)
+
+	Zhifan Luo, Shuo Shao, Su Zhang, Lijing Zhou, Yuke Hu, Chenxu Zhao, Zhihao Liu, Zhan Qin
+
++ [NeuronTune: Fine-Grained Neuron Modulation for Balanced Safety-Utility Alignment in LLMs](https://arxiv.org//abs/2508.09473)
+
+	Birong Pan, Mayi Xu, Qiankun Pi, Jianhao Chen, Yuanyuan Zhu, Ming Zhong, Tieyun Qian
+
++ [Demystifying the Role of Rule-based Detection in AI Systems for Windows Malware Detection](https://arxiv.org//abs/2508.09652)
+
+	Andrea Ponte, Luca Demetrio, Luca Oneto, Ivan Tesfai Ogbu, Battista Biggio, Fabio Roli
+
++ [The Surprising Effectiveness of Membership Inference with Simple N-Gram Coverage](https://arxiv.org//abs/2508.09603)
+
+	Skyler Hallinan, Jaehun Jung, Melanie Sclar, Ximing Lu, Abhilasha Ravichander, Sahana Ramnath, Yejin Choi, Sai Praneeth Karimireddy, Niloofar Mireshghallah, Xiang Ren
+
++ [Slow Tuning and Low-Entropy Masking for Safe Chain-of-Thought Distillation](https://arxiv.org//abs/2508.09666)
+
+	Ziyang Ma, Qingyue Yuan, Linhai Zhang, Deyu Zhou
+
++ [The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models](https://arxiv.org//abs/2508.09716)
+
+	Ridwan Mahbub, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, Mizanur Rahman, Mir Tafseer Nayeem, Enamul Hoque
+
++ [IAG: Input-aware Backdoor Attack on VLMs for Visual Grounding](https://arxiv.org//abs/2508.09456)
+
+	Junxian Li, Beining Xu, Di Zhang
+
++ [CLIP-Flow: A Universal Discriminator for AI-Generated Images Inspired by Anomaly Detection](https://arxiv.org//abs/2508.09477)
+
+	Zhipeng Yuan, Kai Wang, Weize Quan, Dong-Ming Yan, Tieru Wu
+
++ [Improving the Speaker Anonymization Evaluation's Robustness to Target Speakers with Adversarial Learning](https://arxiv.org//abs/2508.09803)
+
+	Carlos Franzreb, Arnab Das, Tim Polzehl, Sebastian Möller
+
++ [Security Analysis of ChatGPT: Threats and Privacy Risks](https://arxiv.org//abs/2508.09426)
+
+	Yushan Xiang, Zhongwen Li, Xiaoqi Li
+
++ [Extending the OWASP Multi-Agentic System Threat Modeling Guide: Insights from Multi-Agent Security Research](https://arxiv.org//abs/2508.09815)
+
+	Klaudia Krawiecka, Christian Schroeder de Witt
+
 # 2025-08-12
 + [Safe Semantics, Unsafe Interpretations: Tackling Implicit Reasoning Safety in Large Vision-Language Models](https://arxiv.org//abs/2508.08926)
 
@@ -69,6 +114,26 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Never Compromise to Vulnerabilities: A Comprehensive Survey on AI Governance](https://arxiv.org//abs/2508.08789)
 
 	Yuchu Jiang, Jian Zhao, Yuchen Yuan, Tianle Zhang, Yao Huang, Yanghao Zhang, Yan Wang, Yanshu Li, Xizhong Guo, Yusheng Zhao, Jun Zhang, Zhi Zhang, Xiaojian Lin, Yixiu Zou, Haoxuan Ma, Yuhu Shang, Yuzhi Hu, Keshu Cai, Ruochen Zhang, Boyuan Chen, Yilan Gao, Ziheng Jiao, Yi Qin, Shuangjun Du, Xiao Tong, Zhekun Liu, Yu Chen, Xuankun Rong, Rui Wang, Yejie Zheng, Zhaoxin Fan, Hongyuan Zhang, Pan Zhou, Lei Jin, Hao Zhao, Xu Yang, Jiaojiao Zhao, Jianshu Li, Joey Tianyi Zhou, Zhi-Qi Cheng, Longtao Huang, Zhiyi Liu, Zheng Zhu, Jianan Li, Gang Wang, Qi Li, Xu-Yao Zhang, Yaodong Yang, Mang Ye, Wenqi Ren, Zhaofeng He, Hang Su, Rongrong Ni, Liping Jing, Xingxing Wei, Junliang Xing, Massimo Alioto, Shengmei Shen, Petia Radeva, Dacheng Tao, Ya-Qin Zhang, Shuicheng Yan, Chi Zhang, Zhongjiang He, Xuelong Li
+
++ [Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems](https://arxiv.org//abs/2508.09230)
+
+	Yutong Wu, Jie Zhang, Yiming Li, Chao Zhang, Qing Guo, Nils Lukas, Tianwei Zhang
+
++ [Can AI Keep a Secret? Contextual Integrity Verification: A Provable Security Architecture for LLMs](https://arxiv.org//abs/2508.09288)
+
+	Aayush Gupta
+
++ [Exact Verification of Graph Neural Networks with Incremental Constraint Solving](https://arxiv.org//abs/2508.09320)
+
+	Minghao Liu, Chia-Hsuan Lu, Marta Kwiatkowska
+
++ [Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users](https://arxiv.org//abs/2508.09245)
+
+	Jeffri Murrugarra-LLerena, Haoran Niu, K. Suzanne Barber, Hal Daumé III, Yang Trista Cao, Paola Cascante-Bonilla
+
++ [Constrained Black-Box Attacks Against Multi-Agent Reinforcement Learning](https://arxiv.org//abs/2508.09275)
+
+	Amine Andam, Jamal Bentahar, Mustapha Hedabou
 
 # 2025-08-11
 + [Optimization of Private Semantic Communication Performance: An Uncooperative Covert Communication Method](https://arxiv.org//abs/2508.07586)
@@ -178,6 +243,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Designing with Deception: ML- and Covert Gate-Enhanced Camouflaging to Thwart IC Reverse Engineering](https://arxiv.org//abs/2508.08462)
 
 	Junling Fan, David Koblah, Domenic Forte
+
++ [Towards Effective MLLM Jailbreaking Through Balanced On-Topicness and OOD-Intensity](https://arxiv.org//abs/2508.09218)
+
+	Zuoou Li, Weitong Zhang, Jingyuan Wang, Shuyuan Zhang, Wenjia Bai, Bernhard Kainz, Mengyun Qiao
 
 # 2025-08-10
 + [Hallucination as a Computational Boundary: A Hierarchy of Inevitability and the Oracle Escape](https://arxiv.org//abs/2508.07334)
@@ -366,6 +435,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Andrey Sidorenko, Paul Tiwald
 
++ [Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks](https://arxiv.org//abs/2508.09190)
+
+	Bing Han, Feifei Zhao, Dongcheng Zhao, Guobin Shen, Ping Wu, Yu Shi, Yi Zeng
+
++ [Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models: A Unified and Accurate Approach](https://arxiv.org//abs/2508.09201)
+
+	Shuang Liang, Zhihao Xu, Jialing Tao, Hui Xue, Xiting Wang
+
 # 2025-08-07
 + [MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models](https://arxiv.org//abs/2508.05083)
 
@@ -446,6 +523,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [System Security Framework for 5G Advanced /6G IoT Integrated Terrestrial Network-Non-Terrestrial Network (TN-NTN) with AI-Enabled Cloud Security](https://arxiv.org//abs/2508.05707)
 
 	Sasa Maric, Rasil Baidar, Robert Abbas, Sam Reisenfeld
+
++ [A Neurosymbolic Framework for Interpretable Cognitive Attack Detection in Augmented Reality](https://arxiv.org//abs/2508.09185)
+
+	Rongqian Chen, Allison Andreyev, Yanming Xiu, Mahdi Imani, Bin Li, Maria Gorlatova, Gang Tan, Tian Lan
+
++ [RL-MoE: An Image-Based Privacy Preserving Approach In Intelligent Transportation System](https://arxiv.org//abs/2508.09186)
+
+	Abdolazim Rezaei, Mehdi Sookhak, Mahboobeh Haghparast
 
 # 2025-08-06
 + [The Emotional Baby Is Truly Deadly: Does your Multimodal Large Reasoning Model Have Emotional Flattery towards Humans?](https://arxiv.org//abs/2508.03986)
@@ -704,6 +789,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Anti-Tamper Protection for Unauthorized Individual Image Generation](https://arxiv.org//abs/2508.06325)
 
 	Zelin Li, Ruohan Zong, Yifan Liu, Ruichen Yao, Yaokun Liu, Yang Zhang, Dong Wang
+
++ [EvaDrive: Evolutionary Adversarial Policy Optimization for End-to-End Autonomous Driving](https://arxiv.org//abs/2508.09158)
+
+	Siwen Jiao, Kangan Qian, Hao Ye, Yang Zhong, Ziang Luo, Sicong Jiang, Zilin Huang, Yangyi Fang, Jinyu Miao, Zheng Fu, Yunlong Wang, Kun Jiang, Diange Yang, Rui Fan, Baoyun Peng
 
 # 2025-08-04
 + [TRACEALIGN -- Tracing the Drift: Attributing Alignment Failures to Training-Time Belief Sources in LLMs](https://arxiv.org//abs/2508.02063)
@@ -3844,6 +3933,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Survivability of Backdoor Attacks on Unconstrained Face Recognition Systems](https://arxiv.org//abs/2507.01607)
 
 	Quentin Le Roux, Yannick Teglia, Teddy Furon, Philippe Loubet-Moundi, Eric Bourbao
+
++ [3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](https://arxiv.org//abs/2507.01367)
+
+	Tianrui Lou, Xiaojun Jia, Siyuan Liang, Jiawei Liang, Ming Zhang, Yanjun Xiao, Xiaochun Cao
 
 # 2025-07-01
 + [ASTRO: Teaching Language Models to Reason by Reflecting and Backtracking In-Context](https://arxiv.org//abs/2507.00417)
@@ -26868,6 +26961,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Honglin Guo, Kai Lv, Qipeng Guo, Tianyi Liang, Zhiheng Xi, Demin Song, Qiuyinzhe Zhang, Yu Sun, Kai Chen, Xipeng Qiu, Tao Gui
 
++ [One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in LLMs](https://arxiv.org//abs/2502.18862)
+
+	Jacob Dunefsky, Arman Cohan
+
 # 2025-02-25
 + [Faster, Cheaper, Better: Multi-Objective Hyperparameter Optimization for LLM and RAG Systems](https://arxiv.org//abs/2502.18635)
 
@@ -29963,6 +30060,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Chengwei Hu, Jianhui Zheng, Yancheng He, Hangyu Guo, Junguang Jiang, Han Zhu, Kai Sun, Yuning Jiang, Wenbo Su, Bo Zheng
 
++ [A Taxonomy of System-Level Attacks on Deep Learning Models in Autonomous Vehicles](https://arxiv.org//abs/2412.04510)
+
+	Masoud Jamshidiyan Tehrani, Jinhan Kim, Rosmael Zidane Lekeufack Foulefack, Alessandro Marchetto, Paolo Tonella
+
 # 2024-12-03
 + [Enhancing LLMs with Smart Preprocessing for EHR Analysis](https://arxiv.org//abs/2412.02868)
 
@@ -31405,6 +31506,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Xiaoyu Wang, Haoyong Ouyang, Balu Bhasuran, Xiao Luo, Karim Hanna, Mia Liza A. Lustria, Carl Yang, Zhe He
 
+
++ [Federated Learning for Smart Grid: A Survey on Applications and Potential Vulnerabilities](https://arxiv.org//abs/2409.10764)
+
+	Zikai Zhang, Suman Rath, Jiahao Xu, Tingsong Xiao
 
 # 2024-09-14
 + [Hacking, The Lazy Way: LLM Augmented Pentesting](https://arxiv.org//abs/2409.09493)
@@ -33109,6 +33214,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Privacy Analysis of Samsung's Crowd-Sourced Bluetooth Location Tracking System](https://arxiv.org//abs/2210.14702)
 
 	Tingfeng Yu, James Henderson, Alwen Tiu, Thomas Haines
+
+# 2022-10-13
++ [LEAVES: Learning Views for Time-Series Biobehavioral Data in Contrastive Learning](https://arxiv.org//abs/2210.07340)
+
+	Han Yu, Huiyuan Yang, Akane Sano
 
 # 2022-10-12
 + [Quasi-symbolic Semantic Geometry over Transformer-based Variational AutoEncoder](https://arxiv.org//abs/2210.06230)
