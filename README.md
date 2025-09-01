@@ -1,6 +1,51 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2025-08-29
++ [zkLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs](https://arxiv.org//abs/2508.21393)
+
+	Guofu Liao, Taotao Wang, Shengli Zhang, Jiqun Zhang, Shi Long, Dacheng Tao
+
++ [Igniting Creative Writing in Small Language Models: LLM-as-a-Judge versus Multi-Agent Refined Rewards](https://arxiv.org//abs/2508.21476)
+
+	Xiaolong Wei, Bo Lu, Xingyu Zhang, Zhejun Zhao, Dongdong Shen, Long Xia, Dawei Yin
+
++ [ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](https://arxiv.org//abs/2508.21496)
+
+	Hao Lu, Jiahao Wang, Yaolun Zhang, Ruohui Wang, Xuanyu Zheng, Yepeng Tang, Dahua Lin, Lewei Lu
+
++ [Entropy-Based Non-Invasive Reliability Monitoring of Convolutional Neural Networks](https://arxiv.org//abs/2508.21715)
+
+	Amirhossein Nazeri, Wael Hafez
+
++ [The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning](https://arxiv.org//abs/2508.21816)
+
+	Yiming Lin, Yuchen Niu, Shang Wang, Kaizhu Huang, Qiufeng Wang, Xiao-Bo Jin
+
++ [Adversarial Patch Attack for Ship Detection via Localized Augmentation](https://arxiv.org//abs/2508.21472)
+
+	Chun Liu, Panpan Ding, Zheng Zheng, Hailong Wang, Bingqian Zhu, Tao Xu, Zhigang Han, Jiayao Wang
+
++ [OASIS: Harnessing Diffusion Adversarial Network for Ocean Salinity Imputation using Sparse Drifter Trajectories](https://arxiv.org//abs/2508.21570)
+
+	Bo Li, Yingqi Feng, Ming Jin, Xin Zheng, Yufei Tang, Laurent Cherubin, Alan Wee-Chung Liew, Can Wang, Qinghua Lu, Jingwei Yao, Shirui Pan, Hong Zhang, Xingquan Zhu
+
++ [I Stolenly Swear That I Am Up to (No) Good: Design and Evaluation of Model Stealing Attacks](https://arxiv.org//abs/2508.21654)
+
+	Daryna Oliynyk, Rudolf Mayer, Kathrin Grosse, Andreas Rauber
+
++ [SoK: Large Language Model-Generated Textual Phishing Campaigns End-to-End Analysis of Generation, Characteristics, and Detection](https://arxiv.org//abs/2508.21457)
+
+	Fengchao Chen, Tingmin Wu, Van Nguyen, Carsten Rudolph
+
++ [Detecting Stealthy Data Poisoning Attacks in AI Code Generators](https://arxiv.org//abs/2508.21636)
+
+	Cristina Improta
+
++ [Cybersecurity AI: Hacking the AI Hackers via Prompt Injection](https://arxiv.org//abs/2508.21669)
+
+	Víctor Mayoral-Vilches, Per Mannermaa Rynning
+
 # 2025-08-28
 + [Governable AI: Provable Safety Under Extreme Threat Models](https://arxiv.org//abs/2508.20411)
 
@@ -101,6 +146,26 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [PromptSleuth: Detecting Prompt Injection via Semantic Intent Invariance](https://arxiv.org//abs/2508.20890)
 
 	Mengxiao Wang, Yuxuan Zhang, Guofei Gu
+
++ [Safe-Control: A Safety Patch for Mitigating Unsafe Content in Text-to-Image Generation Models](https://arxiv.org//abs/2508.21099)
+
+	Xiangtao Meng, Yingkai Dong, Ning Yu, Li Wang, Zheng Li, Shanqing Guo
+
++ [Learning to Generate Unit Test via Adversarial Reinforcement Learning](https://arxiv.org//abs/2508.21107)
+
+	Dongjun Lee, Changho Hwang, Kimin Lee
+
++ [Enhancing Robustness of Autoregressive Language Models against Orthographic Attacks via Pixel-based Approach](https://arxiv.org//abs/2508.21206)
+
+	Han Yang, Jian Lan, Yihong Liu, Hinrich Schütze, Thomas Seidl
+
++ [GCAV: A Global Concept Activation Vector Framework for Cross-Layer Consistency in Interpretability](https://arxiv.org//abs/2508.21197)
+
+	Zhenghao He, Sanchit Sinha, Guangzhi Xiong, Aidong Zhang
+
++ [Privacy Auditing Synthetic Data Release through Local Likelihood Attacks](https://arxiv.org//abs/2508.21146)
+
+	Joshua Ward, Chi-Hua Wang, Guang Cheng
 
 # 2025-08-27
 + [Caught in the Act: a mechanistic approach to detecting deception](https://arxiv.org//abs/2508.19505)
@@ -20914,6 +20979,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Qianyue Hu, Junyan Wu, Wei Lu, Xiangyang Luo
 
++ [Improving Google A2A Protocol: Protecting Sensitive Data and Mitigating Unintended Harms in Multi-Agent Systems](https://arxiv.org//abs/2505.12490)
+
+	Yedidel Louck, Ariel Stulman, Amit Dvir
+
 # 2025-05-17
 + [Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling](https://arxiv.org//abs/2505.11792)
 
@@ -26270,6 +26339,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Large Language Models as Span Annotators](https://arxiv.org//abs/2504.08697)
 
 	Zdeněk Kasner, Vilém Zouhar, Patrícia Schmidtová, Ivan Kartáč, Kristýna Onderková, Ondřej Plátek, Dimitra Gkatzia, Saad Mahamood, Ondřej Dušek, Simone Balloccu
+
++ [On the Adversarial Robustness of Spiking Neural Networks Trained by Local Learning](https://arxiv.org//abs/2504.08897)
+
+	Jiaqi Lin, Abhronil Sengupta
 
 # 2025-04-10
 + [Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](https://arxiv.org//abs/2504.07347)
@@ -34293,6 +34366,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [On the Challenges of Fuzzing Techniques via Large Language Models](https://arxiv.org//abs/2402.00350)
 
 	Linghan Huang, Peizhou Zhao, Huaming Chen, Lei Ma
+
++ [Survey of Privacy Threats and Countermeasures in Federated Learning](https://arxiv.org//abs/2402.00342)
+
+	Masahiro Hayashitani, Junki Mori, Isamu Teranishi
 
 # 2024-01-30
 + [Incoherent Probability Judgments in Large Language Models](https://arxiv.org//abs/2401.16646)
