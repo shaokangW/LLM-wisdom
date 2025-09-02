@@ -46,6 +46,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Víctor Mayoral-Vilches, Per Mannermaa Rynning
 
++ [A Survey on Current Trends and Recent Advances in Text Anonymization](https://arxiv.org//abs/2508.21587)
+
+	Tobias Deußer, Lorenz Sparrenberg, Armin Berger, Max Hahnbück, Christian Bauckhage, Rafet Sifa
+
++ [Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee (Extended Version)](https://arxiv.org//abs/2508.21440)
+
+	Shan Wang, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, Jiannong Cao, Xinwen Fu
+
 # 2025-08-28
 + [Governable AI: Provable Safety Under Extreme Threat Models](https://arxiv.org//abs/2508.20411)
 
@@ -31698,6 +31706,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Secure Reinforcement Learning via Shuffle Privacy Model](https://arxiv.org//abs/2411.11647)
 
 	Shaojie Bai, Mohammad Sadegh Talebi, Chengcheng Zhao, Peng Cheng, Jiming Chen
+
++ [CLUE-MARK: Watermarking Diffusion Models using CLWE](https://arxiv.org//abs/2411.11434)
+
+	Kareem Shehata, Aashish Kolluri, Prateek Saxena
 
 # 2024-11-17
 + [JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Representation and Circuit](https://arxiv.org//abs/2411.11114)
