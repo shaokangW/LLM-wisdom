@@ -1,6 +1,71 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2025-09-03
++ [Situating AI Agents in their World: Aspective Agentic AI for Dynamic Partially Observable Information Systems](https://arxiv.org//abs/2509.03380)
+
+	Peter J. Bentley, Soo Ling Lim, Fuyuki Ishikawa
+
++ [ANNIE: Be Careful of Your Robots](https://arxiv.org//abs/2509.03383)
+
+	Yiyang Huang, Zixuan Wang, Zishen Wan, Yapeng Tian, Haobo Xu, Yinhe Han, Yiming Gan
+
++ [Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption](https://arxiv.org//abs/2509.03024)
+
+	Moontaha Nishat Chowdhury, André Bauer, Minxuan Zhou
+
++ [AutoDetect: Designing an Autoencoder-based Detection Method for Poisoning Attacks on Object Detection Applications in the Military Domain](https://arxiv.org//abs/2509.03179)
+
+	Alma M. Liezenga, Stefan Wijnja, Puck de Haan, Niels W. T. Brink, Jip J. van Stijn, Yori Kamphuis, Klamer Schutte
+
++ [On the MIA Vulnerability Gap Between Private GANs and Diffusion Models](https://arxiv.org//abs/2509.03341)
+
+	Ilana Sebag, Jean-Yves Franceschi, Alain Rakotomamonjy, Alexandre Allauzen, Jamal Atif
+
++ [SafeProtein: Red-Teaming Framework and Benchmark for Protein Foundation Models](https://arxiv.org//abs/2509.03487)
+
+	Jigang Fan, Zhenghong Zhou, Ruofan Jin, Le Cong, Mengdi Wang, Zaixi Zhang
+
++ [Enhancing Robustness in Post-Processing Watermarking: An Ensemble Attack Network Using CNNs and Transformers](https://arxiv.org//abs/2509.03006)
+
+	Tzuhsuan Huang, Cheng Yu Yeo, Tsai-Ling Huang, Hong-Han Shuai, Wen-Huang Cheng, Jun-Cheng Chen
+
++ [Background Matters Too: A Language-Enhanced Adversarial Framework for Person Re-Identification](https://arxiv.org//abs/2509.03032)
+
+	Kaicong Huang, Talha Azfar, Jack M. Reilly, Thomas Guggisberg, Ruimin Ke
+
++ [High Cursive Complex Character Recognition using GAN External Classifier](https://arxiv.org//abs/2509.03062)
+
+	S M Rafiuddin
+
++ [Backdoor Poisoning Attack Against Face Spoofing Attack Detection Methods](https://arxiv.org//abs/2509.03108)
+
+	Shota Iwamatsu, Koichi Ito, Takafumi Aoki
+
++ [Prompt-Guided Patch UNet-VAE with Adversarial Supervision for Adrenal Gland Segmentation in Computed Tomography Medical Images](https://arxiv.org//abs/2509.03188)
+
+	Hania Ghouse, Muzammil Behzad
+
++ [Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation](https://arxiv.org//abs/2509.02970)
+
+	Kaoru Otsuka, Yuki Takezawa, Makoto Yamada
+
++ [LSAM: Asynchronous Distributed Training with Landscape-Smoothed Sharpness-Aware Minimization](https://arxiv.org//abs/2509.03110)
+
+	Yunfei Teng, Sixin Zhang
+
++ [EverTracer: Hunting Stolen Large Language Models via Stealthy and Robust Probabilistic Fingerprint](https://arxiv.org//abs/2509.03058)
+
+	Zhenhua Xu, Meng Han, Wenpeng Xing
+
++ [Exposing Privacy Risks in Anonymizing Clinical Data: Combinatorial Refinement Attacks on k-Anonymity Without Auxiliary Information](https://arxiv.org//abs/2509.03350)
+
+	Somiya Chhillar, Mary K. Righi, Rebecca E. Sutter, Evgenios M. Kornaropoulos
+
++ [Federated Learning: An approach with Hybrid Homomorphic Encryption](https://arxiv.org//abs/2509.03427)
+
+	Pedro Correia, Ivan Silva, Ivone Amorim, Eva Maia, Isabel Praça
+
 # 2025-09-02
 + [Privacy-Utility Trade-off in Data Publication: A Bilevel Optimization Framework with Curvature-Guided Perturbation](https://arxiv.org//abs/2509.02048)
 
@@ -37,6 +102,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Targeted Physical Evasion Attacks in the Near-Infrared Domain](https://arxiv.org//abs/2509.02042)
 
 	Pascal Zimmer, Simon Lachnit, Alexander Jan Zielinski, Ghassan Karame
+
++ [Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models](https://arxiv.org//abs/2509.02859)
+
+	Sandipana Dowerah, Atharva Kulkarni, Ajinkya Kulkarni, Hoan My Tran, Joonas Kalda, Artem Fedorchenko, Benoit Fauve, Damien Lolive, Tanel Alumäe, Matthew Magimai Doss
+
++ [Managing Correlations in Data and Privacy Demand](https://arxiv.org//abs/2509.02856)
+
+	Syomantak Chaudhuri, Thomas A. Courtade
+
++ [GPS Spoofing Attacks on Automated Frequency Coordination System in Wi-Fi 6E and Beyond](https://arxiv.org//abs/2509.02824)
+
+	Yilu Dong (1), Tianchang Yang (1), Arupjyoti Bhuyan (2), Syed Rafiul Hussain (1) ((1) The Pennsylvania State University, (2) Idaho National Laboratory)
 
 # 2025-09-01
 + [Unraveling LLM Jailbreaks Through Safety Knowledge Neurons](https://arxiv.org//abs/2509.01631)
@@ -5128,6 +5205,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation](https://arxiv.org//abs/2507.07115)
 
 	Javal Vyas, Mehmet Mercangoz
+
++ [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org//abs/2507.03034)
+
+	Yiming Li, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren
 
 # 2025-07-02
 + [Using multi-agent architecture to mitigate the risk of LLM hallucinations](https://arxiv.org//abs/2507.01446)
@@ -30670,6 +30751,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Lafedi Svet, Arthur Brightwell, Augustus Wildflower, Cecily Marshwood
 
++ [ViDDAR: Vision Language Model-Based Task-Detrimental Content Detection for Augmented Reality](https://arxiv.org//abs/2501.12553)
+
+	Yanming Xiu, Tim Scargill, Maria Gorlatova
+
 # 2025-01-21
 + [Test-time regression: a unifying framework for designing sequence models with associative memory](https://arxiv.org//abs/2501.12352)
 
@@ -34900,6 +34985,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [ADEPT: A DEbiasing PrompT Framework](https://arxiv.org//abs/2211.05414)
 
 	Ke Yang, Charles Yu, Yi Fung, Manling Li, Heng Ji
+
+# 2022-11-02
++ [An Exponentially Converging Particle Method for the Mixed Nash Equilibrium of Continuous Games](https://arxiv.org//abs/2211.01280)
+
+	Guillaume Wang, Lénaïc Chizat
 
 # 2022-10-26
 + [Piloting Copilot, Codex, and StarCoder2: Hot Temperature, Cold Prompts, or Black Magic?](https://arxiv.org//abs/2210.14699)
