@@ -12389,6 +12389,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Chun Liu, Bingqian Zhu, Tao Xu, Zheng Zheng, Zheng Li, Wei Yang, Zhigang Han, Jiayao Wang
 
++ [SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation](https://arxiv.org/abs/2506.10622)
+
+	Sergio Burdisso, Séverin Baroudi, Yanis Labrak, David Grunert, Pawel Cyrta, Yiyang Chen, Srikanth Madikeri, Thomas Schaaf, Esaú Villatoro-Tello, Ahmed Hassoon, Ricard Marxer, Petr Motlicek
+
 # 2025-06-11
 + [Beyond Nash Equilibrium: Bounded Rationality of LLMs and humans in Strategic Decision-making](https://arxiv.org//abs/2506.09390)
 
