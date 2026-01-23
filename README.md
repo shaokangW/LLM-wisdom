@@ -1,6 +1,27 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-01-22
++ [Data-Free Privacy-Preserving for LLMs via Model Inversion and Selective Unlearning](https://arxiv.org/abs/2601.15595)
+
+	Xinjie Zhou, Zhihui Yang, Lechao Cheng, Sai Wu, Gang Chen
+
++ [Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs](https://arxiv.org/abs/2601.15698)
+
+	Mingyu Yu, Lana Liu, Zhehao Zhao, Wei Wang, Sujuan Qin
+
++ [Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction](https://arxiv.org/abs/2601.16034)
+
+	Tony Cristofano
+
++ [Beyond Hard Writes and Rigid Preservation: Soft Recursive Least-Squares for Lifelong LLM Editing](https://arxiv.org/abs/2601.15686)
+
+	Xinyu Wang, Sicheng Lyu, Yu Gu, Jerry Huang, Peng Lu, Yufei Cui, Xiao-Wen Chang
+
++ [Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models](https://arxiv.org/abs/2601.15801)
+
+	Fengheng Chu, Jiahao Chen, Yuhong Wang, Jun Wang, Zhihui Fu, Shouling Ji, Songze Li
+
 # 2026-01-21
 + [Auditing Language Model Unlearning via Information Decomposition](https://arxiv.org/abs/2601.15111)
 
@@ -9,6 +30,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models](https://arxiv.org/abs/2601.15220)
 
 	Anmol Goel, Cornelius Emde, Sangdoo Yun, Seong Joon Oh, Martin Gubri
+
++ [Tracking the Limits of Knowledge Propagation: How LLMs Fail at Multi-Step Reasoning with Conflicting Knowledge](https://arxiv.org/abs/2601.15495)
+
+	Yiyang Feng, Zeming Chen, Haotian Wu, Jiawei Zhou, Antoine Bosselut
+
++ [QUAIL: Quantization Aware Unlearning for Mitigating Misinformation in LLMs](https://arxiv.org/abs/2601.15538)
+
+	Himanshu Mishra, Kanwal Mehreen
 
 # 2026-01-20
 + [Activation-Space Anchored Access Control for Multi-Class Permission Reasoning in Large Language Models](https://arxiv.org/abs/2601.13630)
@@ -38,6 +67,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Turn-Based Structural Triggers: Prompt-Free Backdoors in Multi-Turn LLMs](https://arxiv.org/abs/2601.14340)
 
 	Yiyang Lu, Jinwen He, Yue Zhao, Kai Chen, Ruigang Liang
+
++ [RECAP: A Resource-Efficient Method for Adversarial Prompting in Large Language Models](https://arxiv.org/abs/2601.15331)
+
+	Rishit Chugh
 
 # 2026-01-19
 + [Neurosymbolic LoRA: Why and When to Tune Weights vs. Rewrite Prompts](https://arxiv.org/abs/2601.12711)
@@ -151,6 +184,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Ruben Neyroud, Sam Corley
 
+# 2025-12-18
++ [Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602)
+
+	Iker García-Ferrero, David Montero, Roman Orus
+
 # 2025-12-16
 + [From Adversarial Poetry to Adversarial Tales: An Interpretability Research Agenda](https://arxiv.org/abs/2601.08837)
 
@@ -175,6 +213,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Forgetting-MarI: LLM Unlearning via Marginal Information Regularization](https://arxiv.org/abs/2511.11914)
 
 	Shizhou Xu, Yuan Ni, Stefan Broecker, Thomas Strohmer
+
+# 2025-10-13
++ [CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](https://arxiv.org/abs/2510.11137)
+
+	Zhuochen Yang, Kar Wai Fok, Vrizlynn L. L. Thing
 
 # 2025-10-09
 + [From Defender to Devil? Unintended Risk Interactions Induced by LLM Defenses](https://arxiv.org/abs/2510.07968)
@@ -3277,6 +3320,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Cross-device Zero-shot Label Transfer via Alignment of Time Series Foundation Model Embeddings](https://arxiv.org//abs/2509.06966)
 
 	Neal G. Ravindra, Arijit Sehanobish
+
++ [Evaluating the Defense Potential of Machine Unlearning against Membership Inference Attacks](https://arxiv.org/abs/2508.16150)
+
+	Theodoros Tsiolakis, Vasilis Perifanis, Nikolaos Pavlidis, Christos Chrysanthos Nikolaidis, Aristeidis Sidiropoulos, Pavlos S. Efraimidis
 
 # 2025-08-21
 + [Conflict-Aware Soft Prompting for Retrieval-Augmented Generation](https://arxiv.org//abs/2508.15253)
@@ -29747,6 +29794,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [SCORE: Story Coherence and Retrieval Enhancement for AI Narratives](https://arxiv.org//abs/2503.23512)
 
 	Qiang Yi, Yangfan He, Jianhui Wang, Xinyuan Song, Shiyao Qian, Xinhang Yuan, Li Sun, Yi Xin, Jingqun Tang, Keqin Li, Kuan Lu, Menghao Huo, Jiaqi Chen, Tianyu Shi
+
++ [Is Your Writing Being Mimicked by AI? Unveiling Imitation with Invisible Watermarks in Creative Writing](https://arxiv.org/abs/2504.00035)
+
+	Ziwei Zhang, Juan Wen, Wanli Peng, Zhengxian Wu, Yinghan Zhou, Yiming Xue
 
 # 2025-03-29
 + [LangVAE and LangSpace: Building and Probing for Language Model VAEs](https://arxiv.org//abs/2505.00004)
