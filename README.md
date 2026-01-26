@@ -1,6 +1,31 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-01-23
++ [Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs](https://arxiv.org/abs/2601.16527)
+
+	Xianya Fang, Feiyang Ren, Xiang Chen, Yu Tian, Zhen Bi, Haiyang Yu, Sheng-Jun Huang
+
++ [Sycophancy Hides Linearly in the Attention Heads](https://arxiv.org/abs/2601.16644)
+
+	Rifo Genadi, Munachiso Nwadike, Nurdaulet Mukhituly, Hilal Alquabeh, Tatsuya Hiraoka, Kentaro Inui
+
++ [GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints](https://arxiv.org/abs/2601.16905)
+
+	Andy Zhu, Rongzhe Wei, Yupu Gu, Pan Li
+
++ [Persuasion Tokens for Editing Factual Knowledge in LLMs](https://arxiv.org/abs/2601.16781)
+
+	Paul Youssef, Jörg Schlötterer, Christin Seifert
+
++ [White-Box Sensitivity Auditing with Steering Vectors](https://arxiv.org/abs/2601.16398)
+
+	Hannah Cyberey, Yangfeng Ji, David Evans
+
++ [Theory of Minimal Weight Perturbations in Deep Networks and its Applications for Low-Rank Activated Backdoor Attacks](https://arxiv.org/abs/2601.16880)
+
+	Bethan Evans, Jared Tanner
+
 # 2026-01-22
 + [Data-Free Privacy-Preserving for LLMs via Model Inversion and Selective Unlearning](https://arxiv.org/abs/2601.15595)
 
@@ -213,6 +238,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Forgetting-MarI: LLM Unlearning via Marginal Information Regularization](https://arxiv.org/abs/2511.11914)
 
 	Shizhou Xu, Yuan Ni, Stefan Broecker, Thomas Strohmer
+
+# 2025-10-21
++ [Visual Attention Reasoning via Hierarchical Search and Self-Verification](https://arxiv.org/abs/2510.18619)
+
+	Wei Cai, Jian Zhao, Yuchen Yuan, Tianle Zhang, Ming Zhu, Haichuan Tang, Xuelong Li
 
 # 2025-10-13
 + [CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](https://arxiv.org/abs/2510.11137)
@@ -540,6 +570,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [NanoFlux: Adversarial Dual-LLM Evaluation and Distillation For Multi-Domain Reasoning](https://arxiv.org//abs/2509.23252)
 
 	Raviteja Anantha, Soheil Hor, Teodor Nicola Antoniu, Layne C. Price
+
++ [LLM Watermark Evasion via Bias Inversion](https://arxiv.org/abs/2509.23019)
+
+	Jeongyeon Hwang, Sangdon Park, Jungseul Ok
 
 # 2025-09-26
 + [Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety](https://arxiv.org//abs/2509.21782)
@@ -14841,6 +14875,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org//abs/2506.03850)
 
 	Liang Chen, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong
+
++ [Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing](https://arxiv.org/abs/2506.03490)
+
+	Shigeng Chen, Linhao Luo, Zhangchi Qiu, Yanan Cao, Carl Yang, Shirui Pan
 
 # 2025-06-03
 + [Helpful Agent Meets Deceptive Judge: Understanding Vulnerabilities in Agentic Workflows](https://arxiv.org//abs/2506.03332)
