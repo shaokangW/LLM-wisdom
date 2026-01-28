@@ -1,10 +1,35 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-01-27
++ [Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection](https://arxiv.org/abs/2601.19375)
+
+	Quy-Anh Dang, Chris Ngo
+
++ [LLM-VA: Resolving the Jailbreak-Overrefusal Trade-off via Vector Alignment](https://arxiv.org/abs/2601.19487)
+
+	Haonan Zhang, Dongxia Wang, Yi Liu, Kexin Chen, Wenhai Wang
+
++ [Out-of-Distribution Generalization via Invariant Trajectories for Multimodal Large Language Model Editing](https://arxiv.org/abs/2601.19700)
+
+	Jiajie Su, Haoyuan Wang, Xiaohua Feng, Yunshan Ma, Xiaobo Xia, Yuyuan Li, Xiaolin Zheng, Jianmao Xiao, Chaochao Chen
+
++ [Regularized $f$-Divergence Kernel Tests](https://arxiv.org/abs/2601.19755)
+
+	Mónica Ribero, Antonin Schrab, Arthur Gretton
+
++ [LLMs Can Unlearn Refusal with Only 1,000 Benign Samples](https://arxiv.org/abs/2601.19231)
+
+	Yangyang Guo, Ziwei Xu, Si Liu, Zhiming Zheng, Mohan Kankanhalli
+
 # 2026-01-26
 + [FaLW: A Forgetting-aware Loss Reweighting for Long-tailed Unlearning](https://arxiv.org/abs/2601.18650)
 
 	Liheng Yu, Zhe Zhao, Yuxuan Wang, Pengkun Wang, Binwu Wang, Yang Wang
+
++ [A Few Bad Neurons: Isolating and Surgically Correcting Sycophancy](https://arxiv.org/abs/2601.18939)
+
+	Claire O'Brien, Jessica Seto, Dristi Roy, Aditya Dwivedi, Sunishchal Dev, Kevin Zhu, Sean O'Brien, Ashwinee Panda, Ryan Lagasse
 
 # 2026-01-25
 + [When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents](https://arxiv.org/abs/2601.17887)
@@ -255,6 +280,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Sparse Concept Anchoring for Interpretable and Controllable Neural Representations](https://arxiv.org/abs/2512.12469)
 
 	Sandy Fraser, Patryk Wielopolski
+
+# 2025-12-12
++ [Beyond Memorization: Selective Learning for Copyright-Safe Diffusion Model Training](https://arxiv.org/abs/2512.11194)
+
+	Divya Kothandaraman, Jaclyn Pytlarz
 
 # 2025-12-10
 + [Hierarchy-Aware Multimodal Unlearning for Medical AI](https://arxiv.org/abs/2512.09867)
@@ -4451,6 +4481,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Latent Fusion Jailbreak: Blending Harmful and Harmless Representations to Elicit Unsafe LLM Outputs](https://arxiv.org//abs/2508.10029)
 
 	Wenpeng Xing, Mohan Li, Chunqiang Hu, Haitao XuNingyu Zhang, Bo Lin, Meng Han
+
++ [Learning to Detect Unseen Jailbreak Attacks in Large Vision-Language Models](https://arxiv.org/abs/2508.09201)
+
+	Shuang Liang, Zhihao Xu, Jiaqi Weng, Jialing Tao, Hui Xue, Xiting Wang
 
 # 2025-08-07
 + [MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models](https://arxiv.org//abs/2508.05083)
