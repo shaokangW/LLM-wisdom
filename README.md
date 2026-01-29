@@ -1,6 +1,19 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-01-28
++ [UnlearnShield: Shielding Forgotten Privacy against Unlearning Inversion](https://arxiv.org/abs/2601.20325)
+
+	Lulu Xue, Shengshan Hu, Wei Lu, Ziqi Zhou, Yufei Song, Jianhong Cheng, Minghui Li, Yanjun Zhang, Leo Yu Zhang
+
++ [Memory Retrieval in Transformers: Insights from The Encoding Specificity Principle](https://arxiv.org/abs/2601.20282)
+
+	Viet Hung Dinh, Ming Ding, Youyang Qu, Kanchana Thilakarathna
+
++ [Reinforcement Unlearning via Group Relative Policy Optimization](https://arxiv.org/abs/2601.20568)
+
+	Efstratios Zaradoukas, Bardh Prenkaj, Gjergji Kasneci
+
 # 2026-01-27
 + [Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection](https://arxiv.org/abs/2601.19375)
 
@@ -265,6 +278,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [GCG Attack On A Diffusion LLM](https://arxiv.org/abs/2601.14266)
 
 	Ruben Neyroud, Sam Corley
+
+# 2025-12-21
++ [Gabliteration: Adaptive Multi-Directional Neural Weight Modification for Selective Behavioral Alteration in Large Language Models](https://arxiv.org/abs/2512.18901)
+
+	Gökdeniz Gülmez
 
 # 2025-12-18
 + [Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602)
@@ -997,6 +1015,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Learning the Wrong Lessons: Syntactic-Domain Spurious Correlations in Language Models](https://arxiv.org/abs/2509.21155)
 
 	Chantal Shaib, Vinith M. Suriyakumar, Levent Sagun, Byron C. Wallace, Marzyeh Ghassemi
+
++ [Mechanism of Task-oriented Information Removal in In-context Learning](https://arxiv.org/abs/2509.21012)
+
+	Hakaze Cho, Haolin Yang, Gouki Minegishi, Naoya Inoue
 
 # 2025-09-24
 + [LatentGuard: Controllable Latent Steering for Robust Refusal of Attacks and Reliable Response Generation](https://arxiv.org//abs/2509.19839)
@@ -2190,6 +2212,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Towards Trustworthy Agentic IoEV: AI Agents for Explainable Cyberthreat Mitigation and State Analytics](https://arxiv.org//abs/2509.12233)
 
 	Meryem Malak Dif, Mouhamed Amine Bouchiha, Abdelaziz Amara Korba, Yacine Ghamri-Doudane
+
++ [Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks?](https://arxiv.org/abs/2509.06350)
+
+	Junjie Mu, Zonghao Ying, Zhekui Fan, Zonglei Jing, Yaoyuan Zhang, Zhengmin Yu, Wenxin Zhang, Quanchen Zou, Xiangzheng Zhang
 
 # 2025-09-07
 + [Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs](https://arxiv.org//abs/2509.05883)
@@ -32654,6 +32680,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [The Curse of Depth in Large Language Models](https://arxiv.org//abs/2502.05795)
 
 	Wenfang Sun, Xinyuan Song, Pengxiang Li, Lu Yin, Yefeng Zheng, Shiwei Liu
+
++ [Mitigating Sensitive Information Leakage in LLMs4Code through Machine Unlearning](https://arxiv.org/abs/2502.05739)
+
+	Shanzhi Gu, Zhaoyang Qu, Ruotong Geng, Mingyang Geng, Shangwen Wang, Chuanfu Xu, Haotian Wang, Zhipeng Lin, Dezun Dong
 
 # 2025-02-08
 + [Agentic AI Systems Applied to tasks in Financial Services: Modeling and model risk management crews](https://arxiv.org//abs/2502.05439)
