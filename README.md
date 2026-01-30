@@ -1,6 +1,63 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-01-29
++ [KnowBias: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement](https://arxiv.org/abs/2601.21864)
+
+	Jinhao Pan, Chahat Raj, Anjishnu Mukherjee, Sina Mansouri, Bowen Wei, Shloka Yada, Ziwei Zhu
+
++ [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](https://arxiv.org/abs/2601.21898)
+
+	Minwoo Jang, Hoyoung Kim, Jabin Koo, Jungseul Ok
+
++ [DUET: Distilled LLM Unlearning from an Efficiently Contextualized Teacher](https://arxiv.org/abs/2601.21283)
+
+	Yisheng Zhong, Zhengbang Yang, Zhuangdi Zhu
+
++ [The Compliance Paradox: Semantic-Instruction Decoupling in Automated Academic Code Evaluation](https://arxiv.org/abs/2601.21360)
+
+	Devanshu Sahoo, Manish Prasad, Vasudev Majhi, Arjun Neekhra, Yash Sinha, Murari Mandal, Vinay Chamola, Dhruv Kumar
+
++ [Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://arxiv.org/abs/2601.21601)
+
+	Hoyeon Chang, Bálint Mucsányi, Seong Joon Oh
+
++ [FIT: Defying Catastrophic Forgetting in Continual LLM Unlearning](https://arxiv.org/abs/2601.21682)
+
+	Xiaoyu Xu, Minxin Du, Kun Fang, Zi Liang, Yaxin Xiao, Zhicong Huang, Cheng Hong, Qingqing Ye, Haibo Hu
+
++ [TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](https://arxiv.org/abs/2601.21900)
+
+	Chuancheng Shi, Shangze Li, Wenjun Lu, Wenhua Wu, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
+
++ [Beyond Forgetting: Machine Unlearning Elicits Controllable Side Behaviors and Capabilities](https://arxiv.org/abs/2601.21702)
+
+	Tien Dang, The-Hai Nguyen, Dinh Mai Phuong, Nguyen Minh Phuong, Hoang Thanh-Tung, Le-Minh Nguyen, Naoya Inoue
+
++ [Visual-Guided Key-Token Regularization for Multimodal Large Language Model Unlearning](https://arxiv.org/abs/2601.22020)
+
+	Chengyi Cai, Zesheng Ye, Peike Li, Bo Han, Jianzhong Qi, Feng Liu
+
++ [Representation Unlearning: Forgetting through Information Compression](https://arxiv.org/abs/2601.21564)
+
+	Antonio Almudévar, Alfonso Ortega
+
++ [Learning the Mechanism of Catastrophic Forgetting: A Perspective from Gradient Similarity](https://arxiv.org/abs/2601.21577)
+
+	Mutian Yang, Zisen Zhan, Yutong Chen, Haolin Li, Kaiwen Wang, Kaili Zheng, Yuguang Wang, Qi Wang, Jiandong Gao, Ji Wu
+
++ [Knowledge Vector Weakening: Efficient Training-free Unlearning for Large Vision-Language Models](https://arxiv.org/abs/2601.21794)
+
+	Yejin Kim, Dongjun Hwang, Sungmin Cha, Junsuk Choe
+
++ [From Logits to Latents: Contrastive Representation Shaping for LLM Unlearning](https://arxiv.org/abs/2601.22028)
+
+	Haoran Tang, Rajiv Khanna
+
++ [Per-parameter Task Arithmetic for Unlearning in Large Language Models](https://arxiv.org/abs/2601.22030)
+
+	Chengyi Cai, Zesheng Ye, Jiangchao Yao, Jianzhong Qi, Bo Han, Xiaolu Zhang, Feng Liu, Jun Zhou
+
 # 2026-01-28
 + [UnlearnShield: Shielding Forgotten Privacy against Unlearning Inversion](https://arxiv.org/abs/2601.20325)
 
@@ -270,6 +327,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	George Ma, Zhongyuan Liang, Irene Y. Chen, Somayeh Sojoudi
 
+# 2025-12-31
++ [The Trojan in the Vocabulary: Stealthy Sabotage of LLM Composition](https://arxiv.org/abs/2601.00065)
+
+	Xiaoze Liu, Weichen Yu, Matt Fredrikson, Xiaoqian Wang, Jing Gao
+
 # 2025-12-30
 + [Concept Attractors in LLMs and their Applications](https://arxiv.org/abs/2601.11575)
 
@@ -308,6 +370,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Hierarchy-Aware Multimodal Unlearning for Medical AI](https://arxiv.org/abs/2512.09867)
 
 	Fengli Wu, Vaidehi Patil, Jaehong Yoon, Yue Zhang, Mohit Bansal
+
+# 2025-11-25
++ [Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](https://arxiv.org/abs/2511.20002)
+
+	Changyue Li, Jiaying Li, Youliang Yuan, Jiaming He, Zhicong Huang, Pinjia He
 
 # 2025-11-24
 + [ModHiFi: Identifying High Fidelity predictive components for Model Modification](https://arxiv.org/abs/2511.19566)
@@ -353,6 +420,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Learning from Failures: Understanding LLM Alignment through Failure-Aware Inverse RL](https://arxiv.org/abs/2510.06092)
 
 	Nyal Patel, Matthieu Bou, Arjun Jagota, Satyapriya Krishna, Sonali Parbhoo
+
+# 2025-10-03
++ [Untargeted Jailbreak Attack](https://arxiv.org/abs/2510.02999)
+
+	Xinzhe Huang, Wenjing Hu, Tianhang Zheng, Kedong Xiu, Xiaojun Jia, Di Wang, Zhan Qin, Kui Ren
 
 # 2025-10-01
 + [Towards Verifiable Federated Unlearning: Framework, Challenges, and The Road Ahead](https://arxiv.org/abs/2510.00833)
@@ -4753,6 +4825,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Unsupervised Pairwise Learning Optimization Framework for Cross-Corpus EEG-Based Emotion Recognition Based on Prototype Representation](https://arxiv.org//abs/2508.11663)
 
 	Guangli Li, Canbiao Wu, Zhen Liang
+
++ [EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing](https://arxiv.org/abs/2508.04012)
+
+	Xiaopeng Li, Shasha Li, Xi Wang, Shezheng Song, Bin Ji, Shangwen Wang, Jun Ma, Xiaodong Liu, Mina Liu, Jie Yu
 
 # 2025-08-05
 + [Beyond Surface-Level Detection: Towards Cognitive-Driven Defense Against Jailbreak Attacks via Meta-Operations Reasoning](https://arxiv.org//abs/2508.03054)
@@ -30777,6 +30853,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Hallucinatory Image Tokens: A Training-free EAZY Approach on Detecting and Mitigating Object Hallucinations in LVLMs](https://arxiv.org//abs/2503.07772)
 
 	Liwei Che, Tony Qingze Liu, Jing Jia, Weiyi Qin, Ruixiang Tang, Vladimir Pavlovic
+
++ [Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols](https://arxiv.org/abs/2503.06991)
+
+	Yongwoo Kim, Sungmin Cha, Donghyun Kim
 
 # 2025-03-09
 + [HCT-QA: A Benchmark for Question Answering on Human-Centric Tables](https://arxiv.org//abs/2504.20047)
