@@ -1,6 +1,15 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-02-13
++ [Quantization-Robust LLM Unlearning via Low-Rank Adaptation](https://arxiv.org/abs/2602.13151)
+
+	João Vitor Boer Abitante, Joana Meneguzzo Pasquali, Luan Fonseca Garcia, Ewerton de Oliveira, Thomas da Silva Paula, Rodrigo C. Barros, Lucas S. Kupssinskü
+
++ [Layer-Specific Fine-Tuning for Improved Negation Handling in Medical Vision-Language Models](https://arxiv.org/abs/2602.12498)
+
+	Ali Abbasi, Mehdi Taghipour, Rahmatollah Beheshti
+
 # 2026-02-12
 + [Beyond Parameter Arithmetic: Sparse Complementary Fusion for Distribution-Aware Model Merging](https://arxiv.org/abs/2602.11717)
 
@@ -25,6 +34,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [SafeNeuron: Neuron-Level Safety Alignment for Large Language Models](https://arxiv.org/abs/2602.12158)
 
 	Zhaoxin Wang, Jiaming Liang, Fengbin Zhu, Weixiang Zhao, Junfeng Fang, Jiayi Ji, Handing Wang, Tat-Seng Chua
+
++ [Sparse Autoencoders are Capable LLM Jailbreak Mitigators](https://arxiv.org/abs/2602.12418)
+
+	Yannick Assogba, Jacopo Cortellazzi, Javier Abad, Pau Rodriguez, Xavier Suau, Arno Blaas
 
 # 2026-02-11
 + [Control Reinforcement Learning: Token-Level Mechanistic Analysis via Learned SAE Feature Steering](https://arxiv.org/abs/2602.10437)
@@ -62,6 +75,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features](https://arxiv.org/abs/2602.10437)
 
 	Seonglae Cho, Zekun Wu, Adriano Koshiyama
+
++ [Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models](https://arxiv.org/abs/2602.10382)
+
+	Théo Lasnier, Wissam Antoun, Francis Kulumba, Djamé Seddah
 
 # 2026-02-10
 + [Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment](https://arxiv.org/abs/2602.10161)
@@ -1454,6 +1471,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [DSO: Direct Steering Optimization for Bias Mitigation](https://arxiv.org/abs/2512.15926)
 
 	Lucas Monteiro Paes, Nivedha Sivakumar, Yinong Oliver Wang, Masha Fedzechkina, Barry-John Theobald, Luca Zappella, Nicholas Apostoloff
+
++ [SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification](https://arxiv.org/abs/2512.15052)
+
+	Hongbo Wang, MaungMaung AprilPyone, Isao Echizen
 
 # 2025-12-16
 + [From Adversarial Poetry to Adversarial Tales: An Interpretability Research Agenda](https://arxiv.org/abs/2601.08837)
