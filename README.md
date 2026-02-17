@@ -1,6 +1,37 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-02-16
++ [Disentangling Deception and Hallucination Failures in LLMs](https://arxiv.org/abs/2602.14529)
+
+	Haolang Lu, Hongrui Peng, WeiYe Fu, Guoshun Nan, Xinye Cao, Xingrui Li, Hongcan Guo, Kun Wang
+
++ [Governing AI Forgetting: Auditing for Machine Unlearning Compliance](https://arxiv.org/abs/2602.14553)
+
+	Qinqi Lin, Ningning Ding, Lingjie Duan, Jianwei Huang
+
++ [Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks](https://arxiv.org/abs/2602.14689)
+
+	Lukas Struppek, Adam Gleave, Kellin Pelrine
+
++ [Variance-Reduced $(\varepsilon,δ)-$Unlearning using Forget Set Gradients](https://arxiv.org/abs/2602.14938)
+
+	Martin Van Waerebeke, Marco Lorenzi, Kevin Scaman, El Mahdi El Mhamdi, Giovanni Neglia
+
+# 2026-02-15
++ [Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](https://arxiv.org/abs/2602.14111)
+
+	Anton Korznikov, Andrey Galichin, Alexey Dontsov, Oleg Rogov, Ivan Oseledets, Elena Tutubalina
+
+# 2026-02-14
++ [AISA: Awakening Intrinsic Safety Awareness in Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2602.13547)
+
+	Weiming Song, Xuan Xie, Ruiping Yin
+
++ [Bridging the Multilingual Safety Divide: Efficient, Culturally-Aware Alignment for Global South Languages](https://arxiv.org/abs/2602.13867)
+
+	Somnath Banerjee, Rima Hazra, Animesh Mukherjee
+
 # 2026-02-13
 + [Quantization-Robust LLM Unlearning via Low-Rank Adaptation](https://arxiv.org/abs/2602.13151)
 
@@ -79,6 +110,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models](https://arxiv.org/abs/2602.10382)
 
 	Théo Lasnier, Wissam Antoun, Francis Kulumba, Djamé Seddah
+
++ [In-the-Wild Model Organisms: Mitigating Undesirable Emergent Behaviors in Production LLM Post-Training via Data Attribution](https://arxiv.org/abs/2602.11079)
+
+	Frank Xiao, Santiago Aranguri
 
 # 2026-02-10
 + [Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment](https://arxiv.org/abs/2602.10161)
@@ -572,6 +607,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Lite-BD: A Lightweight Black-box Backdoor Defense via Reviving Multi-Stage Image Transformations](https://arxiv.org/abs/2602.07197)
 
 	Abdullah Arafat Miah, Yu Bi
+
++ [On the Non-Identifiability of Steering Vectors in Large Language Models](https://arxiv.org/abs/2602.06801)
+
+	Sohan Venkatesh, Ashish Mahendran Kurapath
 
 # 2026-02-05
 + [Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink](https://arxiv.org/abs/2602.05228)
@@ -1597,6 +1636,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Ryuto Koike, Liam Dugan, Masahiro Kaneko, Chris Callison-Burch, Naoaki Okazaki
 
++ [Modal Aphasia: Can Unified Multimodal Models Describe Images From Memory?](https://arxiv.org/abs/2510.21842)
+
+	Michael Aerni, Joshua Swanson, Kristina Nikolić, Florian Tramèr
+
 # 2025-10-21
 + [Visual Attention Reasoning via Hierarchical Search and Self-Verification](https://arxiv.org/abs/2510.18619)
 
@@ -2206,6 +2249,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Closing the Safety Gap: Surgical Concept Erasure in Visual Autoregressive Models](https://arxiv.org/abs/2509.22400)
 
 	Xinhao Zhong, Yimin Zhou, Zhiqi Zhang, Junhao Li, Yi Sun, Bin Chen, Shu-Tao Xia, Xuan Wang, Ke Xu
+
++ [The Rogue Scalpel: Activation Steering Compromises LLM Safety](https://arxiv.org/abs/2509.22067)
+
+	Anton Korznikov, Andrey Galichin, Alexey Dontsov, Oleg Y. Rogov, Ivan Oseledets, Elena Tutubalina
 
 # 2025-09-25
 + [SAGE: A Realistic Benchmark for Semantic Understanding](https://arxiv.org//abs/2509.21310)
@@ -8123,6 +8170,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](https://arxiv.org//abs/2507.06899)
 
 	Ziang Ye, Yang Zhang, Wentao Shi, Xiaoyu You, Fuli Feng, Tat-Seng Chua
+
++ [Image Can Bring Your Memory Back: A Novel Multi-Modal Guided Attack against Image Generation Model Unlearning](https://arxiv.org/abs/2507.07139)
+
+	Renyang Liu, Guanlin Li, Tianwei Zhang, See-Kiong Ng
 
 # 2025-07-08
 + [SingLoRA: Low Rank Adaptation Using a Single Matrix](https://arxiv.org//abs/2507.05566)
