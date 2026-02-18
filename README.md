@@ -1,6 +1,19 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-02-17
++ [The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes](https://arxiv.org/abs/2602.15515)
+
+	Mohammad Taufeeque, Stefan Heimersheim, Adam Gleave, Chris Cundy
+
++ [CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://arxiv.org/abs/2602.15823)
+
+	Zarif Ikram, Arad Firouzkouhi, Stephen Tu, Mahdi Soltanolkotabi, Paria Rashidinejad
+
++ [Certified Per-Instance Unlearning Using Individual Sensitivity Bounds](https://arxiv.org/abs/2602.15602)
+
+	Hanna Benarroch (DI-ENS), Jamal Atif (CMAP), Olivier Cappé (DI-ENS)
+
 # 2026-02-16
 + [Disentangling Deception and Hallucination Failures in LLMs](https://arxiv.org/abs/2602.14529)
 
@@ -17,6 +30,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Variance-Reduced $(\varepsilon,δ)-$Unlearning using Forget Set Gradients](https://arxiv.org/abs/2602.14938)
 
 	Martin Van Waerebeke, Marco Lorenzi, Kevin Scaman, El Mahdi El Mhamdi, Giovanni Neglia
+
++ [Protecting Language Models Against Unauthorized Distillation through Trace Rewriting](https://arxiv.org/abs/2602.15143)
+
+	Xinhang Ma, William Yeoh, Ning Zhang, Yevgeniy Vorobeychik
+
++ [Weight space Detection of Backdoors in LoRA Adapters](https://arxiv.org/abs/2602.15195)
+
+	David Puertolas Merenciano, Ekaterina Vasyagina, Raghav Dixit, Kevin Zhu, Ruizhe Li, Javier Ferrando, Maheep Chaudhary
 
 # 2026-02-15
 + [Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](https://arxiv.org/abs/2602.14111)
@@ -5962,6 +5983,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Multi-Level Safety Continual Projection for Fine-Tuned Large Language Models without Retraining](https://arxiv.org/abs/2508.09190)
 
 	Bing Han, Feifei Zhao, Dongcheng Zhao, Guobin Shen, Ping Wu, Yu Shi, Yi Zeng
+
++ [Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs](https://arxiv.org/abs/2508.06601)
+
+	Kyle O'Brien, Stephen Casper, Quentin Anthony, Tomek Korbak, Robert Kirk, Xander Davies, Ishan Mishra, Geoffrey Irving, Yarin Gal, Stella Biderman
 
 # 2025-08-07
 + [MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models](https://arxiv.org//abs/2508.05083)
