@@ -1,6 +1,23 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-02-18
++ [Beyond Learning: A Training-Free Alternative to Model Adaptation](https://arxiv.org/abs/2602.16189)
+
+	Namkyung Yoon, Kyeonghyun Yoo, Wooyong Jung, Sanghong Kim, Hwangnam Kim
+
++ [Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](https://arxiv.org/abs/2602.16144)
+
+	Rong Fu, Wenxin Zhang, Ziming Wang, Chunlei Meng, Jiaxuan Lu, Jiekai Wu, Kangan Qian, Hao Zhang, Simon Fong
+
++ [Easy Data Unlearning Bench](https://arxiv.org/abs/2602.16400)
+
+	Roy Rinberg, Pol Puigdemont, Martin Pawelczyk, Volkan Cevher
+
++ [Protecting the Undeleted in Machine Unlearning](https://arxiv.org/abs/2602.16697)
+
+	Aloni Cohen, Refael Kohen, Kobbi Nissim, Uri Stemmer
+
 # 2026-02-17
 + [The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes](https://arxiv.org/abs/2602.15515)
 
@@ -13,6 +30,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Certified Per-Instance Unlearning Using Individual Sensitivity Bounds](https://arxiv.org/abs/2602.15602)
 
 	Hanna Benarroch (DI-ENS), Jamal Atif (CMAP), Olivier Cappé (DI-ENS)
+
++ [Surgical Activation Steering via Generative Causal Mediation](https://arxiv.org/abs/2602.16080)
+
+	Aruna Sankaranarayanan, Amir Zur, Atticus Geiger, Dylan Hadfield-Menell
+
++ [Visual Memory Injection Attacks for Multi-Turn Conversations](https://arxiv.org/abs/2602.15927)
+
+	Christian Schlarmann, Matthias Hein
 
 # 2026-02-16
 + [Disentangling Deception and Hallucination Failures in LLMs](https://arxiv.org/abs/2602.14529)
@@ -61,6 +86,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Layer-Specific Fine-Tuning for Improved Negation Handling in Medical Vision-Language Models](https://arxiv.org/abs/2602.12498)
 
 	Ali Abbasi, Mehdi Taghipour, Rahmatollah Beheshti
+
++ [Doc-to-LoRA: Learning to Instantly Internalize Contexts](https://arxiv.org/abs/2602.15902)
+
+	Rujikorn Charakorn, Edoardo Cetin, Shinnosuke Uesaka, Robert Tjarko Lange
 
 # 2026-02-12
 + [Beyond Parameter Arithmetic: Sparse Complementary Fusion for Distribution-Aware Model Merging](https://arxiv.org/abs/2602.11717)
@@ -1674,6 +1703,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [SHIELD: Suppressing Hallucinations In LVLM Encoders via Bias and Vulnerability Defense](https://arxiv.org/abs/2510.16596)
 
 	Yiyang Huang, Liang Shi, Yitian Zhang, Yi Xu, Yun Fu
+
+# 2025-10-14
++ [Precise Attribute Intensity Control in Large Language Models via Targeted Representation Editing](https://arxiv.org/abs/2510.12121)
+
+	Rongzhi Zhang, Liqin Ye, Yuzhao Heng, Xiang Chen, Tong Yu, Lingkai Kong, Sudheer Chava, Chao Zhang
 
 # 2025-10-13
 + [CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](https://arxiv.org/abs/2510.11137)
