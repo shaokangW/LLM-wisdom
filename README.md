@@ -1,6 +1,23 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-02-19
++ [ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment](https://arxiv.org/abs/2602.17560)
+
+	Hongjue Zhao, Haosen Sun, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek Abdelzaher, Yejin Choi, Manling Li, Huajie Shao
+
++ [Fail-Closed Alignment for Large Language Models](https://arxiv.org/abs/2602.16977)
+
+	Zachary Coalson, Beth Sohler, Aiden Gabriel, Sanghyun Hong
+
++ [Discovering Universal Activation Directions for PII Leakage in Language Models](https://arxiv.org/abs/2602.16980)
+
+	Leo Marchyok, Zachary Coalson, Sungho Keum, Sooel Son, Sanghyun Hong
+
++ [MeGU: Machine-Guided Unlearning with Target Feature Disentanglement](https://arxiv.org/abs/2602.17088)
+
+	Haoyu Wang, Zhuo Huang, Xiaolong Wang, Bo Han, Zhiwei Lin, Tongliang Liu
+
 # 2026-02-18
 + [Beyond Learning: A Training-Free Alternative to Model Adaptation](https://arxiv.org/abs/2602.16189)
 
@@ -17,6 +34,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Protecting the Undeleted in Machine Unlearning](https://arxiv.org/abs/2602.16697)
 
 	Aloni Cohen, Refael Kohen, Kobbi Nissim, Uri Stemmer
+
++ [Narrow fine-tuning erodes safety alignment in vision-language agents](https://arxiv.org/abs/2602.16931)
+
+	Idhant Gulati, Shivam Raval
+
++ [Automating Agent Hijacking via Structural Template Injection](https://arxiv.org/abs/2602.16958)
+
+	Xinhao Deng, Jiaqing Wu, Miao Chen, Yue Xiao, Ke Xu, Qi Li
+
++ [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835)
+
+	Sasha Behrouzi, Lichao Wu, Mohamadreza Rostami, Ahmad-Reza Sadeghi
 
 # 2026-02-17
 + [The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes](https://arxiv.org/abs/2602.15515)
