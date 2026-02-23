@@ -18,6 +18,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Haoyu Wang, Zhuo Huang, Xiaolong Wang, Bo Han, Zhiwei Lin, Tongliang Liu
 
++ [Understanding Unreliability of Steering Vectors in Language Models: Geometric Predictors and the Limits of Linear Approximations](https://arxiv.org/abs/2602.17881)
+
+	Joschka Braun
+
++ [TFL: Targeted Bit-Flip Attack on Large Language Model](https://arxiv.org/abs/2602.17837)
+
+	Jingkai Guo, Chaitali Chakrabarti, Deliang Fan
+
++ [Asking Forever: Universal Activations Behind Turn Amplification in Conversational LLMs](https://arxiv.org/abs/2602.17778)
+
+	Zachary Coalson, Bo Fang, Sanghyun Hong
+
 # 2026-02-18
 + [Beyond Learning: A Training-Free Alternative to Model Adaptation](https://arxiv.org/abs/2602.16189)
 
@@ -690,6 +702,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [On the Non-Identifiability of Steering Vectors in Large Language Models](https://arxiv.org/abs/2602.06801)
 
 	Sohan Venkatesh, Ashish Mahendran Kurapath
+
++ [Agentic Unlearning: When LLM Agent Meets Machine Unlearning](https://arxiv.org/abs/2602.17692)
+
+	Bin Wang, Fan Wang, Pingping Wang, Jinyu Cong, Yang Yu, Yilong Yin, Zhongyi Han, Benzheng Wei
+
++ [Can LLM Safety Be Ensured by Constraining Parameter Regions?](https://arxiv.org/abs/2602.17696)
+
+	Zongmin Li, Jian Su, Farah Benamara, Aixin Sun
 
 # 2026-02-05
 + [Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink](https://arxiv.org/abs/2602.05228)
@@ -31458,6 +31478,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Deep Positive-Negative Prototypes for Adversarially Robust Discriminative Prototypical Learning](https://arxiv.org//abs/2504.03782)
 
 	Ramin Zarei Sabzevar, Hamed Mohammadzadeh, Tahmineh Tavakoli, Ahad Harati
+
++ [Overcoming Sparsity Artifacts in Crosscoders to Interpret Chat-Tuning](https://arxiv.org/abs/2504.02922)
+
+	Julian Minder, Clément Dumas, Caden Juang, Bilal Chugtai, Neel Nanda
 
 # 2025-04-02
 + [LRAGE: Legal Retrieval Augmented Generation Evaluation Tool](https://arxiv.org//abs/2504.01840)
