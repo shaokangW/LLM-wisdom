@@ -1,6 +1,58 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-02-23
++ [Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement](https://arxiv.org/abs/2602.19396)
+
+	Amirhossein Farzam, Majid Behabahani, Mani Malek, Yuriy Nevmyvaka, Guillermo Sapiro
+
++ [IR$^3$: Contrastive Inverse Reinforcement Learning for Interpretable Detection and Mitigation of Reward Hacking](https://arxiv.org/abs/2602.19416)
+
+	Mohammad Beigi, Ming Jin, Junshan Zhang, Jiaxin Zhang, Qifan Wang, Lifu Huang
+
++ [Latent Introspection: Models Can Detect Prior Concept Injections](https://arxiv.org/abs/2602.20031)
+
+	Theia Pearson-Vogel, Martin Vanek, Raymond Douglas, Jan Kulveit
+
++ [Localized Concept Erasure in Text-to-Image Diffusion Models via High-Level Representation Misdirection](https://arxiv.org/abs/2602.19631)
+
+	Uichan Lee, Jeonghyeon Kim, Sangheum Hwang
+
++ [Benchmarking Unlearning for Vision Transformers](https://arxiv.org/abs/2602.20114)
+
+	Kairan Zhao, Iurie Luca, Peter Triantafillou
+
++ [Anatomy of Unlearning: The Dual Impact of Fact Salience and Model Fine-Tuning](https://arxiv.org/abs/2602.19612)
+
+	Borisiuk Anna, Andrey Savchenko, Alexander Panchecko, Elena Tutubalina
+
+# 2026-02-22
++ [Value Entanglement: Conflation Between Different Kinds of Good In (Some) Large Language Models](https://arxiv.org/abs/2602.19101)
+
+	Seong Hah Cho, Junyi Li, Anna Leshinskaya
+
++ [Uncovering Context Reliance in Unstructured Knowledge Editing](https://arxiv.org/abs/2602.19043)
+
+	Zisheng Zhou, Mengqi Zhang, Shiguang Wu, Xiaotian Ye, Chi Zhang, Zhumin Chen, Pengjie Ren
+
++ [Understanding Empirical Unlearning with Combinatorial Interpretability](https://arxiv.org/abs/2602.19215)
+
+	Shingo Kodama, Niv Cohen, Micah Adler, Nir Shavit
+
++ [KUDA: Knowledge Unlearning by Deviating Representation for Large Language Models](https://arxiv.org/abs/2602.19275)
+
+	Ce Fang, Zhikun Zhang, Min Chen, Qing Liu, Lu Zhou, Zhe Liu, Yunjun Gao
+
+# 2026-02-21
++ [HIME: Mitigating Object Hallucinations in LVLMs via Hallucination Insensitivity Model Editing](https://arxiv.org/abs/2602.18711)
+
+	Ahmed Akl, Abdelwahed Khamis, Ali Cheraghian, Zhe Wang, Sara Khalifa, Kewen Wang
+
+# 2026-02-20
++ [Non-Interfering Weight Fields: Treating Model Parameters as a Continuously Extensible Function](https://arxiv.org/abs/2602.18628)
+
+	Sarim Chaudhry
+
 # 2026-02-19
 + [ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment](https://arxiv.org/abs/2602.17560)
 
@@ -58,6 +110,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835)
 
 	Sasha Behrouzi, Lichao Wu, Mohamadreza Rostami, Ahmad-Reza Sadeghi
+
++ [Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning](https://arxiv.org/abs/2602.18505)
+
+	Yurim Jang, Jaeung Lee, Dohyun Kim, Jaemin Jo, Simon S. Woo
 
 # 2026-02-17
 + [The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes](https://arxiv.org/abs/2602.15515)
@@ -1714,6 +1770,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476)
 
 	Md. Abdul Awal, Mrigank Rochan, Chanchal K. Roy
+
++ [Leak@$k$: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding](https://arxiv.org/abs/2511.04934)
+
+	Hadi Reisizadeh, Jiajun Ruan, Yiwei Chen, Soumyadeep Pal, Sijia Liu, Mingyi Hong
 
 # 2025-11-05
 + [Silenced Biases: The Dark Side LLMs Learned to Refuse](https://arxiv.org/abs/2511.03369)
@@ -7041,6 +7101,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Memorization in Fine-Tuned Large Language Models](https://arxiv.org//abs/2507.21009)
 
 	Danil Savine
+
++ [Modular Delta Merging with Orthogonal Constraints: A Scalable Framework for Continual and Reversible Model Composition](https://arxiv.org/abs/2507.20997)
+
+	Haris Khan, Sadia Asif, Shumaila Asif
 
 # 2025-07-27
 + [HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models](https://arxiv.org//abs/2508.00892)
@@ -23274,6 +23338,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [AdvReal: Physical Adversarial Patch Generation Framework for Security Evaluation of Object Detection Systems](https://arxiv.org//abs/2505.16402)
 
 	Yuanhao Huang, Yilong Ren, Jinlei Wang, Lujia Huo, Xuesong Bai, Jinchuan Zhang, Haiyan Yu
+
++ [BitHydra: Towards Bit-flip Inference Cost Attack against Large Language Models](https://arxiv.org/abs/2505.16670)
+
+	Xiaobei Yan, Yiming Li, Hao Wang, Han Qiu, Tianwei Zhang
+
++ [Accidental Vulnerability: Factors in Fine-Tuning that Shift Model Safeguards](https://arxiv.org/abs/2505.16789)
+
+	Punya Syon Pandey, Samuel Simko, Kellin Pelrine, Zhijing Jin
 
 # 2025-05-21
 + [ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges](https://arxiv.org//abs/2505.15068)
