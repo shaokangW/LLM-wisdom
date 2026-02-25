@@ -1,6 +1,15 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-02-24
++ [ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction](https://arxiv.org/abs/2602.20708)
+
+	Che Wang, Fuyao Zhang, Jiaming Zhang, Ziqi Zhang, Yinghui Wang, Longtao Huang, Jianbo Gao, Zhong Chen, Wei Yang Bryan Lim
+
++ [Transcoder Adapters for Reasoning-Model Diffing](https://arxiv.org/abs/2602.20904)
+
+	Nathan Hu, Jake Ward, Thomas Icard, Christopher Potts
+
 # 2026-02-23
 + [Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement](https://arxiv.org/abs/2602.19396)
 
@@ -26,6 +35,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Borisiuk Anna, Andrey Savchenko, Alexander Panchecko, Elena Tutubalina
 
++ [The Truthfulness Spectrum Hypothesis](https://arxiv.org/abs/2602.20273)
+
+	Zhuofan Josh Ying, Shauli Ravfogel, Nikolaus Kriegeskorte, Peter Hase
+
 # 2026-02-22
 + [Value Entanglement: Conflation Between Different Kinds of Good In (Some) Large Language Models](https://arxiv.org/abs/2602.19101)
 
@@ -42,6 +55,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [KUDA: Knowledge Unlearning by Deviating Representation for Large Language Models](https://arxiv.org/abs/2602.19275)
 
 	Ce Fang, Zhikun Zhang, Min Chen, Qing Liu, Lu Zhou, Zhe Liu, Yunjun Gao
+
++ [Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207)
+
+	Shrestha Datta, Hongfu Liu, Anshuman Chhabra
 
 # 2026-02-21
 + [HIME: Mitigating Object Hallucinations in LVLMs via Hallucination Insensitivity Model Editing](https://arxiv.org/abs/2602.18711)
@@ -1900,6 +1917,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Downgrade to Upgrade: Optimizer Simplification Enhances Robustness in LLM Unlearning](https://arxiv.org/abs/2510.00761)
 
 	Yicheng Lang, Yihua Zhang, Chongyu Fan, Changsheng Wang, Jinghan Jia, Sijia Liu
+
++ [Erased, But Not Forgotten: Erased Rectified Flow Transformers Still Remain Unsafe Under Concept Attack](https://arxiv.org/abs/2510.00635)
+
+	Nanxiang Jiang, Zhaoxin Fan, Enhan Kang, Daiheng Gao, Yun Zhou, Yanxia Chang, Zheng Zhu, Yeying Jin, Wenjun Wu
 
 # 2025-09-30
 + [CHAI: Command Hijacking against embodied AI](https://arxiv.org/abs/2510.00181)
@@ -25995,6 +26016,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Intrinsic Self-Correction in LLMs: Towards Explainable Prompting via Mechanistic Interpretability](https://arxiv.org/abs/2505.11924)
 
 	Yu-Ting Lee, Fu-Chieh Chang, Yu-En Shu, Hui-Ying Shih, Pei-Yuan Wu
+
++ [EAMET: Robust Massive Model Editing via Embedding Alignment Optimization](https://arxiv.org/abs/2505.11876)
+
+	Yanbo Dai, Zhenlan Ji, Zongjie Li, Shuai Wang
 
 # 2025-05-16
 + [PoE-World: Compositional World Modeling with Products of Programmatic Experts](https://arxiv.org//abs/2505.10819)
