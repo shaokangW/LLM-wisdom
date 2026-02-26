@@ -1,6 +1,23 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-02-25
++ [Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information](https://arxiv.org/abs/2602.21496)
+
+	Umid Suleymanov, Zaur Rajabov, Emil Mirzazada, Murat Kantarcioglu
+
++ [Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models](https://arxiv.org/abs/2602.21704)
+
+	Jianghao Yin, Qin Chen, Kedi Chen, Jie Zhou, Xingjiao Wu, Liang He
+
++ [When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters](https://arxiv.org/abs/2602.21977)
+
+	Liangwei Lyu, Jiaqi Xu, Jianwei Ding, Qiyao Deng
+
++ [Easy to Learn, Yet Hard to Forget: Towards Robust Unlearning Under Bias](https://arxiv.org/abs/2602.21773)
+
+	JuneHyoung Kwon, MiHyeon Kim, Eunju Lee, Yoonji Lee, Seunghoon Lee, YoungBin Kim
+
 # 2026-02-24
 + [ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction](https://arxiv.org/abs/2602.20708)
 
@@ -4190,6 +4207,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Yue Li, Xin Yi, Dongsheng Shi, Yongyi Cui, Gerard de Melo, Linlin Wang
 
++ [Silent Until Sparse: Backdoor Attacks on Semi-Structured Sparsity](https://arxiv.org/abs/2509.08747)
+
+	Wei Guo, Fabio Brau, Maura Pintor, Ambra Demontis, Battista Biggio
+
 # 2025-09-02
 + [Privacy-Utility Trade-off in Data Publication: A Bilevel Optimization Framework with Curvature-Guided Perturbation](https://arxiv.org//abs/2509.02048)
 
@@ -7097,6 +7118,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Cascading and Proxy Membership Inference Attacks](https://arxiv.org//abs/2507.21412)
 
 	Yuntao Du, Jiacheng Li, Yuetian Chen, Kaiyuan Zhang, Zhizhen Yuan, Hanshen Xiao, Bruno Ribeiro, Ninghui Li
+
++ [PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking](https://arxiv.org/abs/2507.21540)
+
+	Quanchen Zou, Zonghao Ying, Moyang Chen, Wenzhuo Xu, Yisong Xiao, Yakai Li, Deyue Zhang, Dongdong Yang, Zhao Liu, Xiangzheng Zhang
 
 # 2025-07-28
 + [Enhancing Jailbreak Attacks on LLMs via Persona Prompts](https://arxiv.org//abs/2507.22171)
@@ -21100,6 +21125,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Alexander Panfilov, Paul Kassianik, Maksym Andriushchenko, Jonas Geiping
 
++ [JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models](https://arxiv.org/abs/2505.19610)
+
+	Jiaxin Song, Yixu Wang, Jie Li, Rui Yu, Yan Teng, Xingjun Ma, Yingchun Wang
+
 # 2025-05-25
 + [Stronger Enforcement of Instruction Hierarchy via Augmented Intermediate Representations](https://arxiv.org//abs/2505.18907)
 
@@ -23367,6 +23396,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Accidental Vulnerability: Factors in Fine-Tuning that Shift Model Safeguards](https://arxiv.org/abs/2505.16789)
 
 	Punya Syon Pandey, Samuel Simko, Kellin Pelrine, Zhijing Jin
+
++ [Refusal Direction is Universal Across Safety-Aligned Languages](https://arxiv.org/abs/2505.17306)
+
+	Xinpeng Wang, Mingyang Wang, Yihong Liu, Hinrich Schütze, Barbara Plank
 
 # 2025-05-21
 + [ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges](https://arxiv.org//abs/2505.15068)
