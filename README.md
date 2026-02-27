@@ -1,6 +1,23 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-02-26
++ [Transformers converge to invariant algorithmic cores](https://arxiv.org/abs/2602.22600)
+
+	Joshua S. Schiffman
+
++ [HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2602.22727)
+
+	Yangguang Lin, Quan Fang, Yufei Li, Jiachen Sun, Junyu Gao, Jitao Sang
+
++ [Multilingual Safety Alignment Via Sparse Weight Editing](https://arxiv.org/abs/2602.22554)
+
+	Jiaming Liang, Zhaoxin Wang, Handing Wang
+
++ [Layer-Targeted Multilingual Knowledge Erasure in Large Language Models](https://arxiv.org/abs/2602.22562)
+
+	Taoran Li, Varun Chandrasekaran, Zhiyuan Yu
+
 # 2026-02-25
 + [Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information](https://arxiv.org/abs/2602.21496)
 
@@ -1893,6 +1910,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Leonardo Bertolazzi, Sandro Pezzelle, Raffaella Bernardi
 
++ [PATCH: Mitigating PII Leakage in Language Models with Privacy-Aware Targeted Circuit PatcHing](https://arxiv.org/abs/2510.07452)
+
+	Anthony Hughes, Vasisht Duddu, N. Asokan, Nikolaos Aletras, Ning Ma
+
 # 2025-10-07
 + [Learning from Failures: Understanding LLM Alignment through Failure-Aware Inverse RL](https://arxiv.org/abs/2510.06092)
 
@@ -2455,6 +2476,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [The Rogue Scalpel: Activation Steering Compromises LLM Safety](https://arxiv.org/abs/2509.22067)
 
 	Anton Korznikov, Andrey Galichin, Alexey Dontsov, Oleg Y. Rogov, Ivan Oseledets, Elena Tutubalina
+
++ [Fine-tuning Done Right in Model Editing](https://arxiv.org/abs/2509.22072)
+
+	Wanli Yang, Rui Tang, Hongyu Zang, Du Su, Qi Cao, Jingang Wang, Huawei Shen, Xueqi Cheng, Fei Sun
 
 # 2025-09-25
 + [SAGE: A Realistic Benchmark for Semantic Understanding](https://arxiv.org//abs/2509.21310)
@@ -4600,6 +4625,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Privacy Auditing Synthetic Data Release through Local Likelihood Attacks](https://arxiv.org//abs/2508.21146)
 
 	Joshua Ward, Chi-Hua Wang, Guang Cheng
+
++ [Dyslexify: A Mechanistic Defense Against Typographic Attacks in CLIP](https://arxiv.org/abs/2508.20570)
+
+	Lorenz Hufe, Constantin Venhoff, Erblina Purelku, Maximilian Dreyer, Sebastian Lapuschkin, Wojciech Samek
 
 # 2025-08-27
 + [Caught in the Act: a mechanistic approach to detecting deception](https://arxiv.org//abs/2508.19505)
@@ -12998,6 +13027,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [HiLight: A Hierarchical Reinforcement Learning Framework with Global Adversarial Guidance for Large-Scale Traffic Signal Control](https://arxiv.org//abs/2506.14391)
 
 	Yaqiao Zhu, Hongkai Wen, Geyong Min, Man Luo
+
++ [RL-Obfuscation: Can Language Models Learn to Evade Latent-Space Monitors?](https://arxiv.org/abs/2506.14261)
+
+	Rohan Gupta, Erik Jenner
 
 # 2025-06-16
 + [A Practical Guide for Evaluating LLMs and LLM-Reliant Systems](https://arxiv.org//abs/2506.13023)
