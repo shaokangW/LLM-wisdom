@@ -1,6 +1,23 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-04
++ [Why Do Unlearnable Examples Work: A Novel Perspective of Mutual Information](https://arxiv.org/abs/2603.03725)
+
+	Yifan Zhu, Yibo Miao, Yinpeng Dong, Xiao-Shan Gao
+
++ [Spectral Surgery: Training-Free Refinement of LoRA via Gradient-Guided Singular Value Reweighting](https://arxiv.org/abs/2603.03995)
+
+	Zailong Tian, Yanzhe Chen, Zhuoheng Han, Lizi Liao
+
++ [Inference-Time Toxicity Mitigation in Protein Language Models](https://arxiv.org/abs/2603.04045)
+
+	Manuel Fernández Burda, Santiago Aranguri, Iván Arcuschin Moreno, Enzo Ferrante
+
++ [Efficient Refusal Ablation in LLM through Optimal Transport](https://arxiv.org/abs/2603.04355)
+
+	Geraldin Nanfack, Eugene Belilovsky, Elvis Dohmatob
+
 # 2026-03-02
 + [Words & Weights: Streamlining Multi-Turn Interactions via Co-Adaptation](https://arxiv.org/abs/2603.01375)
 
@@ -17,6 +34,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [ALTER: Asymmetric LoRA for Token-Entropy-Guided Unlearning of LLMs](https://arxiv.org/abs/2603.01792)
 
 	Xunlei Chen, Jinyu Guo, Yuang Li, Zhaokun Wang, Yi Gong, Jie Zou, Jiwei Wei, Wenhong Tian
+
++ [Sleeper Cell: Injecting Latent Malice Temporal Backdoors into Tool-Using LLMs](https://arxiv.org/abs/2603.03371)
+
+	Bhanu Pallakonda, Mikkel Hindsbo, Sina Ehsani, Prag Mishra
 
 # 2026-03-01
 + [Forgetting is Competition: Rethinking Unlearning as Representation Interference in Diffusion Models](https://arxiv.org/abs/2603.00975)
@@ -389,6 +410,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Frank Xiao, Santiago Aranguri
 
++ [Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335)
+
+	Anna Bair, Yixuan Even Xu, Mingjie Sun, J. Zico Kolter
+
 # 2026-02-10
 + [Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment](https://arxiv.org/abs/2602.10161)
 
@@ -481,6 +506,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Trustworthy Agentic AI Requires Deterministic Architectural Boundaries](https://arxiv.org/abs/2602.09947)
 
 	Manish Bhattarai, Minh Vu
+
++ [Controlling Chat Style in Language Models via Single-Direction Editing](https://arxiv.org/abs/2603.03324)
+
+	Zhenyu Xu, Victor S. Sheng
 
 # 2026-02-09
 + [UniComp: A Unified Evaluation of Large Language Model Compression via Pruning, Quantization and Distillation](https://arxiv.org/abs/2602.09130)
@@ -1975,6 +2004,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Yiyang Huang, Liang Shi, Yitian Zhang, Yi Xu, Yun Fu
 
+# 2025-10-16
++ [Circuit Insights: Towards Interpretability Beyond Activations](https://arxiv.org/abs/2510.14936)
+
+	Elena Golimblevskaia, Aakriti Jain, Bruno Puri, Ammar Ibrahim, Wojciech Samek, Sebastian Lapuschkin
+
 # 2025-10-14
 + [Precise Attribute Intensity Control in Large Language Models via Targeted Representation Editing](https://arxiv.org/abs/2510.12121)
 
@@ -2615,6 +2649,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Bilinear representation mitigates reversal curse and enables consistent model editing](https://arxiv.org/abs/2509.21993)
 
 	Dong-Kyum Kim, Minsung Kim, Jea Kwon, Nakyeong Yang, Meeyoung Cha
+
++ [Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning](https://arxiv.org/abs/2509.22263)
+
+	Nakyeong Yang, Dong-Kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha
 
 # 2025-09-25
 + [SAGE: A Realistic Benchmark for Semantic Understanding](https://arxiv.org//abs/2509.21310)
@@ -29831,6 +29869,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org//abs/2504.20376)
 
 	Shiqian Zhao, Jiayang Liu, Yiming Li, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan
+
++ [When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org/abs/2504.20376)
+
+	Shiqian Zhao, Jiayang Liu, Yiming Li, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xiao Bao, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan
 
 # 2025-04-28
 + [GVPO: Group Variance Policy Optimization for Large Language Model Post-Training](https://arxiv.org//abs/2504.19599)
