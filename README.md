@@ -1,6 +1,24 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-10
++ [Curveball Steering: The Right Direction To Steer Isn't Always Linear](https://arxiv.org/abs/2603.09313)
+
+	Shivam Raval, Hae Jin Song, Linlin Wu, Abir Harrasse, Jeff Phillips, Amirali Abdullah
+
++ [Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions](https://arxiv.org/abs/2603.09938)
+
+	Mingyang Song, Mao Zheng
+
++ [Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models](https://arxiv.org/abs/2603.09246)
+
+	Quanchen Zou, Moyang Chen, Zonghao Ying, Wenzhuo Xu, Yisong Xiao, Deyue Zhang, Dongdong Yang, Zhao Liu, Xiangzheng Zhang
+
+# 2026-03-05
++ [Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation](https://arxiv.org/abs/2603.05494)
+
+	Helena Casademunt, Bartosz Cywiński, Khoi Tran, Arya Jakkli, Samuel Marks, Neel Nanda
+
 # 2026-03-04
 + [Why Do Unlearnable Examples Work: A Novel Perspective of Mutual Information](https://arxiv.org/abs/2603.03725)
 
@@ -4612,6 +4630,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Deep opacity and AI: A threat to XAI and to privacy protection mechanisms](https://arxiv.org//abs/2509.08835)
 
 	Vincent C. Müller
+
++ [When Thinking Backfires: Mechanistic Insights Into Reasoning-Induced Misalignment](https://arxiv.org/abs/2509.00544)
+
+	Hanqi Yan, Hainiu Xu, Siya Qi, Shu Yang, Yulan He
 
 # 2025-08-29
 + [zkLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs](https://arxiv.org//abs/2508.21393)
@@ -25109,6 +25131,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Kaustubh Ponkshe, Shaan Shah, Raghav Singhal, Praneeth Vepakomma
 
++ [UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models](https://arxiv.org/abs/2505.14679)
+
+	Xiaojie Gu, Ziying Huang, Jia-Chen Gu, Kai Zhang
+
 # 2025-05-19
 + [Bullying the Machine: How Personas Increase LLM Vulnerability](https://arxiv.org//abs/2505.12692)
 
@@ -26283,6 +26309,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [EAMET: Robust Massive Model Editing via Embedding Alignment Optimization](https://arxiv.org/abs/2505.11876)
 
 	Yanbo Dai, Zhenlan Ji, Zongjie Li, Shuai Wang
+
++ [JULI: Jailbreak Large Language Models by Self-Introspection](https://arxiv.org/abs/2505.11790)
+
+	Jesson Wang, Zhanhao Hu, David Wagner
 
 # 2025-05-16
 + [PoE-World: Compositional World Modeling with Products of Programmatic Experts](https://arxiv.org//abs/2505.10819)
