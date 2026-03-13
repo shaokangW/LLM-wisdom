@@ -1,6 +1,40 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-12
++ [Deactivating Refusal Triggers: Understanding and Mitigating Overrefusal in Safety Alignment](https://arxiv.org/abs/2603.11388)
+
+	Zhiyu Xue, Zimo Qi, Guangliang Liu, Bocheng Chen, Ramtin Pedarsani
+
++ [OrthoEraser: Coupled-Neuron Orthogonal Projection for Concept Erasure](https://arxiv.org/abs/2603.11493)
+
+	Chuancheng Shi, Wenhua Wu, Fei Shen, Xiaogang Zhu, Kun Hu, Zhiyong Wang
+
++ [Cascade: Composing Software-Hardware Attack Gadgets for Adversarial Threat Amplification in Compound AI Systems](https://arxiv.org/abs/2603.12023)
+
+	Sarbartha Banerjee, Prateek Sahu, Anjo Vahldiek-Oberwagner, Jose Sanchez Vicarte, Mohit Tiwari
+
+# 2026-03-11
++ [Reversible Lifelong Model Editing via Semantic Routing-Based LoRA](https://arxiv.org/abs/2603.11239)
+
+	Haihua Luo, Xuming Ran, Tommi Kärkkäinen, Zhonghua Chen, Jiangrong Shen, Qi Xu, Fengyu Cong
+
++ [The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning](https://arxiv.org/abs/2603.11266)
+
+	Raj Sanjay Shah, Jing Huang, Keerthiram Murugesan, Nathalie Baracaldo, Diyi Yang
+
++ [Unlearning the Unpromptable: Prompt-free Instance Unlearning in Diffusion Models](https://arxiv.org/abs/2603.10445)
+
+	Kyungryeol Lee, Kyeonghyun Lee, Seongmin Hong, Byung Hyun Lee, Se Young Chun
+
++ [Reference-Guided Machine Unlearning](https://arxiv.org/abs/2603.11210)
+
+	Jonas Mirlach, Sonia Laguna, Julia E. Vogt
+
++ [Security-by-Design for LLM-Based Code Generation: Leveraging Internal Representations for Concept-Driven Steering Mechanisms](https://arxiv.org/abs/2603.11212)
+
+	Maximilian Wendlinger, Daniel Kowatsch, Konstantin Böttinger, Philip Sperl
+
 # 2026-03-10
 + [Curveball Steering: The Right Direction To Steer Isn't Always Linear](https://arxiv.org/abs/2603.09313)
 
@@ -1794,6 +1828,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Multi-Agent-Driven Cognitive Secure Communications in Satellite-Terrestrial Networks](https://arxiv.org/abs/2602.06048)
 
 	Yujie Ling, Zan Li, Lei Guan, Zheng Zhang, Shengyu Zhang, Tony Q.S. Quek
+
+# 2026-01-05
++ [Hidden State Poisoning Attacks against Mamba-based Language Models](https://arxiv.org/abs/2601.01972)
+
+	Alexandre Le Mercier, Chris Develder, Thomas Demeester
 
 # 2025-12-31
 + [The Trojan in the Vocabulary: Stealthy Sabotage of LLM Composition](https://arxiv.org/abs/2601.00065)
@@ -23652,6 +23691,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Refusal Direction is Universal Across Safety-Aligned Languages](https://arxiv.org/abs/2505.17306)
 
 	Xinpeng Wang, Mingyang Wang, Yihong Liu, Hinrich Schütze, Barbara Plank
+
++ [Hiding in Plain Sight: A Steganographic Approach to Stealthy LLM Jailbreaks](https://arxiv.org/abs/2505.16765)
+
+	Jianing Geng, Biao Yi, Zekun Fei, Ruiqi He, Lihai Nie, Tong Li, Zheli Liu
 
 # 2025-05-21
 + [ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges](https://arxiv.org//abs/2505.15068)
