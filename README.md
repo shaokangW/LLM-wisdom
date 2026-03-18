@@ -1,6 +1,31 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-17
++ [MOSAIC: Composable Safety Alignment with Modular Control Tokens](https://arxiv.org/abs/2603.16210)
+
+	Jingyu Peng, Hongyu Chen, Jiancheng Dong, Maolin Wang, Wenxi Li, Yuchen Li, Kai Zhang, Xiangyu Zhao
+
++ [V-DyKnow: A Dynamic Benchmark for Time-Sensitive Knowledge in Vision Language Models](https://arxiv.org/abs/2603.16581)
+
+	Seyed Mahed Mousavi, Christian Moiola, Massimo Rizzoli, Simone Alghisi, Giuseppe Riccardi
+
++ [FederatedFactory: Generative One-Shot Learning for Extremely Non-IID Distributed Scenarios](https://arxiv.org/abs/2603.16370)
+
+	Andrea Moleri, Christian Internò, Ali Raza, Markus Olhofer, David Klindt, Fabio Stella, Barbara Hammer
+
++ [Unlearning for One-Step Generative Models via Unbalanced Optimal Transport](https://arxiv.org/abs/2603.16489)
+
+	Hyundo Choi, Junhyeong An, Jinseong Park, Jaewoong Choi
+
++ [REFORGE: Multi-modal Attacks Reveal Vulnerable Concept Unlearning in Image Generation Models](https://arxiv.org/abs/2603.16576)
+
+	Yong Zou, Haoran Li, Fanxiao Li, Shenyang Wei, Yunyun Dong, Li Tang, Wei Zhou, Renyang Liu
+
++ [Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits](https://arxiv.org/abs/2603.16335)
+
+	Jia Qing Yap
+
 # 2026-03-16
 + [SCAN: Sparse Circuit Anchor Interpretable Neuron for Lifelong Knowledge Editing](https://arxiv.org/abs/2603.15226)
 
@@ -25,6 +50,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Rethinking Machine Unlearning: Models Designed to Forget via Key Deletion](https://arxiv.org/abs/2603.15033)
 
 	Sonia Laguna, Jorge da Silva Goncalves, Moritz Vandenhirtz, Alain Ryser, Irene Cannistraci, Julia E. Vogt
+
++ [Understanding Moral Reasoning Trajectories in Large Language Models: Toward Probing-Based Explainability](https://arxiv.org/abs/2603.16017)
+
+	Fan Huang, Haewoon Kwak, Jisun An
 
 # 2026-03-15
 + [Relationship-Aware Safety Unlearning for Multimodal LLMs](https://arxiv.org/abs/2603.14185)
@@ -54,6 +83,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Activation Surgery: Jailbreaking White-box LLMs without Touching the Prompt](https://arxiv.org/abs/2603.14278)
 
 	Maël Jenny, Jérémie Dentan, Sonia Vanier, Michaël Krajecki
+
++ [State-Dependent Safety Failures in Multi-Turn Language Model Interaction](https://arxiv.org/abs/2603.15684)
+
+	Pengcheng Li, Jie Zhang, Tianwei Zhang, Han Qiu, Zhang kejun, Weiming Zhang, Nenghai Yu, Wenbo Zhou
 
 # 2026-03-14
 + [The Phenomenology of Hallucinations](https://arxiv.org/abs/2603.13911)
@@ -176,10 +209,19 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Quanchen Zou, Moyang Chen, Zonghao Ying, Wenzhuo Xu, Yisong Xiao, Deyue Zhang, Dongdong Yang, Zhao Liu, Xiangzheng Zhang
 
++ [Amnesia: Adversarial Semantic Layer Specific Activation Steering in Large Language Models](https://arxiv.org/abs/2603.10080)
+
+	Ali Raza, Gurang Gupta, Nikolay Matyunin, Jibesh Patra
+
 # 2026-03-09
 + [From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions](https://arxiv.org/abs/2603.13359)
 
 	Rishab Alagharu, Ishneet Sukhvinder Singh, Shaibi Shamsudeen, Zhen Wu, Ashwinee Panda
+
+# 2026-03-08
++ [Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](https://arxiv.org/abs/2603.15656)
+
+	Peiyu Yang, Naveed Akhtar, Jiantong Jiang, Ajmal Mian
 
 # 2026-03-06
 + [Depth Charge: Jailbreak Large Language Models from Deep Safety Attention Heads](https://arxiv.org/abs/2603.05772)
@@ -194,6 +236,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation](https://arxiv.org/abs/2603.05494)
 
 	Helena Casademunt, Bartosz Cywiński, Khoi Tran, Arya Jakkli, Samuel Marks, Neel Nanda
+
++ [Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722)
+
+	Jihoon Jeong
 
 # 2026-03-04
 + [Why Do Unlearnable Examples Work: A Novel Perspective of Mutual Information](https://arxiv.org/abs/2603.03725)
@@ -2129,6 +2175,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [ModHiFi: Identifying High Fidelity predictive components for Model Modification](https://arxiv.org/abs/2511.19566)
 
 	Dhruva Kashyap, Chaitanya Murti, Pranav K Nayak, Tanay Narshana, Chiranjib Bhattacharyya
+
+# 2025-11-23
++ [SineProject: Machine Unlearning for Stable Vision Language Alignment](https://arxiv.org/abs/2511.18444)
+
+	Arpit Garg, Hemanth Saratchandran, Simon Lucey
 
 # 2025-11-21
 + [Geometric-disentangelment Unlearning](https://arxiv.org/abs/2511.17100)
