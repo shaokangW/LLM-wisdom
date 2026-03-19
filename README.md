@@ -1,6 +1,27 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-18
++ [Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](https://arxiv.org/abs/2603.17305)
+
+	Haozheng Luo, Yimin Wang, Jiahao Yu, Binghui Wang, Yan Chen
+
++ [Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift](https://arxiv.org/abs/2603.17372)
+
+	Zhihua Wei, Qiang Li, Jian Ruan, Zhenxin Qin, Leilei Wen, Dongrui Liu, Wen Shen
+
++ [Neuron-Level Emotion Control in Speech-Generative Large Audio-Language Models](https://arxiv.org/abs/2603.17231)
+
+	Xiutian Zhao, Ismail Rasim Ulgen, Philipp Koehn, Björn Schuller, Berrak Sisman
+
++ [DebugLM: Learning Traceable Training Data Provenance for LLMs](https://arxiv.org/abs/2603.17884)
+
+	Wenjie Jacky Mo, Qin Liu, Xiaofei Wen, Wenxuan Zhou, Zhe Zhao, Muhao Chen
+
++ [TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models](https://arxiv.org/abs/2603.17828)
+
+	Qianlong Xiang, Miao Zhang, Haoyu Zhang, Kun Wang, Junhui Hou, Liqiang Nie
+
 # 2026-03-17
 + [MOSAIC: Composable Safety Alignment with Modular Control Tokens](https://arxiv.org/abs/2603.16210)
 
@@ -25,6 +46,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits](https://arxiv.org/abs/2603.16335)
 
 	Jia Qing Yap
+
++ [Knowledge Localization in Mixture-of-Experts LLMs Using Cross-Lingual Inconsistency](https://arxiv.org/abs/2603.17102)
+
+	Lucas Bandarkar, Alan Ansell, Trevor Cohn
 
 # 2026-03-16
 + [SCAN: Sparse Circuit Anchor Interpretable Neuron for Lifelong Knowledge Editing](https://arxiv.org/abs/2603.15226)
@@ -2156,6 +2181,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Kunj Joshi, Jaydeep Borkar, David A. Smith
 
+# 2025-12-01
++ [Provably Safe Model Updates](https://arxiv.org/abs/2512.01899)
+
+	Leo Elmecker-Plakolm, Pierre Fasterling, Philip Sosnin, Calvin Tsay, Matthew Wicker
+
 # 2025-11-30
 + [Sliced Rényi Pufferfish Privacy: Directional Additive Noise Mechanism and Private Learning with Gradient Clipping](https://arxiv.org/abs/2512.01115)
 
@@ -2546,6 +2576,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [SUIT: Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502)
 
 	Haewon Park, Sangwoo Kim, Yohan Jo
+
++ [Stable Forgetting: Bounded Parameter-Efficient Unlearning in Foundation Models](https://arxiv.org/abs/2509.24166)
+
+	Arpit Garg, Hemanth Saratchandran, Ravi Garg, Simon Lucey
 
 # 2025-09-28
 + [Formalization Driven LLM Prompt Jailbreaking via Reinforcement Learning](https://arxiv.org//abs/2509.23558)
@@ -6771,6 +6805,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Robust Market Making: To Quote, or not To Quote](https://arxiv.org//abs/2508.16588)
 
 	Ziyi Wang, Carmine Ventre, Maria Polukarov
+
++ [Learning from Oblivion: Predicting Knowledge Overflowed Weights via Retrodiction of Forgetting](https://arxiv.org/abs/2508.05059)
+
+	Jinhyeok Jang, Jaehong Kim, Jung Uk Kim
 
 # 2025-08-06
 + [The Emotional Baby Is Truly Deadly: Does your Multimodal Large Reasoning Model Have Emotional Flattery towards Humans?](https://arxiv.org//abs/2508.03986)
