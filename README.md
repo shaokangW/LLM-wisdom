@@ -1,6 +1,39 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-19
++ [Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM](https://arxiv.org/abs/2603.18507)
+
+	Zizhao Hu, Mohammad Rostami, Jesse Thomason
+
++ [A Concept is More Than a Word: Diversified Unlearning in Text-to-Image Diffusion Models](https://arxiv.org/abs/2603.18767)
+
+	Duc Hao Pham, Van Duy Truong, Duy Khanh Dinh, Tien Cuong Nguyen, Dien Hy Ngo, Tuan Anh Bui
+
++ [WASD: Locating Critical Neurons as Sufficient Conditions for Explaining and Controlling LLM Behavior](https://arxiv.org/abs/2603.18474)
+
+	Haonan Yu, Junhao Liu, Zhenyu Yan, Haoran Lin, Xin Zhang
+
++ [SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models](https://arxiv.org/abs/2603.19028)
+
+	Quentin Guimard, Federico Bartsch, Simone Caldarella, Rahaf Aljundi, Elisa Ricci, Massimiliano Mancini
+
++ [SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues](https://arxiv.org/abs/2603.19092)
+
+	Carlos Hinojosa, Clemens Grange, Bernard Ghanem
+
++ [FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning](https://arxiv.org/abs/2603.19101)
+
+	Sheng Liu, Panos Papadimitratos
+
++ [UGID: Unified Graph Isomorphism for Debiasing Large Language Models](https://arxiv.org/abs/2603.19144)
+
+	Zikang Ding, Junchi Yao, Junhao Li, Yi Zhang, Wenbo Jiang, Hongbo Liu, Lijie Hu
+
++ [CNT: Safety-oriented Function Reuse across LLMs via Cross-Model Neuron Transfer](https://arxiv.org/abs/2603.18449)
+
+	Yue Zhao, Yujia Gong, Ruigang Liang, Shenchen Zhu, Kai Chen, Xuejing Yuan, Wangjun Zhang
+
 # 2026-03-18
 + [Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](https://arxiv.org/abs/2603.17305)
 
@@ -21,6 +54,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models](https://arxiv.org/abs/2603.17828)
 
 	Qianlong Xiang, Miao Zhang, Haoyu Zhang, Kun Wang, Junhui Hou, Liqiang Nie
+
++ [FaithSteer-BENCH: A Deployment-Aligned Stress-Testing Benchmark for Inference-Time Steering](https://arxiv.org/abs/2603.18329)
+
+	Zikang Ding, Qiying Hu, Yi Zhang, Hongji Li, Junchi Yao, Hongbo Liu, Lijie Hu
+
++ [Interpretability without actionability: mechanistic methods cannot correct language model errors despite near-perfect internal representations](https://arxiv.org/abs/2603.18353)
+
+	Sanjay Basu, Sadiq Y. Patel, Parth Sheth, Bhairavi Muralidharan, Namrata Elamaran, Aakriti Kinra, John Morgan, Rajaie Batniji
+
++ [Detection Is Cheap, Routing Is Learned: Why Refusal-Based Alignment Evaluation Fails](https://arxiv.org/abs/2603.18280)
+
+	Gregory N. Frank
 
 # 2026-03-17
 + [MOSAIC: Composable Safety Alignment with Modular Control Tokens](https://arxiv.org/abs/2603.16210)
@@ -247,6 +292,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](https://arxiv.org/abs/2603.15656)
 
 	Peiyu Yang, Naveed Akhtar, Jiantong Jiang, Ajmal Mian
+
++ [Engineering Verifiable Modularity in Transformers via Per-Layer Supervision](https://arxiv.org/abs/2603.18029)
+
+	J. Clayton Kerce
 
 # 2026-03-06
 + [Depth Charge: Jailbreak Large Language Models from Deep Safety Attention Heads](https://arxiv.org/abs/2603.05772)
@@ -2196,6 +2245,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Bokang Zhang, Hong Guan, Hong kyu Lee, Ruixuan Liu, Jia Zou, Li Xiong
 
+# 2025-11-26
++ [Steering Awareness: Detecting Activation Steering from Within](https://arxiv.org/abs/2511.21399)
+
+	Joshua Fonseca Rivera, David Demitri Africa
+
 # 2025-11-25
 + [Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](https://arxiv.org/abs/2511.20002)
 
@@ -2239,6 +2293,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [GraphToxin: Reconstructing Full Unlearned Graphs from Graph Unlearning](https://arxiv.org/abs/2511.10936)
 
 	Ying Song, Balaji Palanisamy
+
+# 2025-11-12
++ [iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification](https://arxiv.org/abs/2511.08905)
+
+	Zixun Xiong, Gaoyi Wu, Qingyang Yu, Mingyu Derek Ma, Lingfeng Yao, Miao Pan, Xiaojiang Du, Hao Wang
 
 # 2025-11-07
 + [A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476)
