@@ -1,6 +1,19 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-20
++ [Pitfalls in Evaluating Interpretability Agents](https://arxiv.org/abs/2603.20101)
+
+	Tal Haklay, Nikhil Prakash, Sana Pandey, Antonio Torralba, Aaron Mueller, Jacob Andreas, Tamar Rott Shaham, Yonatan Belinkov
+
++ [On the Dynamics & Transferability of Latent Generalization during Memorization](https://arxiv.org/abs/2603.19865)
+
+	Simran Ketha, Venkatakrishnan Ramaswamy
+
++ [Trojan horse hunt in deep forecasting models: Insights from the European Space Agency competition](https://arxiv.org/abs/2603.20108)
+
+	Krzysztof Kotowski, Ramez Shendy, Jakub Nalepa, Agata Kaczmarek, Dawid Płudowski, Piotr Wilczyński, Artur Janicki, Przemysław Biecek, Ambros Marzetta, Atul Pande, Lalit Chandra Routhu, Swapnil Srivastava, Evridiki Ntagiou
+
 # 2026-03-19
 + [Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM](https://arxiv.org/abs/2603.18507)
 
@@ -265,6 +278,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Security-by-Design for LLM-Based Code Generation: Leveraging Internal Representations for Concept-Driven Steering Mechanisms](https://arxiv.org/abs/2603.11212)
 
 	Maximilian Wendlinger, Daniel Kowatsch, Konstantin Böttinger, Philip Sperl
+
++ [Parameter-Efficient Token Embedding Editing for Clinical Class-Level Unlearning](https://arxiv.org/abs/2603.19302)
+
+	Iyad Ait Hou, Shrenik Borad, Harsh Sharma, Pooja Srinivasan, Rebecca Hwa, Aya Zirikly
+
++ [CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297)
+
+	Manit Baser, Alperen Yildiz, Dinil Mon Divakaran, Mohan Gurusamy
 
 # 2026-03-10
 + [Curveball Steering: The Right Direction To Steer Isn't Always Linear](https://arxiv.org/abs/2603.09313)
