@@ -1,6 +1,45 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-23
++ [DSPA: Dynamic SAE Steering for Data-Efficient Preference Alignment](https://arxiv.org/abs/2603.21461)
+
+	James Wedgwood, Aashiq Muhamed, Mona T. Diab, Virginia Smith
+
++ [On the Failure of Topic-Matched Contrast Baselines in Multi-Directional Refusal Abliteration](https://arxiv.org/abs/2603.22061)
+
+	Valentin Petrov
+
++ [Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models](https://arxiv.org/abs/2603.21484)
+
+	Hyundong Jin, Dongyoon Han, Eunwoo Kim
+
++ [PROBE: Diagnosing Residual Concept Capacity in Erased Text-to-Video Diffusion Models](https://arxiv.org/abs/2603.21547)
+
+	Yiwei Xie, Zheng Zhang, Ping Liu
+
++ [Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094)
+
+	Xingyu Zhu, Beier Zhu, Shuo Wang, Junfeng Fang, Kesen Zhao, Hanwang Zhang, Xiangnan He
+
+# 2026-03-22
++ [Stream separation improves Bregman conditioning in transformers](https://arxiv.org/abs/2603.21317)
+
+	James Clayton Kerce
+
++ [Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396)
+
+	Uzay Macar, Li Yang, Atticus Wang, Peter Wallich, Emmanuel Ameisen, Jack Lindsey
+
+# 2026-03-21
++ [Alignment Whack-a-Mole : Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models](https://arxiv.org/abs/2603.20957)
+
+	Xinyue Liu, Niloofar Mireshghallah, Jane C. Ginsburg, Tuhin Chakrabarty
+
++ [The Anatomy of an Edit: Mechanism-Guided Activation Steering for Knowledge Editing](https://arxiv.org/abs/2603.20795)
+
+	Yuan Cao, Mingyang Wang, Hinrich Schütze
+
 # 2026-03-20
 + [Pitfalls in Evaluating Interpretability Agents](https://arxiv.org/abs/2603.20101)
 
@@ -13,6 +52,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Trojan horse hunt in deep forecasting models: Insights from the European Space Agency competition](https://arxiv.org/abs/2603.20108)
 
 	Krzysztof Kotowski, Ramez Shendy, Jakub Nalepa, Agata Kaczmarek, Dawid Płudowski, Piotr Wilczyński, Artur Janicki, Przemysław Biecek, Ambros Marzetta, Atul Pande, Lalit Chandra Routhu, Swapnil Srivastava, Evridiki Ntagiou
+
++ [Thinking in Different Spaces: Domain-Specific Latent Geometry Survives Cross-Architecture Translation](https://arxiv.org/abs/2603.20406)
+
+	Marcus Armstrong, Navid Ayoobi, Arjun Mukherjee
 
 # 2026-03-19
 + [Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM](https://arxiv.org/abs/2603.18507)
@@ -308,6 +351,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions](https://arxiv.org/abs/2603.13359)
 
 	Rishab Alagharu, Ishneet Sukhvinder Singh, Shaibi Shamsudeen, Zhen Wu, Ashwinee Panda
+
++ [Invisible Safety Threat: Malicious Finetuning for LLM via Steganography](https://arxiv.org/abs/2603.08104)
+
+	Guangnian Wan, Xinyin Ma, Gongfan Fang, Xinchao Wang
 
 # 2026-03-08
 + [Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](https://arxiv.org/abs/2603.15656)
@@ -2199,6 +2246,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Piercosma Bisconti, Marcello Galisai, Matteo Prandi, Federico Pierucci, Olga Sorokoletova, Francesco Giarrusso, Vincenzo Suriani, Marcantonio Bracale Syrnikov, Daniele Nardi
 
++ [Massive Editing for Large Language Models Based on Dynamic Weight Generation](https://arxiv.org/abs/2512.14395)
+
+	Wentao Wan, Qiqing Lao, Zhiwei Xie, Hefeng Wu, Runnan Lin, Liang Lin, Keze Wang
+
 # 2025-12-15
 + [Dual-Phase Federated Deep Unlearning via Weight-Aware Rollback and Reconstruction](https://arxiv.org/abs/2512.13381)
 
@@ -2461,6 +2512,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Learning from Failures: Understanding LLM Alignment through Failure-Aware Inverse RL](https://arxiv.org/abs/2510.06092)
 
 	Nyal Patel, Matthieu Bou, Arjun Jagota, Satyapriya Krishna, Sonali Parbhoo
+
+# 2025-10-06
++ [Learning to Interpret Weight Differences in Language Models](https://arxiv.org/abs/2510.05092)
+
+	Avichal Goel, Yoon Kim, Nir Shavit, Tony T. Wang
 
 # 2025-10-05
 + [MLLMEraser: Achieving Test-Time Unlearning in Multimodal Large Language Models through Activation Steering](https://arxiv.org/abs/2510.04217)
@@ -3240,6 +3296,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [FORCE: Transferable Visual Jailbreaking Attacks via Feature Over-Reliance CorrEction](https://arxiv.org/abs/2509.21029)
 
 	Runqi Lin, Alasdair Paren, Suqin Yuan, Muyang Li, Philip Torr, Adel Bibi, Tongliang Liu
+
++ [Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs](https://arxiv.org/abs/2509.21305)
+
+	Daniel Vennemeyer, Phan Anh Duong, Tiffany Zhan, Tianyu Jiang
 
 # 2025-09-24
 + [LatentGuard: Controllable Latent Steering for Robust Refusal of Attacks and Reliable Response Generation](https://arxiv.org//abs/2509.19839)
@@ -6185,6 +6245,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Assessing User Privacy Leakage in Synthetic Packet Traces: An Attack-Grounded Approach](https://arxiv.org//abs/2508.11742)
 
 	Minhao Jin, Hongyu He, Maria Apostolaki
+
++ [SafeConstellations: Mitigating Over-Refusals in LLMs Through Task-Aware Representation Steering](https://arxiv.org/abs/2508.11290)
+
+	Utsav Maskey, Sumit Yadav, Mark Dras, Usman Naseem
 
 # 2025-08-14
 + [A Vision-Language Pre-training Model-Guided Approach for Mitigating Backdoor Attacks in Federated Learning](https://arxiv.org//abs/2508.10315)
