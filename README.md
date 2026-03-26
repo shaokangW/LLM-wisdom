@@ -1,6 +1,11 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-25
++ [Analysing the Safety Pitfalls of Steering Vectors](https://arxiv.org/abs/2603.24543)
+
+	Yuxiao Li, Alina Fastowski, Efstratios Zaradoukas, Bardh Prenkaj, Gjergji Kasneci
+
 # 2026-03-24
 + [Between Rules and Reality: On the Context Sensitivity of LLM Moral Judgment](https://arxiv.org/abs/2603.23114)
 
@@ -1572,6 +1577,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Youngji Roh, Hyunjin Cho, Jaehyung Kim
 
++ [SPARE: Self-distillation for PARameter-Efficient Removal](https://arxiv.org/abs/2602.07058)
+
+	Natnael Mola, Leonardo S. B. Pereira, Carolina R. Kelsch, Luis H. Arribas, Juan C. S. M. Avedillo
+
 # 2026-02-03
 + [Steering Externalities: Benign Activation Steering Unintentionally Increases Jailbreak Risk for Large Language Models](https://arxiv.org/abs/2602.04896)
 
@@ -2596,6 +2605,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172)
 
 	Qingyuan Liu, Jia-Chen Gu, Yunzhi Yao, Hong Wang, Nanyun Peng
+
++ [KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392)
+
+	Yinyi Luo, Zhexian Zhou, Hao Chen, Kai Qiu, Marios Savvides, Sharon Li, Jindong Wang
 
 # 2025-09-30
 + [CHAI: Command Hijacking against embodied AI](https://arxiv.org/abs/2510.00181)
@@ -22585,6 +22598,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Arman Zarei, Samyadeep Basu, Keivan Rezaei, Zihao Lin, Sayan Nag, Soheil Feizi
 
++ [Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774)
+
+	Mengqi Zhang, Zisheng Zhou, Xiaotian Ye, Qiang Liu, Zhaochun Ren, Zhumin Chen, Pengjie Ren
+
 # 2025-05-23
 + [Misaligning Reasoning with Answers -- A Framework for Assessing LLM CoT Robustness](https://arxiv.org//abs/2505.17406)
 
@@ -38590,6 +38607,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Circuit Compositions: Exploring Modular Structures in Transformer-Based Language Models](https://arxiv.org//abs/2410.01434)
 
 	Philipp Mondorf, Sondre Wold, Barbara Plank
+
++ [Inspection and Control of Self-Generated-Text Recognition Ability in Llama3-8b-Instruct](https://arxiv.org/abs/2410.02064)
+
+	Christopher Ackerman, Nina Panickssery
 
 # 2024-10-01
 + [RATIONALYST: Mining Implicit Rationales for Process Supervision of Reasoning](https://arxiv.org//abs/2410.01044)
