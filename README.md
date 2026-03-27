@@ -1,10 +1,27 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-26
++ [Mechanistically Interpreting Compression in Vision-Language Models](https://arxiv.org/abs/2603.25035)
+
+	Veeraraju Elluru, Arth Singh, Roberto Aguero, Ajay Agarwal, Debojyoti Das, Hreetam Paul
+
++ [Closing the Confidence-Faithfulness Gap in Large Language Models](https://arxiv.org/abs/2603.25052)
+
+	Miranda Muqing Miao, Lyle Ungar
+
++ [Z-Erase: Enabling Concept Erasure in Single-Stream Diffusion Transformers](https://arxiv.org/abs/2603.25074)
+
+	Nanxiang Jiang, Zhaoxin Fan, Baisen Wang, Daiheng Gao, Junhang Cheng, Jifeng Guo, Yalan Qin, Yeying Jin, Hongwei Zheng, Faguo Wu, Wenjun Wu
+
 # 2026-03-25
 + [Analysing the Safety Pitfalls of Steering Vectors](https://arxiv.org/abs/2603.24543)
 
 	Yuxiao Li, Alina Fastowski, Efstratios Zaradoukas, Bardh Prenkaj, Gjergji Kasneci
+
++ [From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](https://arxiv.org/abs/2603.24653)
+
+	Francesco Gentile, Nicola Dall'Asen, Francesco Tonini, Massimiliano Mancini, Lorenzo Vaquero, Elisa Ricci
 
 # 2026-03-24
 + [Between Rules and Reality: On the Context Sensitivity of LLM Moral Judgment](https://arxiv.org/abs/2603.23114)
@@ -2502,6 +2519,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Israel Mason-Williams, Gabryel Mason-Williams, Helen Yannakoudakis
 
++ [Locket: Robust Feature-Locking Technique for Language Models](https://arxiv.org/abs/2510.12117)
+
+	Lipeng He, Vasisht Duddu, N. Asokan
+
 # 2025-10-13
 + [CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](https://arxiv.org/abs/2510.11137)
 
@@ -4117,6 +4138,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Early Approaches to Adversarial Fine-Tuning for Prompt Injection Defense: A 2022 Study of GPT-3 and Contemporary Models](https://arxiv.org//abs/2509.14271)
 
 	Gustavo Sandoval, Denys Fenchenko, Junyao Chen
+
++ [NeuroStrike: Neuron-Level Attacks on Aligned LLMs](https://arxiv.org/abs/2509.11864)
+
+	Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Maximilian Thang, Stjepan Picek, Ahmad-Reza Sadeghi
 
 # 2025-09-14
 + [Free-MAD: Consensus-Free Multi-Agent Debate](https://arxiv.org//abs/2509.11035)
@@ -14134,6 +14159,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285)
 
 	Houcheng Jiang, Zetong Zhao, Junfeng Fang, Haokai Ma, Ruipeng Wang, Xiang Wang, Xiangnan He, Yang Deng
+
++ [Instruction Following by Principled Boosting Attention of Large Language Models](https://arxiv.org/abs/2506.13734)
+
+	Vitoria Guardieiro, Avishree Khare, Adam Stein, Eric Wong
 
 # 2025-06-15
 + [SciSage: A Multi-Agent Framework for High-Quality Scientific Survey Generation](https://arxiv.org//abs/2506.12689)
