@@ -1,6 +1,19 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-27
++ [H-Node Attack and Defense in Large Language Models](https://arxiv.org/abs/2603.26045)
+
+	Eric Yocam, Varghese Vaidyan, Yong Wang
+
++ [SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning](https://arxiv.org/abs/2603.26316)
+
+	Cai Selvas-Sala, Lei Kang, Lluis Gomez
+
++ [Machine Unlearning under Retain-Forget Entanglement](https://arxiv.org/abs/2603.26569)
+
+	Jingpu Cheng, Ping Liu, Qianxiao Li, Chi Zhang
+
 # 2026-03-26
 + [Mechanistically Interpreting Compression in Vision-Language Models](https://arxiv.org/abs/2603.25035)
 
@@ -2509,6 +2522,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Circuit Insights: Towards Interpretability Beyond Activations](https://arxiv.org/abs/2510.14936)
 
 	Elena Golimblevskaia, Aakriti Jain, Bruno Puri, Ammar Ibrahim, Wojciech Samek, Sebastian Lapuschkin
+
+# 2025-10-15
++ [Attention Misses Visual Risk: Risk-Adaptive Steering for Multimodal Safety Alignment](https://arxiv.org/abs/2510.13698)
+
+	Jonghyun Park, Minhyuk Seo, Chaewon Yeo, Jonghyun Choi
 
 # 2025-10-14
 + [Precise Attribute Intensity Control in Large Language Models via Targeted Representation Editing](https://arxiv.org/abs/2510.12121)
