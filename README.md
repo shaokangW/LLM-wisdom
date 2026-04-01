@@ -1,10 +1,31 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-03-31
++ [Hallucination-aware intermediate representation edit in large vision-language models](https://arxiv.org/abs/2603.29405)
+
+	Wei Suo, Hanzu Zhang, Lijun Zhang, Ji Ma, Peng Wang, Yanning Zhang
+
++ [KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689)
+
+	Zhenning Chen, Hanbei Zhan, Yanwei Huang, Xin Wu, Dazhen Deng, Di Weng, Yingcai Wu
+
++ [Efficient Bilevel Optimization with KFAC-Based Hypergradients](https://arxiv.org/abs/2603.29108)
+
+	Disen Liao, Felix Dangel, Yaoliang Yu
+
 # 2026-03-30
 + [Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2603.27918)
 
 	Bhavuk Jain, Sercan Ö. Arık, Hardeo K. Thakur
+
++ [Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs](https://arxiv.org/abs/2603.28925)
+
+	Junsol Kim, Winnie Street, Roberta Rocca, Daine M. Korngiebel, Adam Waytz, James Evans, Geoff Keeling
+
++ [Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning](https://arxiv.org/abs/2603.29038)
+
+	Bilgehan Sel, Xuanli He, Alwin Peng, Ming Jin, Jerry Wei
 
 # 2026-03-29
 + [Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs](https://arxiv.org/abs/2603.27518)
@@ -366,6 +387,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Purifying Generative LLMs from Backdoors without Prior Knowledge or Clean Reference](https://arxiv.org/abs/2603.13461)
 
 	Jianwei Li, Jung-Eun Kim
+
++ [AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564)
+
+	Zekun Wu, Adriano Koshiyama, Sahan Bulathwela, Maria Perez-Ortiz
 
 # 2026-03-12
 + [Deactivating Refusal Triggers: Understanding and Mitigating Overrefusal in Safety Alignment](https://arxiv.org/abs/2603.11388)
@@ -2318,6 +2343,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Gökdeniz Gülmez
 
+# 2025-12-19
++ [EMMA: Concept Erasure Benchmark with Comprehensive Semantic Metrics and Diverse Categories](https://arxiv.org/abs/2512.17320)
+
+	Lu Wei, Yuta Nakashima, Noa Garcia
+
 # 2025-12-18
 + [Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602)
 
@@ -2375,6 +2405,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Data-Chain Backdoor: Do You Trust Diffusion Models as Generative Data Supplier?](https://arxiv.org/abs/2512.15769)
 
 	Junchi Lu, Xinke Li, Yuheng Liu, Qi Alfred Chen
+
+# 2025-12-11
++ [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](https://arxiv.org/abs/2512.10805)
+
+	Akshay Kulkarni, Tsui-Wei Weng, Vivek Narayanaswamy, Shusen Liu, Wesam A. Sakla, Kowshik Thopalli
 
 # 2025-12-10
 + [Hierarchy-Aware Multimodal Unlearning for Medical AI](https://arxiv.org/abs/2512.09867)
