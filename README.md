@@ -1,6 +1,23 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-02
++ [CRaFT: Circuit-Guided Refusal Feature Selection via Cross-Layer Transcoders](https://arxiv.org/abs/2604.01604)
+
+	Su-Hyeon Kim, Hyundong Jin, Yejin Lee, Yo-Sub Han
+
++ [TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](https://arxiv.org/abs/2604.02183)
+
+	Zhanting Zhou, KaHou Tam, Ziqiang Zheng, Zeyu Ma, Zhanting Zhou
+
++ [Why Instruction-Based Unlearning Fails in Diffusion Models?](https://arxiv.org/abs/2604.01514)
+
+	Zeliang Zhang, Rui Sun, Jiani Liu, Qi Wu, Chenliang Xu
+
++ [SafeRoPE: Risk-specific Head-wise Embedding Rotation for Safe Generation in Rectified Flow Transformers](https://arxiv.org/abs/2604.01826)
+
+	Xiang Yang, Feifei Li, Mi Zhang, Geng Hong, Xiaoyu You, Min Yang
+
 # 2026-04-01
 + [Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443)
 
@@ -21,6 +38,22 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [When Safe Models Merge into Danger: Exploiting Latent Vulnerabilities in LLM Fusion](https://arxiv.org/abs/2604.00627)
 
 	Jiaqing Li, Zhibo Zhang, Shide Zhou, Yuxi Li, Tianlong Yu, Kailong Wang
+
++ [CogBias: Measuring and Mitigating Cognitive Bias in Large Language Models](https://arxiv.org/abs/2604.01366)
+
+	Fan Huang, Songheng Zhang, Haewoon Kwak, Jisun An
+
++ [Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models](https://arxiv.org/abs/2604.01404)
+
+	Itay Yona, Dan Barzilay, Michael Karasik, Mor Geva
+
++ [Wired for Overconfidence: A Mechanistic Perspective on Inflated Verbalized Confidence in LLMs](https://arxiv.org/abs/2604.01457)
+
+	Tianyi Zhao, Yinhan He, Wendy Zheng, Yujie Zhang, Chen Chen
+
++ [When Reward Hacking Rebounds: Understanding and Mitigating It with Representation-Level Signals](https://arxiv.org/abs/2604.01476)
+
+	Rui Wu, Ruixiang Tang
 
 # 2026-03-31
 + [Hallucination-aware intermediate representation edit in large vision-language models](https://arxiv.org/abs/2603.29405)
@@ -2574,6 +2607,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Verifying LLM Inference to Detect Model Weight Exfiltration](https://arxiv.org/abs/2511.02620)
 
 	Roy Rinberg, Adam Karvonen, Alexander Hoover, Daniel Reuter, Keri Warr
+
+# 2025-11-03
++ [Align to Misalign: Automatic LLM Jailbreak with Meta-Optimized LLM Judges](https://arxiv.org/abs/2511.01375)
+
+	Hamin Koo, Minseon Kim, Jaehyung Kim
 
 # 2025-10-31
 + [BEAT: Visual Backdoor Attacks on VLM-based Embodied Agents via Contrastive Trigger Learning](https://arxiv.org/abs/2510.27623)
