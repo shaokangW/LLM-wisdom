@@ -1,6 +1,19 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-03
++ [Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning](https://arxiv.org/abs/2604.03114)
+
+	Zhangyun Tan, Zeliang Zhang, Susan Liang, Yolo Yunlong Tang, Lisha Chen, Chenliang Xu
+
++ [Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control](https://arxiv.org/abs/2604.03147)
+
+	Lihao Sun, Lewen Yan, Xiaoya Lu, Andrew Lee, Jie Zhang, Jing Shao
+
++ [Steerable but Not Decodable: Function Vectors Operate Beyond the Logit Lens](https://arxiv.org/abs/2604.02608)
+
+	Mohammed Suhail B Nadaf
+
 # 2026-04-02
 + [CRaFT: Circuit-Guided Refusal Feature Selection via Cross-Layer Transcoders](https://arxiv.org/abs/2604.01604)
 
@@ -17,6 +30,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [SafeRoPE: Risk-specific Head-wise Embedding Rotation for Safe Generation in Rectified Flow Transformers](https://arxiv.org/abs/2604.01826)
 
 	Xiang Yang, Feifei Li, Mi Zhang, Geng Hong, Xiaoyu You, Min Yang
+
++ [Understanding the Effects of Safety Unalignment on Large Language Models](https://arxiv.org/abs/2604.02574)
+
+	John T. Halloran
 
 # 2026-04-01
 + [Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443)
@@ -226,6 +243,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Thinking in Different Spaces: Domain-Specific Latent Geometry Survives Cross-Architecture Translation](https://arxiv.org/abs/2603.20406)
 
 	Marcus Armstrong, Navid Ayoobi, Arjun Mukherjee
+
++ [When Negation Is a Geometry Problem in Vision-Language Models](https://arxiv.org/abs/2603.20554)
+
+	Fawaz Sammani, Tzoulio Chamiti, Paul Gavrikov, Nikos Deligiannis
 
 # 2026-03-19
 + [Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM](https://arxiv.org/abs/2603.18507)
@@ -2695,6 +2716,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](https://arxiv.org/abs/2510.11137)
 
 	Zhuochen Yang, Kar Wai Fok, Vrizlynn L. L. Thing
+
+# 2025-10-12
++ [f-INE: A Hypothesis Testing Framework for Estimating Influence under Training Randomness](https://arxiv.org/abs/2510.10510)
+
+	Subhodip Panda, Dhruv Tarsadiya, Shashwat Sourav, Prathosh A.P, Sai Praneeth Karimireddy
 
 # 2025-10-11
 + [The Achilles' Heel of LLMs: How Altering a Handful of Neurons Can Cripple Language Abilities](https://arxiv.org/abs/2510.10238)
