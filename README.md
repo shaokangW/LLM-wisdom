@@ -1,6 +1,53 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-06
++ [How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models](https://arxiv.org/abs/2604.04385)
+
+	Gregory N. Frank
+
++ [Hallucination Basins: A Dynamic Framework for Understanding and Controlling LLM Hallucinations](https://arxiv.org/abs/2604.04743)
+
+	Kalyan Cherukuri, Lav R. Varshney
+
++ [Erasure or Erosion? Evaluating Compositional Degradation in Unlearned Text-To-Image Diffusion Models](https://arxiv.org/abs/2604.04575)
+
+	Arian Komaei Koma, Seyed Amir Kasaei, Ali Aghayari, AmirMahdi Sadeghzadeh, Mohammad Hossein Rohban
+
++ [Forgetting to Witness: Efficient Federated Unlearning and Its Visible Evaluation](https://arxiv.org/abs/2604.04800)
+
+	Houzhe Wang, Xiaojie Zhu, Chi Chen
+
+# 2026-04-05
++ [VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956)
+
+	Ravi Ranjan, Agoritsa Polyzou
+
++ [Subspace Control: Turning Constrained Model Steering into Controllable Spectral Optimization](https://arxiv.org/abs/2604.04231)
+
+	Yancheng Huang, Changsheng Wang, Chongyu Fan, Yicheng Lang, Bingqi Shang, Yang Zhang, Mingyi Hong, Qing Qu, Alvaro Velasquez, Sijia Liu
+
++ [Towards Unveiling Vulnerabilities of Large Reasoning Models in Machine Unlearning](https://arxiv.org/abs/2604.04255)
+
+	Aobo Chen, Chenxu Zhao, Chenglin Miao, Mengdi Huai
+
++ [Jellyfish: Zero-Shot Federated Unlearning Scheme with Knowledge Disentanglement](https://arxiv.org/abs/2604.04030)
+
+	Houzhe Wang, Xiaojie Zhu, Chi Chen
+
+# 2026-04-04
++ [Selective Forgetting for Large Reasoning Models](https://arxiv.org/abs/2604.03571)
+
+	Tuan Le, Wei Qian, Mengdi Huai
+
++ [Automated Attention Pattern Discovery at Scale in Large Language Models](https://arxiv.org/abs/2604.03764)
+
+	Jonathan Katzy, Razvan-Mihai Popescu, Erik Mekkes, Arie van Deursen, Maliheh Izadi
+
++ [Your Agent is More Brittle Than You Think: Uncovering Indirect Injection Vulnerabilities in Agentic LLMs](https://arxiv.org/abs/2604.03870)
+
+	Wenhui Zhu, Xuanzhao Dong, Xiwen Chen, Rui Cai, Peijie Qiu, Zhipeng Wang, Oana Frunza, Shao Tang, Jindong Gu, Yalin Wang
+
 # 2026-04-03
 + [Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning](https://arxiv.org/abs/2604.03114)
 
@@ -13,6 +60,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Steerable but Not Decodable: Function Vectors Operate Beyond the Logit Lens](https://arxiv.org/abs/2604.02608)
 
 	Mohammed Suhail B Nadaf
+
++ [MetaSAEs: Joint Training with a Decomposability Penalty Produces More Atomic Sparse Autoencoder Latents](https://arxiv.org/abs/2604.03436)
+
+	Matthew Levinson
 
 # 2026-04-02
 + [CRaFT: Circuit-Guided Refusal Feature Selection via Cross-Layer Transcoders](https://arxiv.org/abs/2604.01604)
@@ -105,6 +156,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning](https://arxiv.org/abs/2603.29038)
 
 	Bilgehan Sel, Xuanli He, Alwin Peng, Ming Jin, Jerry Wei
+
++ [Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction Tool for Neural Network Training](https://arxiv.org/abs/2603.28921)
+
+	Ivan Pasichnyk
 
 # 2026-03-29
 + [Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs](https://arxiv.org/abs/2603.27518)
@@ -217,6 +272,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396)
 
 	Uzay Macar, Li Yang, Atticus Wang, Peter Wallich, Emmanuel Ameisen, Jack Lindsey
+
++ [Knowledge Packs: Zero-Token Knowledge Delivery via KV Cache Injection](https://arxiv.org/abs/2604.03270)
+
+	Andrey Pustovit
 
 # 2026-03-21
 + [Alignment Whack-a-Mole : Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models](https://arxiv.org/abs/2603.20957)
@@ -1754,6 +1813,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Natnael Mola, Leonardo S. B. Pereira, Carolina R. Kelsch, Luis H. Arribas, Juan C. S. M. Avedillo
 
++ [RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/abs/2602.04448)
+
+	Jiacheng Liang, Yuhui Wang, Tanqiu Jiang, Ting Wang
+
 # 2026-02-03
 + [Steering Externalities: Benign Activation Steering Unintentionally Increases Jailbreak Risk for Large Language Models](https://arxiv.org/abs/2602.04896)
 
@@ -2727,6 +2790,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Zixuan Qin, Qingchen Yu, Kunlin Lyu, Zhaoxin Fan, Yifan Sun
 
++ [EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851)
+
+	Sicheng Lyu, Yu Gu, Xinyu Wang, Jerry Huang, Sitao Luan, Yufei Cui, Xiao-Wen Chang, Peng Lu
+
 # 2025-10-10
 + [Group-Adaptive Adversarial Learning for Robust Fake News Detection Against Malicious Comments](https://arxiv.org/abs/2510.09712)
 
@@ -2752,6 +2819,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Transmuting prompts into weights](https://arxiv.org/abs/2510.08734)
 
 	Hanna Mazzawi, Benoit Dherin, Michael Munn, Michael Wunder, Javier Gonzalvo
+
++ [Fewer Weights, More Problems: A Practical Attack on LLM Pruning](https://arxiv.org/abs/2510.07985)
+
+	Kazuki Egashira, Robin Staab, Thibaud Gloaguen, Mark Vero, Martin Vechev
 
 # 2025-10-08
 + [How Language Models Conflate Logical Validity with Plausibility: A Representational Analysis of Content Effects](https://arxiv.org/abs/2510.06700)
@@ -19386,6 +19457,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [On Fairness of Task Arithmetic: The Role of Task Vectors](https://arxiv.org/abs/2505.24262)
 
 	Hiroki Naganuma, Kotaro Yoshida, Laura Gomezjurado Gonzalez, Takafumi Horie, Yuji Naraki, Ryotaro Shimizu
+
++ [Beyond Linear Steering: Unified Multi-Attribute Control for Language Models](https://arxiv.org/abs/2505.24535)
+
+	Narmeen Oozeer, Luke Marks, Shreyans Jain, Fazl Barez, Amirali Abdullah
 
 # 2025-05-29
 + [Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness](https://arxiv.org//abs/2505.22960)
