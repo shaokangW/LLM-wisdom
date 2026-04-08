@@ -1,6 +1,39 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-07
++ [PECKER: A Precisely Efficient Critical Knowledge Erasure Recipe For Machine Unlearning in Diffusion Models](https://arxiv.org/abs/2604.05634)
+
+	Zhiyong Ma, Zhitao Deng, Huan Tang, Jialin Chen, Zhijun Zheng, Zhengping Li, Qingyuan Chuai
+
++ [Can Large Language Models Reinvent Foundational Algorithms?](https://arxiv.org/abs/2604.05716)
+
+	Jian Zhao, Haoren Luo, Yu Wang, Yuhan Cao, Pingyue Sheng, Tianxing He
+
++ [The Model Agreed, But Didn't Learn: Diagnosing Surface Compliance in Large Language Models](https://arxiv.org/abs/2604.05995)
+
+	Xiaojie Gu, Ziying Huang, Weicong Hong, Jian Xie, Renze Lou, Kai Zhang
+
++ [Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents](https://arxiv.org/abs/2604.05549)
+
+	Yanxu Mao, Peipei Liu, Tiehan Cui, Congying Liu, Mingzhe Xing, Datao You
+
++ [Mechanistic Circuit-Based Knowledge Editing in Large Language Models](https://arxiv.org/abs/2604.05876)
+
+	Tianyi Zhao, Yinhan He, Wendy Zheng, Chen Chen
+
++ [Disentangling MLP Neuron Weights in Vocabulary Space](https://arxiv.org/abs/2604.06005)
+
+	Asaf Avrahamy, Yoav Gur-Arieh, Mor Geva
+
++ [Exclusive Unlearning](https://arxiv.org/abs/2604.06154)
+
+	Mutsumi Sasaki, Kouta Nakayama, Yusuke Miyao, Yohei Oseki, Masaru Isonuma
+
++ [Efficient machine unlearning with minimax optimality](https://arxiv.org/abs/2604.05669)
+
+	Jingyi Xie, Linjun Zhang, Sai Li
+
 # 2026-04-06
 + [How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models](https://arxiv.org/abs/2604.04385)
 
@@ -17,6 +50,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Forgetting to Witness: Efficient Federated Unlearning and Its Visible Evaluation](https://arxiv.org/abs/2604.04800)
 
 	Houzhe Wang, Xiaojie Zhu, Chi Chen
+
++ [Improving Sparse Memory Finetuning](https://arxiv.org/abs/2604.05248)
+
+	Satyam Goyal, Anirudh Kanchi, Garv Shah, Prakhar Gupta
 
 # 2026-04-05
 + [VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956)
@@ -47,6 +84,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Your Agent is More Brittle Than You Think: Uncovering Indirect Injection Vulnerabilities in Agentic LLMs](https://arxiv.org/abs/2604.03870)
 
 	Wenhui Zhu, Xuanzhao Dong, Xiwen Chen, Rui Cai, Peijie Qiu, Zhipeng Wang, Oana Frunza, Shao Tang, Jindong Gu, Yalin Wang
+
++ [CURE:Circuit-Aware Unlearning for LLM-based Recommendation](https://arxiv.org/abs/2604.04982)
+
+	Ziheng Chen, Jiali Cheng, Zezhong Fan, Hadi Amiri, Yunzhi Yao, Xiangguo Sun, Yang Zhang
 
 # 2026-04-03
 + [Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning](https://arxiv.org/abs/2604.03114)
@@ -2733,6 +2774,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Kemou Li, Qizhou Wang, Yue Wang, Fengpeng Li, Jun Liu, Bo Han, Jiantao Zhou
 
++ [MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models](https://arxiv.org/abs/2510.19457)
+
+	Kailin Jiang, Ning Jiang, Yuntao Du, Yuchen Ren, Yuchen Li, Yifan Gao, Jinhe Bi, Yunpu Ma, Bin Li, Lei Liu, Qing Li
+
 # 2025-10-21
 + [Visual Attention Reasoning via Hierarchical Search and Self-Verification](https://arxiv.org/abs/2510.18619)
 
@@ -2895,6 +2940,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392)
 
 	Yinyi Luo, Zhexian Zhou, Hao Chen, Kai Qiu, Marios Savvides, Sharon Li, Jindong Wang
+
++ [Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157)
+
+	Alexandrine Fortier, Thomas Thebaud, Jesús Villalba, Najim Dehak, Patrick Cardinal, Peter West
 
 # 2025-09-30
 + [CHAI: Command Hijacking against embodied AI](https://arxiv.org/abs/2510.00181)
@@ -13686,6 +13735,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [TokenShapley: Token Level Context Attribution with Shapley Value](https://arxiv.org//abs/2507.05261)
 
 	Yingtai Xiao, Yuqing Zhu, Sirat Samyoun, Wanrong Zhang, Jiachen T. Wang, Jian Du
+
++ [Towards Reliable Forgetting: A Survey on Machine Unlearning Verification](https://arxiv.org/abs/2506.15115)
+
+	Lulu Xue, Shengshan Hu, Wei Lu, Yan Shen, Dongxu Li, Peijin Guo, Ziqi Zhou, Minghui Li, Yanjun Zhang, Leo Yu Zhang
 
 # 2025-06-17
 + [FormGym: Doing Paperwork with Agents](https://arxiv.org//abs/2506.14079)
@@ -25964,6 +26017,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Xiaojie Gu, Ziying Huang, Jia-Chen Gu, Kai Zhang
 
++ [Phonetic Perturbations Reveal Tokenizer-Rooted Safety Gaps in LLMs](https://arxiv.org/abs/2505.14226)
+
+	Darpan Aswal, Siddharth D Jaiswal
+
 # 2025-05-19
 + [Bullying the Machine: How Personas Increase LLM Vulnerability](https://arxiv.org//abs/2505.12692)
 
@@ -34328,6 +34385,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Jiawei Kong, Hao Fang, Sihang Guo, Chenxi Qing, Kuofeng Gao, Bin Chen, Shu-Tao Xia, Ke Xu
 
++ [Hedging and Non-Affirmation: Quantifying LLM Alignment on Questions of Human Rights](https://arxiv.org/abs/2502.19463)
+
+	Rafiya Javed, Cassandra Parent, Jackie Kay, David Yanni, Abdullah Zaini, Anushe Sheikh, Maribeth Rauh, Walter Gerych, Ramona Comanescu, Iason Gabriel, Marzyeh Ghassemi, Laura Weidinger
+
 # 2025-02-25
 + [Faster, Cheaper, Better: Multi-Objective Hyperparameter Optimization for LLM and RAG Systems](https://arxiv.org//abs/2502.18635)
 
@@ -37654,6 +37715,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Competition Dynamics Shape Algorithmic Phases of In-Context Learning](https://arxiv.org//abs/2412.01003)
 
 	Core Francisco Park, Ekdeep Singh Lubana, Itamar Pres, Hidenori Tanaka
+
++ [Perturb and Recover: Fine-tuning for Effective Backdoor Removal from CLIP](https://arxiv.org/abs/2412.00727)
+
+	Naman Deep Singh, Francesco Croce, Matthias Hein
 
 # 2024-11-29
 + [Simple and Provable Scaling Laws for the Test-Time Compute of Large Language Models](https://arxiv.org//abs/2411.19477)
