@@ -1,6 +1,19 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-08
++ [On Emotion-Sensitive Decision Making of Small Language Model Agents](https://arxiv.org/abs/2604.06562)
+
+	Jiaju Lin, Xingjian Du, Qingyun Wu, Ellen Wenting Zou, Jindong Wang
+
++ [Steering the Verifiability of Multimodal AI Hallucinations](https://arxiv.org/abs/2604.06714)
+
+	Jianhong Pang, Ruoxi Cheng, Ziyi Ye, Xingjun Ma, Zuxuan Wu, Xuanjing Huang, Yu-Gang Jiang
+
++ [How to sketch a learning algorithm](https://arxiv.org/abs/2604.07328)
+
+	Sam Gunn
+
 # 2026-04-07
 + [PECKER: A Precisely Efficient Critical Knowledge Erasure Recipe For Machine Unlearning in Diffusion Models](https://arxiv.org/abs/2604.05634)
 
@@ -34,6 +47,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Jingyi Xie, Linjun Zhang, Sai Li
 
++ [Distributed Interpretability and Control for Large Language Models](https://arxiv.org/abs/2604.06483)
+
+	Dev Arpan Desai, Shaoyi Huang, Zining Zhu
+
++ [Improving Robustness In Sparse Autoencoders via Masked Regularization](https://arxiv.org/abs/2604.06495)
+
+	Vivek Narayanaswamy, Kowshik Thopalli, Bhavya Kailkhura, Wesam Sakla
+
++ [ART: Attention Replacement Technique to Improve Factuality in LLMs](https://arxiv.org/abs/2604.06393)
+
+	Ziqin Luo, Yihao Quan, Xiaofeng Zhang, Xiaosong Yuan, Chen Shen
+
 # 2026-04-06
 + [How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models](https://arxiv.org/abs/2604.04385)
 
@@ -54,6 +79,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Improving Sparse Memory Finetuning](https://arxiv.org/abs/2604.05248)
 
 	Satyam Goyal, Anirudh Kanchi, Garv Shah, Prakhar Gupta
+
++ [SALLIE: Safeguarding Against Latent Language & Image Exploits](https://arxiv.org/abs/2604.06247)
+
+	Guy Azov, Ofer Rivlin, Guy Shtar
 
 # 2026-04-05
 + [VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956)
@@ -88,6 +117,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [CURE:Circuit-Aware Unlearning for LLM-based Recommendation](https://arxiv.org/abs/2604.04982)
 
 	Ziheng Chen, Jiali Cheng, Zezhong Fan, Hadi Amiri, Yunzhi Yao, Xiangguo Sun, Yang Zhang
+
++ [Algebraic Diversity: Group-Theoretic Spectral Estimation from Single Observations](https://arxiv.org/abs/2604.03634)
+
+	Mitchell A. Thornton
 
 # 2026-04-03
 + [Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning](https://arxiv.org/abs/2604.03114)
@@ -2538,6 +2571,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Anselm Paulus, Ilia Kulikov, Brandon Amos, Rémi Munos, Ivan Evtimov, Kamalika Chaudhuri, Arman Zharmagambetov
 
+# 2025-12-22
++ [Machine Unlearning in the Era of Quantum Machine Learning: An Empirical Study](https://arxiv.org/abs/2512.19253)
+
+	Carla Crivoi, Radu Tudor Ionescu
+
 # 2025-12-21
 + [Gabliteration: Adaptive Multi-Directional Neural Weight Modification for Selective Behavioral Alteration in Large Language Models](https://arxiv.org/abs/2512.18901)
 
@@ -2868,6 +2906,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Fewer Weights, More Problems: A Practical Attack on LLM Pruning](https://arxiv.org/abs/2510.07985)
 
 	Kazuki Egashira, Robin Staab, Thibaud Gloaguen, Mark Vero, Martin Vechev
+
++ [Invisible to Humans, Triggered by Agents: Stealthy Jailbreak Attacks on Mobile Vision-Language Agents](https://arxiv.org/abs/2510.07809)
+
+	Renhua Ding, Xiao Yang, Zhengwei Fang, Jun Luo, Kun He, Jun Zhu
 
 # 2025-10-08
 + [How Language Models Conflate Logical Validity with Plausibility: A Representational Analysis of Content Effects](https://arxiv.org/abs/2510.06700)
@@ -38160,6 +38202,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org//abs/2411.02460)
 
 	Haneul Yoo, Cheonbok Park, Sangdoo Yun, Alice Oh, Hwaran Lee
+
++ [Pseudo-Probability Unlearning: Efficient and Privacy-Preserving Machine Unlearning](https://arxiv.org/abs/2411.02622)
+
+	Zihao Zhao, Yuchen Yang, Anjalie Field, Yinzhi Cao
 
 # 2024-11-03
 + [Enhancing LLM Evaluations: The Garbling Trick](https://arxiv.org//abs/2411.01533)
