@@ -1,6 +1,55 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-09
++ [Silencing the Guardrails: Inference-Time Jailbreaking via Dynamic Contextual Representation Ablation](https://arxiv.org/abs/2604.07835)
+
+	Wenpeng Xing, Moran Fang, Guangtai Wang, Changting Lin, Meng Han
+
++ [Activation Steering for Aligned Open-ended Generation without Sacrificing Coherence](https://arxiv.org/abs/2604.08169)
+
+	Niklas Herbster, Martin Zborowski, Alberto Tosato, Gauthier Gidel, Tommaso Tosato
+
++ [DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](https://arxiv.org/abs/2604.07965)
+
+	Gyanendra Das, Sai Satyam Jena
+
++ [Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models](https://arxiv.org/abs/2604.08284)
+
+	Yating Wang, Wenting Zhao, Yaqi Zhao, Yongshun Gong, Yilong Yin, Haoliang Sun
+
++ [What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal](https://arxiv.org/abs/2604.08524)
+
+	Stephen Cheng, Sarah Wiegreffe, Dinesh Manocha
+
++ [The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training](https://arxiv.org/abs/2604.07754)
+
+	Rui Zhang, Hongwei Li, Yun Shen, Xinyue Shen, Wenbo Jiang, Guowen Xu, Yang Liu, Michael Backes, Yang Zhang
+
++ [$\oslash$ Source Models Leak What They Shouldn't $\nrightarrow$: Unlearning Zero-Shot Transfer in Domain Adaptation Through Adversarial Optimization](https://arxiv.org/abs/2604.08238)
+
+	Arnav Devalapally, Poornima Jain, Kartik Srinivas, Vineeth N. Balasubramanian
+
++ [Bias Redistribution in Visual Machine Unlearning: Does Forgetting One Group Harm Another?](https://arxiv.org/abs/2604.08111)
+
+	Yunusa Haruna, Adamu Lawan, Ibrahim Haruna Abdulhamid, Hamza Mohammed Dauda, Jiaquan Zhang, Chaoning Zhang, Shamsuddeen Hassan Muhammad
+
++ [Is your algorithm unlearning or untraining?](https://arxiv.org/abs/2604.07962)
+
+	Eleni Triantafillou, Ahmed Imtiaz Humayun, Monica Ribero, Alexander Matt Turner, Michael C. Mozer, Georgios Kaissis
+
++ [Preference Redirection via Attention Concentration: An Attack on Computer Use Agents](https://arxiv.org/abs/2604.08005)
+
+	Dominik Seip, Matthias Hein
+
++ [An Illusion of Unlearning? Assessing Machine Unlearning Through Internal Representations](https://arxiv.org/abs/2604.08271)
+
+	Yichen Gao, Altay Unal, Akshay Rangamani, Zhihui Zhu
+
++ [Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models](https://arxiv.org/abs/2604.08297)
+
+	Weiwei Qi, Zefeng Wu, Tianhang Zheng, Zikang Zhang, Xiaojun Jia, Zhan Qin, Kui Ren
+
 # 2026-04-08
 + [On Emotion-Sensitive Decision Making of Small Language Model Agents](https://arxiv.org/abs/2604.06562)
 
@@ -13,6 +62,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [How to sketch a learning algorithm](https://arxiv.org/abs/2604.07328)
 
 	Sam Gunn
+
++ [ADAG: Automatically Describing Attribution Graphs](https://arxiv.org/abs/2604.07615)
+
+	Aryaman Arora, Zhengxuan Wu, Jacob Steinhardt, Sarah Schwettmann
+
++ [Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based Approach](https://arxiv.org/abs/2604.07386)
+
+	Weidong Zheng, Kongyang Chen, Yao Huang, Yuanwei Guo, Yatie Xiao
 
 # 2026-04-07
 + [PECKER: A Precisely Efficient Critical Knowledge Erasure Recipe For Machine Unlearning in Diffusion Models](https://arxiv.org/abs/2604.05634)
