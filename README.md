@@ -1,6 +1,51 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-10
++ [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](https://arxiv.org/abs/2604.08846)
+
+	Jinqi Luo, Jinyu Yang, Tal Neiman, Lei Fan, Bing Yin, Son Tran, Mubarak Shah, René Vidal
+
++ [Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection](https://arxiv.org/abs/2604.09024)
+
+	Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
+
++ [CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion](https://arxiv.org/abs/2604.09101)
+
+	Akshit Jindal, Saket Anand, Chetan Arora, Vikram Goyal
+
++ [GRM: Utility-Aware Jailbreak Attacks on Audio LLMs via Gradient-Ratio Masking](https://arxiv.org/abs/2604.09222)
+
+	Yunqiang Wang, Hengyuan Na, Di Wu, Miao Hu, Guocong Quan
+
++ [Mosaic: Multimodal Jailbreak against Closed-Source VLMs via Multi-View Ensemble Optimization](https://arxiv.org/abs/2604.09253)
+
+	Yuqin Lan, Gen Li, Yuanze Hu, Weihao Shen, Zhaoxin Fan, Faguo Wu, Xiao Zhang, Laurence T. Yang, Zhiming Zheng
+
++ [Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism](https://arxiv.org/abs/2604.09544)
+
+	Hadas Orgad, Boyi Wei, Kaden Zheng, Martin Wattenberg, Peter Henderson, Seraphina Goldfarb-Tarrant, Yonatan Belinkov
+
++ [Precise Shield: Explaining and Aligning VLLM Safety via Neuron-Level Guidance](https://arxiv.org/abs/2604.08881)
+
+	Enyi Shi, Fei Shen, Shuyi Miao, Linxia Zhu, Pengyang Shao, Jinhui Tang, Tat-Seng Chua
+
++ [EGLOCE: Training-Free Energy-Guided Latent Optimization for Concept Erasure](https://arxiv.org/abs/2604.09405)
+
+	Junyeong Ahn, Seojin Yoon, Sungyong Baik
+
++ [Efficient Unlearning through Maximizing Relearning Convergence Delay](https://arxiv.org/abs/2604.09391)
+
+	Khoa Tran, Simon S. Woo
+
++ [Spectral Geometry of LoRA Adapters Encodes Training Objective and Predicts Harmful Compliance](https://arxiv.org/abs/2604.08844)
+
+	Roi Paul
+
++ [Unreal Thinking: Chain-of-Thought Hijacking via Two-stage Backdoor](https://arxiv.org/abs/2604.09235)
+
+	Wenhan Chang, Tianqing Zhu, Ping Xiong, Faqian Guan, Wanlei Zhou
+
 # 2026-04-09
 + [Silencing the Guardrails: Inference-Time Jailbreaking via Dynamic Contextual Representation Ablation](https://arxiv.org/abs/2604.07835)
 
@@ -532,6 +577,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Knowledge Localization in Mixture-of-Experts LLMs Using Cross-Lingual Inconsistency](https://arxiv.org/abs/2603.17102)
 
 	Lucas Bandarkar, Alan Ansell, Trevor Cohn
+
++ [Re-Mask and Redirect: Exploiting Denoising Irreversibility in Diffusion Language Models](https://arxiv.org/abs/2604.08557)
+
+	Arth Singh
+
++ [A Representation-Level Assessment of Bias Mitigation in Foundation Models](https://arxiv.org/abs/2604.08561)
+
+	Svetoslav Nizhnichenkov, Rahul Nair, Elizabeth Daly, Brian Mac Namee
 
 # 2026-03-16
 + [SCAN: Sparse Circuit Anchor Interpretable Neuron for Lifelong Knowledge Editing](https://arxiv.org/abs/2603.15226)
@@ -34552,6 +34605,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Bayesian Optimization for Controlled Image Editing via LLMs](https://arxiv.org//abs/2502.18116)
 
 	Chengkun Cai, Haoliang Liu, Xu Zhao, Zhongyu Jiang, Tianfang Zhang, Zongkai Wu, John Lee, Jenq-Neng Hwang, Lei Li
+
++ [Constraining Sequential Model Editing with Editing Anchor Compression](https://arxiv.org/abs/2503.00035)
+
+	Hao-Xiang Xu, Jun-Yu Ma, Zhen-Hua Ling, Ningyu Zhang, Jia-Chen Gu
 
 # 2025-02-24
 + [Automatically Evaluating the Paper Reviewing Capability of Large Language Models](https://arxiv.org//abs/2502.17086)
