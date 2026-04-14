@@ -1,6 +1,49 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-13
++ [Persona Non Grata: Single-Method Safety Evaluation Is Incomplete for Persona-Imbued LLMs](https://arxiv.org/abs/2604.11120)
+
+	Wenkai Li, Fan Yang, Shaunak A. Mehta, Koichi Onoue
+
++ [Why Do Large Language Models Generate Harmful Content?](https://arxiv.org/abs/2604.11663)
+
+	Rajesh Ganguli, Raha Moraffah
+
++ [HiEdit: Lifelong Model Editing with Hierarchical Reinforcement Learning](https://arxiv.org/abs/2604.11214)
+
+	Yangfan Wang, Tianyang Sun, Chen Tang, Jie Liu, Wei Cai, Jingchi Jiang
+
++ [The Price of Ignorance: Information-Free Quotation for Data Retention in Machine Unlearning](https://arxiv.org/abs/2604.11511)
+
+	Bin Han, Di Feng, Zexin Fang, Jie Wang, Hans D. Schotten
+
+# 2026-04-12
++ [Latent Instruction Representation Alignment: defending against jailbreaks, backdoors and undesired knowledge in LLMs](https://arxiv.org/abs/2604.10403)
+
+	Eric Easley, Sebastian Farquhar
+
++ [Mitigating Privacy Risk via Forget Set-Free Unlearning](https://arxiv.org/abs/2604.10636)
+
+	Aviraj Newatia, Michael Cooper, Viet Nguyen, Rahul G. Krishnan
+
+# 2026-04-11
++ [Closed-Form Concept Erasure via Double Projections](https://arxiv.org/abs/2604.10032)
+
+	Chi Zhang, Jingpu Cheng, Zhixian Wang, Ping Liu
+
++ [Jailbreaking the Matrix: Nullspace Steering for Controlled Model Subversion](https://arxiv.org/abs/2604.10326)
+
+	Vishal Pramanik, Maisha Maliha, Susmit Jha, Sumit Kumar Jha
+
++ [Seeing No Evil: Blinding Large Vision-Language Models to Safety Instructions via Adversarial Attention Hijacking](https://arxiv.org/abs/2604.10299)
+
+	Jingru Li, Wei Ren, Tianqing Zhu
+
++ [Mask-Free Privacy Extraction and Rewriting: A Domain-Aware Approach via Prototype Learning](https://arxiv.org/abs/2604.10145)
+
+	Xiaodong Li, Yuhua Wang, Qingchen Yu, Zixuan Qin, Yifan Sun, Qinnan Zhang, Hainan Zhang, Zhiming Zheng
+
 # 2026-04-10
 + [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](https://arxiv.org/abs/2604.08846)
 
@@ -45,6 +88,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Unreal Thinking: Chain-of-Thought Hijacking via Two-stage Backdoor](https://arxiv.org/abs/2604.09235)
 
 	Wenhan Chang, Tianqing Zhu, Ping Xiong, Faqian Guan, Wanlei Zhou
+
++ [Steered LLM Activations are Non-Surjective](https://arxiv.org/abs/2604.09839)
+
+	Aayush Mishra, Daniel Khashabi, Anqi Liu
+
++ [Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward](https://arxiv.org/abs/2604.09748)
+
+	Weiyang Guo, Zesheng Shi, Zeen Zhu, Yuan Zhou, Min Zhang, Jing Li
+
++ [Conflicts Make Large Reasoning Models Vulnerable to Attacks](https://arxiv.org/abs/2604.09750)
+
+	Honghao Liu, Chengjin Xu, Xuhui Jiang, Cehao Yang, Shengming Yin, Zhengwu Ma, Lionel Ni, Jian Guo
 
 # 2026-04-09
 + [Silencing the Guardrails: Inference-Time Jailbreaking via Dynamic Contextual Representation Ablation](https://arxiv.org/abs/2604.07835)
@@ -336,6 +391,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction Tool for Neural Network Training](https://arxiv.org/abs/2603.28921)
 
 	Ivan Pasichnyk
+
++ [FlowHijack: A Dynamics-Aware Backdoor Attack on Flow-Matching Vision-Language-Action Models](https://arxiv.org/abs/2604.09651)
+
+	Xinyuan An, Tao Luo, Gengyun Peng, Yaobing Wang, Kui Ren, Dongxia Wang
 
 # 2026-03-29
 + [Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs](https://arxiv.org/abs/2603.27518)
@@ -2030,6 +2089,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Yi Yu, Qixin Zhang, Shuhan Ye, Xun Lin, Qianshan Wei, Kun Wang, Wenhan Yang, Dacheng Tao, Xudong Jiang
 
++ [Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](https://arxiv.org/abs/2602.03402)
+
+	Mengxuan Wang, Yuxin Chen, Gang Xu, Tao He, Hongjie Jiang, Ming Li
+
 # 2026-02-02
 + [Light Alignment Improves LLM Safety via Model Self-Reflection with a Single Neuron](https://arxiv.org/abs/2602.02027)
 
@@ -3034,6 +3097,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Learning from Failures: Understanding LLM Alignment through Failure-Aware Inverse RL](https://arxiv.org/abs/2510.06092)
 
 	Nyal Patel, Matthieu Bou, Arjun Jagota, Satyapriya Krishna, Sonali Parbhoo
+
++ [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://arxiv.org/abs/2510.05837)
+
+	Liang Chen, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schutze, Kam-Fai Wong
 
 # 2025-10-06
 + [Learning to Interpret Weight Differences in Language Models](https://arxiv.org/abs/2510.05092)
@@ -36542,6 +36609,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Zixi Wang, Xiangxu Zhao, Tonglan Xie, Mengmeng Jing, Lin Zuo
 
++ [Improving LLM Unlearning Robustness via Random Perturbations](https://arxiv.org/abs/2501.19202)
+
+	Dang Huu-Tien, Hoang Thanh-Tung, Anh Bui, Minh-Phuong Nguyen, Le-Minh Nguyen, Naoya Inoue
+
 # 2025-01-30
 + [Efficiency and Effectiveness of LLM-Based Summarization of Evidence in Crowdsourced Fact-Checking](https://arxiv.org//abs/2501.18265)
 
@@ -39658,6 +39729,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](https://arxiv.org//abs/2408.08089)
 
 	Guhong Chen, Liyang Fan, Zihan Gong, Nan Xie, Zixuan Li, Ziqiang Liu, Chengming Li, Qiang Qu, Hamid Alinejad-Rokny, Shiwen Ni, Min Yang
+
+# 2024-08-14
++ [FedQUIT: On-Device Federated Unlearning via a Quasi-Competent Virtual Teacher](https://arxiv.org/abs/2408.07587)
+
+	Alessio Mora, Lorenzo Valerio, Paolo Bellavista, Andrea Passarella
 
 # 2024-08-13
 + [Bridging LLMs and KGs without Fine-Tuning: Intermediate Probing Meets Subgraph-Aware Entity Descriptions](https://arxiv.org//abs/2408.06787)
