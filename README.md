@@ -1,6 +1,43 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-14
++ [Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints](https://arxiv.org/abs/2604.12384)
+
+	Songping Peng (1), Zhiheng Zhang (2), Daojian Zeng (1), Lincheng Jiang (3), Xieping Gao (1) ((1) Hunan Normal University, (2) University of Chinese Academy of Sciences, (3) National University of Defense Technology)
+
++ [Operationalising the Right to be Forgotten in LLMs: A Lightweight Sequential Unlearning Framework for Privacy-Aligned Deployment in Politically Sensitive Environments](https://arxiv.org/abs/2604.12459)
+
+	Esen Kurt, Haithem Afli
+
++ [IDEA: An Interpretable and Editable Decision-Making Framework for LLMs via Verbal-to-Numeric Calibration](https://arxiv.org/abs/2604.12573)
+
+	Yanji He, Yuxin Jiang, Yiwen Wu, Bo Huang, Jiaheng Wei, Wei Wang
+
++ [RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair](https://arxiv.org/abs/2604.12820)
+
+	Jagadeesh Rachapudi, Pranav Singh, Ritali Vatsi, Praful Hambarde, Amit Shukla
+
++ [Orthogonal Subspace Projection for Continual Machine Unlearning via SVD-Based LoRA](https://arxiv.org/abs/2604.12526)
+
+	Yogachandran Rahulamathavan, Nasir Iqbal, Juncheng Hu, Sangarapillai Lambotharan
+
++ [BID-LoRA: A Parameter-Efficient Framework for Continual Learning and Unlearning](https://arxiv.org/abs/2604.12686)
+
+	Jagadeesh Rachapudi, Ritali Vatsi, Praful Hambarde, Amit Shukla
+
++ [FABLE: Fine-grained Fact Anchoring for Unstructured Model Editing](https://arxiv.org/abs/2604.12559)
+
+	Peng Wang, Biyu Zhou, Xuehai Tang, Jizhong Han, Songlin Hu
+
++ [Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors](https://arxiv.org/abs/2604.12359)
+
+	Rui Yin, Tianxu Han, Naen Xu, Changjiang Li, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, Tianyu Du, Jinbao Li, Shouling Ji
+
++ [Models Know Their Shortcuts: Deployment-Time Shortcut Mitigation](https://arxiv.org/abs/2604.12277)
+
+	Jiayi Li, Shijie Tang, Gün Kaynar, Shiyi Du, Carl Kingsford
+
 # 2026-04-13
 + [Persona Non Grata: Single-Method Safety Evaluation Is Incomplete for Persona-Imbued LLMs](https://arxiv.org/abs/2604.11120)
 
@@ -17,6 +54,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [The Price of Ignorance: Information-Free Quotation for Data Retention in Machine Unlearning](https://arxiv.org/abs/2604.11511)
 
 	Bin Han, Di Feng, Zexin Fang, Jie Wang, Hans D. Schotten
+
++ [LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety](https://arxiv.org/abs/2604.12710)
+
+	Junxiao Yang, Haoran Liu, Jinzhe Tu, Jiale Cheng, Zhexin Zhang, Shiyao Cui, Jiaqi Weng, Jialing Tao, Hui Xue, Hongning Wang, Han Qiu, Minlie Huang
+
++ [Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models](https://arxiv.org/abs/2604.12119)
+
+	Md Tanvirul Alam
 
 # 2026-04-12
 + [Latent Instruction Representation Alignment: defending against jailbreaks, backdoors and undesired knowledge in LLMs](https://arxiv.org/abs/2604.10403)
@@ -3169,6 +3214,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Luis Burbano, Diego Ortiz, Qi Sun, Siwei Yang, Haoqin Tu, Cihang Xie, Yinzhi Cao, Alvaro A Cardenas
 
++ [ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack](https://arxiv.org/abs/2509.25843)
+
+	Yein Park, Jungwoo Park, Jaewoo Kang
+
 # 2025-09-29
 + [Robust Preference Optimization: Aligning Language Models with Noisy Preference Feedback](https://arxiv.org//abs/2509.24159)
 
@@ -4907,6 +4956,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Steering MoE LLMs via Expert (De)Activation](https://arxiv.org/abs/2509.09660)
 
 	Mohsen Fayyaz, Ali Modarressi, Hanieh Deilamsalehy, Franck Dernoncourt, Ryan Rossi, Trung Bui, Hinrich Schütze, Nanyun Peng
+
++ [Safe-SAIL: Towards a Fine-grained Safety Landscape of Large Language Models via Sparse Autoencoder Interpretation Framework](https://arxiv.org/abs/2509.18127)
+
+	Jiaqi Weng, Han Zheng, Hanyu Zhang, Ej Zhou, Qinqin He, Jialing Tao, Hui Xue, Zhixuan Chu, Xiting Wang
 
 # 2025-09-10
 + [Symmetry-Guided Multi-Agent Inverse Reinforcement Learnin](https://arxiv.org//abs/2509.08257)
@@ -8070,6 +8123,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Towards Generalizable AI-Generated Image Detection via Image-Adaptive Prompt Learning](https://arxiv.org//abs/2508.01603)
 
 	Yiheng Li, Zichang Tan, Zhen Lei, Xu Zhou, Yang Yang
+
++ [IMU: Influence-guided Machine Unlearning](https://arxiv.org/abs/2508.01620)
+
+	Xindi Fan, Jing Wu, Mingyi Zhou, Pengwei Liang, Mehrtash Harandi, Dinh Phung
 
 # 2025-08-02
 + [Win-k: Improved Membership Inference Attacks on Small Language Models](https://arxiv.org//abs/2508.01268)
@@ -36879,6 +36936,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [PBM-VFL: Vertical Federated Learning with Feature and Sample Privacy](https://arxiv.org//abs/2501.13916)
 
 	Linh Tran, Timothy Castiglia, Stacy Patterson, Ana Milanova
+
++ [Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models](https://arxiv.org/abs/2501.13340)
+
+	Hao Fang, Xiaohang Sui, Hongyao Yu, Kuofeng Gao, Jiawei Kong, Sijin Yu, Bin Chen, Shu-Tao Xia
 
 # 2025-01-22
 + [NExtLong: Toward Effective Long-Context Training without Long Documents](https://arxiv.org//abs/2501.12766)
