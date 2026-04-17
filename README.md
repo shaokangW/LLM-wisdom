@@ -1,6 +1,31 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-04-16
++ [Layered Mutability: Continuity and Governance in Persistent Self-Modifying Agents](https://arxiv.org/abs/2604.14717)
+
+	Krti Tallam
+
++ [Mechanistic Decoding of Cognitive Constructs in LLMs](https://arxiv.org/abs/2604.14593)
+
+	Yitong Shou, Manhao Guan
+
++ [CausalDetox: Causal Head Selection and Intervention for Language Model Detoxification](https://arxiv.org/abs/2604.14602)
+
+	Yian Wang, Yuen Chen, Agam Goyal, Hari Sundaram
+
++ [Class Unlearning via Depth-Aware Removal of Forget-Specific Directions](https://arxiv.org/abs/2604.15166)
+
+	Arman Hatami, Romina Aalishah, Ilya E. Monosov
+
++ [CURaTE: Continual Unlearning in Real Time with Ensured Preservation of LLM Knowledge](https://arxiv.org/abs/2604.14644)
+
+	Seyun Bae, Seokhan Lee, Eunho Yang
+
++ [Modeling LLM Unlearning as an Asymmetric Two-Task Learning Problem](https://arxiv.org/abs/2604.14808)
+
+	Zeguan Xiao, Siqing Li, Yong Wang, Xuetao Wei, Jian Yang, Yun Chen, Guanhua Chen
+
 # 2026-04-15
 + [Weight Patching: Toward Source-Level Mechanistic Localization in LLMs](https://arxiv.org/abs/2604.13694)
 
@@ -530,6 +555,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](https://arxiv.org/abs/2603.24653)
 
 	Francesco Gentile, Nicola Dall'Asen, Francesco Tonini, Massimiliano Mancini, Lorenzo Vaquero, Elisa Ricci
+
++ [Correcting Suppressed Log-Probabilities in Language Models with Post-Transformer Adapters](https://arxiv.org/abs/2604.14174)
+
+	Bryan Sanchez
 
 # 2026-03-24
 + [Between Rules and Reality: On the Context Sensitivity of LLM Moral Judgment](https://arxiv.org/abs/2603.23114)
@@ -2958,6 +2987,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](https://arxiv.org/abs/2511.20002)
 
 	Changyue Li, Jiaying Li, Youliang Yuan, Jiaming He, Zhicong Huang, Pinjia He
+
++ [Representation Interventions Enable Lifelong Knowledge Memory Control in LLMs](https://arxiv.org/abs/2511.20892)
+
+	Xuyuan Liu, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, Zhengzhang Chen
 
 # 2025-11-24
 + [ModHiFi: Identifying High Fidelity predictive components for Model Modification](https://arxiv.org/abs/2511.19566)
@@ -27975,6 +28008,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Chaitanya Ravuri, Saman Amarasinghe
 
++ [AutoRAN: Automated Hijacking of Safety Reasoning in Large Reasoning Models](https://arxiv.org/abs/2505.10846)
+
+	Jiacheng Liang, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang
+
 # 2025-05-15
 + [Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents](https://arxiv.org//abs/2505.09970)
 
@@ -35946,6 +35983,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Provably Efficient Online RLHF with One-Pass Reward Modeling](https://arxiv.org//abs/2502.07193)
 
 	Long-Fei Li, Yu-Yang Qian, Peng Zhao, Zhi-Hua Zhou
+
++ [Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips](https://arxiv.org/abs/2502.07408)
+
+	Ido Galil, Moshe Kimhi, Ran El-Yaniv
 
 # 2025-02-10
 + [Generating Privacy-Preserving Personalized Advice with Zero-Knowledge Proofs and LLMs](https://arxiv.org//abs/2502.06425)
