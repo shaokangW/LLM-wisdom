@@ -1,6 +1,39 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-05-26
++ [Beyond a Single Direction: Chain-of-Thought Disrupts Simple Steering of Refusal](https://arxiv.org/abs/2605.26772)
+
+	Kia-Jüng Yang, Dominik Meier, Jiachen Zhao, Terry Ruas, Bela Gipp
+
++ [The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](https://arxiv.org/abs/2605.26670)
+
+	Zheng Wang, Kaixuan Zhang, Wanfang Chen, Jingwen Zhang, Xiaonan Lu
+
++ [Vectors Are Not Neutral: Sensitive-Information Inference from Exported LLM Representations in Summarization](https://arxiv.org/abs/2605.26433)
+
+	Weixin Liu, Bowen Qu, Juming Xiong, Congning Ni, Bradley A. Malin, Zhijun Yin
+
++ [Model Unlearning Objectives Vary for Distinct Language Functions](https://arxiv.org/abs/2605.26454)
+
+	Berk Atil, Vipul Gupta, Rebecca J. Passonneau
+
++ [On the Hidden Costs of Counterfactual Knowledge Training in LLM Unlearning](https://arxiv.org/abs/2605.27083)
+
+	Xiaotian Ye, Xiaohan Wang, Mengqi Zhang, Shu Wu
+
++ [On the Robustness of Machine Unlearning for Vision-Language Models](https://arxiv.org/abs/2605.26992)
+
+	Yujie Lin, Kaidi Jia, Jiayao Ma, Chengyi Yang, Jinsong Su
+
++ [Open-Weight LLM Fine-Tuning Defenses are Susceptible to Simple Attacks](https://arxiv.org/abs/2605.26526)
+
+	Kevin Kuo, Chhavi Yadav, Virginia Smith
+
++ [Image Feature Fusion-based Federated Client Unlearning (FCU)](https://arxiv.org/abs/2605.26715)
+
+	Hangyi Shen, Yizhi Pan, Tiansuo Li, Weiqi Jiang, Guanqun Sun
+
 # 2026-05-25
 + [Concept Unlearning via Cross-Attention Activation Projection for Diffusion Models](https://arxiv.org/abs/2605.25765)
 
@@ -9,6 +42,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Continual Speaker Identity Unlearning with Minimal Interference](https://arxiv.org/abs/2605.25962)
 
 	Jinju Kim, Yunsung Kang, Gyeong-Moon Park, Jong Hwan Ko
+
++ [Erased but Exploitable: Black-box Embedding-Aware Prompting Against Unlearned Text-to-Image Diffusion Models](https://arxiv.org/abs/2605.26332)
+
+	Arian Komaei Koma, Seyed Amir Kasaei, AmirMahdi Sadeghzadeh, Mohammad Hossein Rohban
+
++ [Cultural Value Alignment Via Latent Activation Steering in Large Language Models](https://arxiv.org/abs/2605.26365)
+
+	Trung Duc Anh Dang, Sarah Masud
 
 # 2026-05-24
 + [Tiny Brains, Giant Impact: Uncovering the Keystone Neurons of LLM with Just a Few Prompts](https://arxiv.org/abs/2605.24846)
@@ -30,6 +71,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Localization then Neutralization: Gradient-guided Token Suppression against Visual Prompt Injection Attack](https://arxiv.org/abs/2605.25194)
 
 	Dongpeng Zhang, Ke Ma, Yangbangyan Jiang, Gaozheng Pei, Longtao Huang, Qianqian Xu, Qingming Huang
+
++ [Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](https://arxiv.org/abs/2605.26158)
+
+	Tongxi Wu, Jian Zhang, Yang Gao
 
 # 2026-05-23
 + [Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models](https://arxiv.org/abs/2605.24550)
@@ -102,6 +147,16 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](https://arxiv.org/abs/2605.04700)
 
 	Zheng Fang, Xiaosen Wang, Shenyi Zhang, Shaokang Wang, Zhijin Ge
+
+# 2026-05-02
++ [Tracing the Dynamics of Refusal: Exploiting Latent Refusal Trajectories for Robust Jailbreak Detection](https://arxiv.org/abs/2605.02958)
+
+	Xulin Hu, Che Wang, Wei Yang Bryan Lim, Jianbo Gao, Zhong Chen
+
+# 2026-04-29
++ [Dynamic Adversarial Fine-Tuning Reorganizes Refusal Geometry](https://arxiv.org/abs/2604.27019)
+
+	Wenhao Lan, Shan Li, Xinhua Lai, Meiqi Wu, Junbin Yang, Haihua Shen, Yijun Yang
 
 # 2026-04-28
 + [Authority Inversion in LLM-Mediated Ubiquitous Systems: When Models Trust Users Over Sensors](https://arxiv.org/abs/2605.23938)
@@ -224,6 +279,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Graph Propagated Projection Unlearning: A Unified Framework for Vision and Audio Discriminative Models](https://arxiv.org/abs/2604.13127)
 
 	Shreyansh Pathak, Jyotishman Das
+
++ [From Attribution to Action: A Human-Centered Application of Activation Steering](https://arxiv.org/abs/2604.11467)
+
+	Tobias Labarta, Maximilian Dreyer, Katharina Weitz, Wojciech Samek, Sebastian Lapuschkin
 
 # 2026-04-12
 + [Latent Instruction Representation Alignment: defending against jailbreaks, backdoors and undesired knowledge in LLMs](https://arxiv.org/abs/2604.10403)
@@ -2902,6 +2961,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Mason Kadem, Rong Zheng
 
++ [Shadow Unlearning: A Neuro-Semantic Approach to Fidelity-Preserving Faceless Forgetting in LLMs](https://arxiv.org/abs/2601.04275)
+
+	Dinesh Srivasthav P, Ashok Urlana, Rahul Mishra, Bala Mallikarjunarao Garlapati, Ponnurangam Kumaraguru
+
 # 2026-01-06
 + [Critic-Guided Reinforcement Unlearning in Text-to-Image Diffusion](https://arxiv.org/abs/2601.03213)
 
@@ -3234,6 +3297,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Context-aware Fairness Evaluation and Mitigation in LLMs](https://arxiv.org/abs/2510.18914)
 
 	Afrozah Nadeem, Mark Dras, Usman Naseem
+
+# 2025-10-20
++ [VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](https://arxiv.org/abs/2510.17759)
+
+	Qilin Liao, Anamika Lochab, Ruqi Zhang
 
 # 2025-10-18
 + [SHIELD: Suppressing Hallucinations In LVLM Encoders via Bias and Vulnerability Defense](https://arxiv.org/abs/2510.16596)
@@ -16069,6 +16137,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Revisiting Transformers with Insights from Image Filtering and Boosting](https://arxiv.org/abs/2506.10371)
 
 	Laziz U. Abdullaev, Maksim Tkachenko, Tan M. Nguyen
+
++ [Lifting Data-Tracing Machine Unlearning to Knowledge-Tracing for Foundation Models](https://arxiv.org/abs/2506.11253)
+
+	Yuwen Tan, Boqing Gong
 
 # 2025-06-11
 + [Beyond Nash Equilibrium: Bounded Rationality of LLMs and humans in Strategic Decision-making](https://arxiv.org//abs/2506.09390)
