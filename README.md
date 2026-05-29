@@ -1,6 +1,51 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-05-28
++ [Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces](https://arxiv.org/abs/2605.29288)
+
+	Chen He, Yuhao Wu, Lei Wang, Wenxuan Zhang, Fumin Shen
+
++ [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://arxiv.org/abs/2605.29358)
+
+	Adly Templeton, Tom Conerly, Jonathan Marcus, Jack Lindsey, Trenton Bricken, Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Andy Jones, Hoagy Cunningham, Nicholas L Turner, Callum McDougall, Monte MacDiarmid, Alex Tamkin, Esin Durmus, Tristan Hume, Francesco Mosconi, C. Daniel Freeman, Theodore R. Sumers, Edward Rees, Joshua Batson, Adam Jermyn, Shan Carter, Chris Olah, Tom Henighan
+
++ [Robust and Generalizable Safety Steering for Text-to-Image Diffusion Transformers](https://arxiv.org/abs/2605.30049)
+
+	Zihao Xue, Yan Wang, Zhen Bi, Long Ma, Zhonglong Zheng, Zeyu Yang, Bingyu Zhu, Longtao Huang, Jie Xiao, Jungang Lou
+
++ [BioRefusalAudit: Auditing Biosecurity Refusal Depth Using General and Domain-Fine-Tuned Sparse Autoencoders](https://arxiv.org/abs/2605.30162)
+
+	Caleb DeLeeuw
+
++ [Towards Localized and Disentangled Knowledge Editing for Multimodal Large Language Models](https://arxiv.org/abs/2605.29826)
+
+	Leijiang Gu, Zhen Zeng, Feng Li, Xinjian Gao, Zenglin Shi
+
++ [Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction](https://arxiv.org/abs/2605.29960)
+
+	Hongtao Wang, Se Yang, Yu Chen, Puzhuo Liu
+
++ [Audio Jailbreaks in Large Audio-Language Models: Taxonomy, Attack-Defense Analysis, and Cost-Aware Evaluation](https://arxiv.org/abs/2605.30031)
+
+	Bo-Han Feng, Yu-Hsuan Li Liang, Chien-Feng Liu, You-Hsuan Chang, Yun-Nung Chen
+
++ [Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection](https://arxiv.org/abs/2605.30189)
+
+	Travis Lelle
+
++ [Understanding Safety-Sensitive Expert Behavior in Mixture-of-Experts LLMs](https://arxiv.org/abs/2605.29708)
+
+	Zhibo Zhang, Yuxi Li, Zhen Ouyang, Ling Shi, Kailong Wang
+
++ [UniSteer: Text-Guided Flow Matching in Activation Space for Versatile LLM Steering](https://arxiv.org/abs/2605.30076)
+
+	Yingdong Shi, Ruiming Zhang, Changming Li, Zhiyu Yang, Kaixing Zhang, Jingyi Yu, Kan Ren
+
++ [Dissecting the Black Box: Circuit-Level Analysis of LLM Vulnerability Detection](https://arxiv.org/abs/2605.29901)
+
+	Syafiq Al Atiiq, Chun Zhou, Christian Gehrmann
+
 # 2026-05-27
 + [Training Stratigraphy: Persistent Behavioral Artifacts in Large Language Models Observed Through Longitudinal AI-Human Interaction](https://arxiv.org/abs/2605.28102)
 
@@ -65,6 +110,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Out of Sight, Not Out of Mind: Unveiling Latent Attack in Latent-based Multi-Agent Systems](https://arxiv.org/abs/2605.28214)
 
 	Chenxi Wang, Ruiyang Huang, Jiayan Sun, Lei Wei, Yifan Wu
+
++ [Orthogonal Concept Erasure for Diffusion Models](https://arxiv.org/abs/2605.28902)
+
+	Yuhao Sun, Lingyun Yu, Haoxiang Xu, Fengyuan Miao, Zhuoer Xu, Hongtao Xie
+
++ [Context Distillation as Latent Memory Management](https://arxiv.org/abs/2605.28889)
+
+	Ziyang Zheng, Zeju Li, Xiangyu Wen, Jianyuan Zhong, Junhua Huang, Lei Chen, Mingxuan Yuan, Qiang Xu
+
++ [Knowledge Offloading: Decomposing LLMs into Sparse Backbones and Memory Modules](https://arxiv.org/abs/2605.29075)
+
+	Karim Galliamov, Rochelle Choenni, Ivan Titov
 
 # 2026-05-26
 + [Beyond a Single Direction: Chain-of-Thought Disrupts Simple Steering of Refusal](https://arxiv.org/abs/2605.26772)
@@ -261,6 +318,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Mechanistic Anomaly Detection via Functional Attribution](https://arxiv.org/abs/2604.18970)
 
 	Hugo Lyons Keenan, Christopher Leckie, Sarah Erfani
+
+# 2026-04-18
++ [One Mask to Rule Them All: On Hidden Facts after Editing and How to Find Them](https://arxiv.org/abs/2605.28839)
+
+	Ali Holmov, Paul Youssef, Nandi Schoots, Christin Seifert
 
 # 2026-04-16
 + [Layered Mutability: Continuity and Governance in Persistent Self-Modifying Agents](https://arxiv.org/abs/2604.14717)
@@ -579,6 +641,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [ART: Attention Replacement Technique to Improve Factuality in LLMs](https://arxiv.org/abs/2604.06393)
 
 	Ziqin Luo, Yihao Quan, Xiaofeng Zhang, Xiaosong Yuan, Chen Shen
+
++ [MechELK: A Mechanistic Interpretability Framework for Eliciting Latent Knowledge in Large Language Models](https://arxiv.org/abs/2605.28825)
+
+	Ji-jun Park, Soo-joon Choi, Jiwon Jeong, Taeyang Yoon, Ju-Wan Lee
 
 # 2026-04-06
 + [How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models](https://arxiv.org/abs/2604.04385)
@@ -39115,6 +39181,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models](https://arxiv.org//abs/2410.16236)
 
 	Yuxuan Cai, Jiangning Zhang, Haoyang He, Xinwei He, Ao Tong, Zhenye Gan, Chengjie Wang, Zhucun Xue, Yong Liu, Xiang Bai
+
+# 2024-10-20
++ [Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](https://arxiv.org/abs/2410.15236)
+
+	Benji Peng, Hanxuan Chen, Keyu Chen, Qian Niu, Ziqian Bi, Ming Liu, Pohsun Feng, Tianyang Wang, Lawrence K.Q. Yan, Yizhu Wen, Yichao Zhang, Caitlyn Heqi Yin, Xinyuan Song, Riyang Bao, Jiacheng Shi
 
 # 2024-10-19
 + [TrendFact: A Benchmark for Explainable Hotspot Perception in Fact-Checking with Natural Language Explanation](https://arxiv.org//abs/2410.15135)
