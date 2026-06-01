@@ -1,6 +1,27 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-05-29
++ [Toxic HallucinAItions: Perturbing Prompts and Tracing LLM Circuits](https://arxiv.org/abs/2605.30913)
+
+	Soorya Ram Shimgekar, Agam Goyal, Amruta Parulekar, Joshua Chen, Yian Wang, Navin Kumar, Hari Sundaram, Eshwar Chandrasekharan, Koustuv Saha
+
++ [De-attribute to Forget for LLM Unlearning](https://arxiv.org/abs/2605.30919)
+
+	Xinyang Lu, Jiabao Pan, Rachael Hwee Ling Sim, See-Kiong Ng, Anthony Kum Hoe Tung, Bryan Kian Hsiang Low
+
++ [Steering LLMs? Actually, Sparse Autoencoders can outperform simple baselines](https://arxiv.org/abs/2605.31183)
+
+	Mikkel Godsk Jørgensen, Lars Kai Hansen
+
++ [Divergence Decoding: Inference-Time Unlearning via Auxiliary Models](https://arxiv.org/abs/2605.31293)
+
+	Humzah Merchant, Bradford Levy
+
++ [Forgetting Has Neighbors: Localized Collateral Forgetting in Machine Unlearning](https://arxiv.org/abs/2605.31317)
+
+	Polina Dolgova, Sebastian U. Stich
+
 # 2026-05-28
 + [Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces](https://arxiv.org/abs/2605.29288)
 
@@ -45,6 +66,34 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Dissecting the Black Box: Circuit-Level Analysis of LLM Vulnerability Detection](https://arxiv.org/abs/2605.29901)
 
 	Syafiq Al Atiiq, Chun Zhou, Christian Gehrmann
+
++ [When LLMs Learn to Be Consistently Wrong: A Multi-Model Study of Linear Representations of Synthetic Deception](https://arxiv.org/abs/2605.30381)
+
+	Vahideh Zolfaghari
+
++ [NumLeak: Public Numeric Benchmarks as Latent Labels in Foundation Models](https://arxiv.org/abs/2605.30393)
+
+	Anany Kotawala
+
++ [MAAT: Multi-phase Adapter-Aware Targeted Unlearning](https://arxiv.org/abs/2605.30514)
+
+	Suryash Yagnik, Shubham Gaur, Saksham Thakur, Vinija Jain, Aman Chadha, Amitava Das
+
++ [Measuring, Localizing, and Ablating Alignment Signatures in LLMs](https://arxiv.org/abs/2605.30526)
+
+	Aniket Anand, Janvijay Singh, Zhewei Sun, Dilek Hakkani-Tür, Nick Feamster
+
++ [AMNESIA: A Large Scale Medical Unlearning Benchmark Suite with Disease-Informed Analysis](https://arxiv.org/abs/2605.30599)
+
+	Saeedeh Davoudi, Reihaneh Iranmanesh, Ophir Frieder, Nazli Goharian
+
++ [CSULoRA: Closest Safe Update Low-Rank Adaptation](https://arxiv.org/abs/2605.30640)
+
+	Oleksandr Marchenko Breneur, Adelaide Danilov, Aria Nourbakhsh, Salima Lamsiyah
+
++ [Representation Collapse in Sequential Post-Training of Large Language Models](https://arxiv.org/abs/2605.30524)
+
+	Yichen Liu, Mingyu Chen, Hao Wang, Xiaoran Xu, Chenxi Lin, Rui Zhang, Yutong Zhou, Yuxin Yang, Jiarui Wu, Wei Sun
 
 # 2026-05-27
 + [Training Stratigraphy: Persistent Behavioral Artifacts in Large Language Models Observed Through Longitudinal AI-Human Interaction](https://arxiv.org/abs/2605.28102)
@@ -1308,6 +1357,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	J. Clayton Kerce
 
++ [Targeted Speaker Poisoning Framework in Zero-Shot Text-to-Speech](https://arxiv.org/abs/2603.07551)
+
+	Thanapat Trachu, Thanathai Lertpetchpun, Sai Praneeth Karimireddy, Shrikanth Narayanan
+
 # 2026-03-06
 + [Depth Charge: Jailbreak Large Language Models from Deep Safety Attention Heads](https://arxiv.org/abs/2603.05772)
 
@@ -1418,6 +1471,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Steering and Rectifying Latent Representation Manifolds in Frozen Multi-modal LLMs for Video Anomaly Detection](https://arxiv.org/abs/2602.24021)
 
 	Zhaolin Cai, Fan Li, Huiyu Duan, Lijun He, Guangtao Zhai
+
++ [From Leaky Thoughts to Private Reasoning: Controlling What LRMs Say to Themselves](https://arxiv.org/abs/2602.24210)
+
+	Haritz Puerto, Haonan Li, Xudong Han, Timothy Baldwin, Iryna Gurevych
 
 # 2026-02-26
 + [Transformers converge to invariant algorithmic cores](https://arxiv.org/abs/2602.22600)
@@ -1754,6 +1811,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335)
 
 	Anna Bair, Yixuan Even Xu, Mingjie Sun, J. Zico Kolter
+
++ [GoodVibe: Security-by-Vibe for LLM-Based Code Generation](https://arxiv.org/abs/2602.10778)
+
+	Maximilian Thang, Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Jona te Lintelo, Stjepan Picek, Ahmad-Reza Sadeghi
 
 # 2026-02-10
 + [Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment](https://arxiv.org/abs/2602.10161)
@@ -3111,6 +3172,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Falsifying Sparse Autoencoder Reasoning Features in Language Models](https://arxiv.org/abs/2601.05679)
 
 	George Ma, Zhongyuan Liang, Irene Y. Chen, Somayeh Sojoudi
+
+# 2026-01-08
++ [Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning](https://arxiv.org/abs/2601.05134)
+
+	Polina Dolgova, Sebastian U. Stich
 
 # 2026-01-07
 + [SearchAttack: Red-Teaming LLMs against Knowledge-to-Action Threats under Online Web Search](https://arxiv.org/abs/2601.04093)
@@ -4556,6 +4622,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Uncovering Privacy Vulnerabilities through Analytical Gradient Inversion Attacks](https://arxiv.org//abs/2509.18871)
 
 	Tamer Ahmed Eltaras, Qutaibah Malluhi, Alessandro Savino, Stefano Di Carlo, Adnan Qayyum
+
++ [SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://arxiv.org/abs/2509.21379)
+
+	Enrico Cassano, Riccardo Renzulli, Marco Nurisso, Mirko Zaffaroni, Alan Perotti, Marco Grangetto
 
 # 2025-09-22
 + [Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](https://arxiv.org//abs/2509.17550)
@@ -17329,6 +17399,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Ke Wang, Yiming Qin, Nikolaos Dimitriadis, Alessandro Favero, Pascal Frossard
 
++ [SHIELD: Secure Hypernetworks for Incremental Expansion Learning Defense](https://arxiv.org/abs/2506.08255)
+
+	Patryk Krukowski, Łukasz Gorczyca, Piotr Helm, Kamil Książek, Przemysław Spurek
+
 # 2025-06-08
 + [Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test](https://arxiv.org//abs/2506.06975)
 
@@ -20234,6 +20308,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Beyond Linear Steering: Unified Multi-Attribute Control for Language Models](https://arxiv.org/abs/2505.24535)
 
 	Narmeen Oozeer, Luke Marks, Shreyans Jain, Fazl Barez, Amirali Abdullah
+
++ [Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems](https://arxiv.org/abs/2506.00175)
+
+	Shichang Zhang, Hongzhe Du, Jiaqi W. Ma, Himabindu Lakkaraju
 
 # 2025-05-29
 + [Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness](https://arxiv.org//abs/2505.22960)
