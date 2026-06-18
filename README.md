@@ -1,6 +1,27 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-06-17
++ [User as Engram: Internalizing Per-User Memory as Local Parametric Edits](https://arxiv.org/abs/2606.19172)
+
+	Bojie Li
+
++ [Mechanism-Guided Selective Unlearning for RLVR-Induced Reasoning](https://arxiv.org/abs/2606.19222)
+
+	Chenyu Zhou, Qiliang Jiang, Shuning Wu, Xu Zhou
+
++ [The Wrong Kind of Right: Quantifying and Localizing Misfired Alignment in LLMs](https://arxiv.org/abs/2606.18656)
+
+	Naihao Deng, Yiming Feng, Chimaobi Okite, Kaijian Zou, Lu Wang, Rada Mihalcea, Yulong Chen
+
++ [Output Vector Editing for Memorization Mitigation in Large Language Models](https://arxiv.org/abs/2606.18767)
+
+	Ahmad Dawar Hakimi, Kaiwei Lei, Isabelle Augenstein, Hinrich Schütze
+
++ [Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications](https://arxiv.org/abs/2606.18673)
+
+	Yong Yang, Chong Fu, Tong Zhang, Rui Zeng, Qingming Li, Tianyu Du, Zonghui Wang, Shouling Ji, Wenzhi Chen
+
 # 2026-06-16
 + [Decoding Hidden Deception in Reasoning LLMs: Activation Explainers for Deception Auditing](https://arxiv.org/abs/2606.17478)
 
@@ -9,6 +30,22 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [AnchorKV: Safety-Aware KV Cache Compression via Soft Penalty with a Refusal Anchor](https://arxiv.org/abs/2606.17872)
 
 	Ning Ni, Yingjie Lao
+
++ [SAGE: Retain-Aware Post-Hoc Sanitization of Final Unlearning Vector](https://arxiv.org/abs/2606.18309)
+
+	Jingyuan Zhang, Yucheng Bai, Peixi Wen, Zhehao Huang, Zhengbao He, Hanling Tian, Xinwen Cheng, Haiyin Ran, Xiaolin Huang
+
++ [Conflict-Aware Retriever Editing for Knowledge Injection Attacks on LLM-Based RAG Systems](https://arxiv.org/abs/2606.18310)
+
+	Xinru Liu, Xianglong Zhang, Di Cai, Zhumin Chen, Pengfei Hu, Xin Xin
+
++ [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](https://arxiv.org/abs/2606.18322)
+
+	Mingyue Cui, Linghui Shen, Xingyi Yang
+
++ [PreUnlearn: Auditing Collateral Knowledge Damage Before Large Language Model Unlearning](https://arxiv.org/abs/2606.18473)
+
+	Bo Su, Ankit Shah, Thai Le
 
 # 2026-06-15
 + [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](https://arxiv.org/abs/2606.17034)
@@ -567,6 +604,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Authority Inversion in LLM-Mediated Ubiquitous Systems: When Models Trust Users Over Sensors](https://arxiv.org/abs/2605.23938)
 
 	Long Zhang, Zi-bo Qin, Wei-neng Chen
+
+# 2026-04-25
++ [From Concept-Aligned Tokens to Vulnerable Features: Mechanistic Localization of Jailbreaks](https://arxiv.org/abs/2604.23130)
+
+	Nilanjana Das, Mathew Dawit, Aman Chadha, Manas Gaur
 
 # 2026-04-21
 + [Mechanistic Anomaly Detection via Functional Attribution](https://arxiv.org/abs/2604.18970)
@@ -3597,6 +3639,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [EtCon: Edit-then-Consolidate for Reliable Knowledge Editing](https://arxiv.org/abs/2512.04753)
 
 	Ruilin Li, Yibin Wang, Wenhong Zhu, Chenglin Li, Jinghao Zhang, Chenliang Li, Junchi Yan, Jiaqi Wang
+
+# 2025-12-03
++ [RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144)
+
+	Roy Rinberg, Usha Bhalla, Igor Shilov, Flavio P. Calmon, Rohit Gandikota
 
 # 2025-12-02
 + [Randomized Masked Finetuning: An Efficient Way to Mitigate Memorization of PIIs in LLMs](https://arxiv.org/abs/2512.03310)
@@ -33041,6 +33088,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](https://arxiv.org//abs/2504.15133)
 
 	Ziwen Xu, Shuxun Wang, Kewei Xu, Haoming Xu, Mengru Wang, Xinle Deng, Yunzhi Yao, Guozhou Zheng, Huajun Chen, Ningyu Zhang
+
++ [RUB: Evaluating Residual Knowledge in Unlearned Models](https://arxiv.org/abs/2504.14798)
+
+	Hao Xuan, Xingyu Li
 
 # 2025-04-20
 + [UFO2: The Desktop AgentOS](https://arxiv.org//abs/2504.14603)
