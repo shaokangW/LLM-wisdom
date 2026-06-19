@@ -1,6 +1,27 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-06-18
++ [LOKI: Memory-Free Null-Space Constrained Lifelong Knowledge Editing](https://arxiv.org/abs/2606.19679)
+
+	Masih Eskandar, Miquel Sirera Perelló, Stratis Ioannidis, Jennifer Dy
+
++ [Leverage Is Not Reach: A Control-Window Law for Single-Neuron Steering in Language Models](https://arxiv.org/abs/2606.19831)
+
+	Hongliang Liu
+
++ [Actionable Activation Directions for Detecting and Mitigating Emergent Misalignment Across Language Model Families](https://arxiv.org/abs/2606.20225)
+
+	Abdul Rafay Syed
+
++ [Spectral Query-Key Product Weight Steering for Training-Free VLM Hallucination Mitigation](https://arxiv.org/abs/2606.20419)
+
+	Karn Tiwari, Varnith Chordia, Prathosh A P
+
++ [Quantization as a Malicious Task: Removing Quantization-Conditioned Backdoors via Task Arithmetic](https://arxiv.org/abs/2606.20254)
+
+	Kaihsun Yang, Min-Yan Tsai, Chia-Mu Yu
+
 # 2026-06-17
 + [User as Engram: Internalizing Per-User Memory as Local Parametric Edits](https://arxiv.org/abs/2606.19172)
 
@@ -21,6 +42,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications](https://arxiv.org/abs/2606.18673)
 
 	Yong Yang, Chong Fu, Tong Zhang, Rui Zeng, Qingming Li, Tianyu Du, Zonghui Wang, Shouling Ji, Wenzhi Chen
+
++ [Where Does Social Reasoning Come From? Capability Provenance in Language Models](https://arxiv.org/abs/2606.19625)
+
+	Glenn Matlin, Chandreyi Chakraborty, Saehee Eom, Mika Okamoto, Rayan Castilla, Louis Jaburi, Alvin Deng, Taywon Min, Lucia Quirke, Stella Biderman, Mark Riedl
+
++ [FloatDoor: Platform-Triggered Backdoors in LLMs](https://arxiv.org/abs/2606.19535)
+
+	Nils Loose, Jonas Sander, Felix Mächtle, Thomas Eisenbarth
 
 # 2026-06-16
 + [Decoding Hidden Deception in Reasoning LLMs: Activation Explainers for Deception Auditing](https://arxiv.org/abs/2606.17478)
@@ -541,6 +570,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Language-Switching Triggers Take a Latent Detour Through Language Models](https://arxiv.org/abs/2605.18646)
 
 	Francis Kulumba, Wissam Antoun, Théo Lasnier, Benoît Sagot, Djamé Seddah
+
+# 2026-05-16
++ [MixSD: Mixed Contextual Self-Distillation for Knowledge Injection](https://arxiv.org/abs/2605.16865)
+
+	Jiarui Liu, Lechen Zhang, Yongjin Yang, Yinghui He, Yingheng Wang, Weihao Xuan, Zhijing Jin, Mona Diab
 
 # 2026-05-15
 + [Judge Circuits](https://arxiv.org/abs/2605.16023)
@@ -1625,6 +1659,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Targeted Speaker Poisoning Framework in Zero-Shot Text-to-Speech](https://arxiv.org/abs/2603.07551)
 
 	Thanapat Trachu, Thanathai Lertpetchpun, Sai Praneeth Karimireddy, Shrikanth Narayanan
+
+# 2026-03-07
++ [HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing](https://arxiv.org/abs/2603.07236)
+
+	Mengxuan Wu, Xuanlei Zhao, Ziqiao Wang, Ruicheng Feng, Zhangyang Wang, Kai Wang
 
 # 2026-03-06
 + [Depth Charge: Jailbreak Large Language Models from Deep Safety Attention Heads](https://arxiv.org/abs/2603.05772)
