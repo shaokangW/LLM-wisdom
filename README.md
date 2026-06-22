@@ -22,6 +22,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Kaihsun Yang, Min-Yan Tsai, Chia-Mu Yu
 
++ [GEMS: Geometric Constraints Enable Multi-Semantic Superposition in LLMs](https://arxiv.org/abs/2606.19946)
+
+	Yu Deng
+
 # 2026-06-17
 + [User as Engram: Internalizing Per-User Memory as Local Parametric Edits](https://arxiv.org/abs/2606.19172)
 
@@ -142,6 +146,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [High-Dimensional Random Projection for Activation Steering in Language Models](https://arxiv.org/abs/2606.15092)
 
 	Minh-Hieu Pham, Bach Do, Laziz Abdullaev, Tan Minh Nguyen, Khoat Than
+
++ [AgentArmor: A Framework, Evaluation, \& Mitigation of Coding Agent Failures](https://arxiv.org/abs/2606.19380)
+
+	Kenneth Ge, Andre Assis
 
 # 2026-06-12
 + [AI Engram: In Search of Memory Traces in Artificial Intelligence](https://arxiv.org/abs/2606.14997)
