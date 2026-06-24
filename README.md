@@ -1,6 +1,27 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-06-23
++ [Towards Version-aware Operations and Transaction Memories for Multi-layer MeMo](https://arxiv.org/abs/2606.24040)
+
+	Peiran Li
+
++ [Selective Capability Unlearning in End-to-End Spoken Language Understanding](https://arxiv.org/abs/2606.24063)
+
+	Akanksha Singh, Vinod Kumar Kurmi
+
++ [Co-occurring associated retained concepts in Diffusion Unlearning](https://arxiv.org/abs/2606.24192)
+
+	Miso Kim, Georu Lee, Yunji Kim, Hoki Kim, Jinseong Park, Woojin Lee
+
++ [Sentence-Level Contextual Entrainment in Large Language Models](https://arxiv.org/abs/2606.24077)
+
+	Yang Liu, Chenhui Chu
+
++ [FedUP: One-Shot Federated Unlearning via Centroid-Guided Plug-in Filters](https://arxiv.org/abs/2606.24113)
+
+	Feihong Nan, Zhengyi Zhong, Pan Wang, Weidong Bao, Xiongtao Zhang, Quan Wen, Ji Wang
+
 # 2026-06-22
 + [Priority-Aware Learning-Unlearning Correction for Dynamic Decentralized LoRA Fine-Tuning](https://arxiv.org/abs/2606.22878)
 
@@ -6508,6 +6529,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Silent Until Sparse: Backdoor Attacks on Semi-Structured Sparsity](https://arxiv.org/abs/2509.08747)
 
 	Wei Guo, Fabio Brau, Maura Pintor, Ambra Demontis, Battista Biggio
+
++ [Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators](https://arxiv.org/abs/2509.03647)
+
+	Dani Roytburg, Matthew Bozoukov, Matthew Nguyen, Jou Barzdukas, Simon Fu, Narmeen Oozeer
 
 # 2025-09-02
 + [Privacy-Utility Trade-off in Data Publication: A Bilevel Optimization Framework with Curvature-Guided Perturbation](https://arxiv.org//abs/2509.02048)
@@ -33073,6 +33098,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Pratyush Maini, Sachin Goyal, Dylan Sam, Alex Robey, Yash Savani, Yiding Jiang, Andy Zou, Matt Fredrikson, Zacharcy C. Lipton, J. Zico Kolter
 
++ [MuTRAP: Multi-trigger Trojans Attacking Robot Task Planning Systems](https://arxiv.org/abs/2504.17070)
+
+	Mohaiminul Al Nahian, Zainab Altaweel, David Reitano, Sabbir Ahmed, Shiqi Zhang, Adnan Siraj Rakin
+
 # 2025-04-22
 + [Impact of Noise on LLM-Models Performance in Abstraction and Reasoning Corpus (ARC) Tasks with Model Temperature Considerations](https://arxiv.org//abs/2504.15903)
 
@@ -37490,6 +37519,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Adaptive Distraction: Probing LLM Contextual Robustness with Automated Tree Search](https://arxiv.org//abs/2502.01609)
 
 	Yanbo Wang, Zixiang Xu, Yue Huang, Chujie Gao, Siyuan Wu, Jiayi Ye, Pin-Yu Chen, Xiuying Chen, Xiangliang Zhang
+
++ [Task Vector Bases: A Unified and Scalable Framework for Compressed Task Arithmetic](https://arxiv.org/abs/2502.01015)
+
+	Siqi Zeng, Yifei He, Meitong Liu, Weiqiu You, Yifan Hao, Yao-Hung Hubert Tsai, Makoto Yamada, Han Zhao
 
 # 2025-02-02
 + [Vision-centric Token Compression in Large Language Model](https://arxiv.org//abs/2502.00791)
