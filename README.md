@@ -1,6 +1,15 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-06-24
++ [RAS: Measuring LLM Safety Through Refusal Alignment](https://arxiv.org/abs/2606.25750)
+
+	Chang-Chieh Huang, Yan-Lun Chen, Chia-Mu Yu, Wei-Bin Lee
+
++ [Detect, Unlearn, Restore: Defending Text Summarization Models Against Data Poisoning](https://arxiv.org/abs/2606.26036)
+
+	Poojitha Thota, Shirin Nilizadeh
+
 # 2026-06-23
 + [Towards Version-aware Operations and Transaction Memories for Multi-layer MeMo](https://arxiv.org/abs/2606.24040)
 
