@@ -1,6 +1,23 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-06-25
++ [Discovering Millions of Interpretable Features with Sparse Autoencoders](https://arxiv.org/abs/2606.26620)
+
+	XinYang He, Wei Wang, Bing Zhao, Xuan Ren, WenBo Li, WeiXu Qiao, Hu Wei, Lin Qu
+
++ [Inherited Circuits, Learned Semantics: How Fine-Tuning Creates Evasion Vulnerabilities Invisible to Standard Evaluation](https://arxiv.org/abs/2606.27091)
+
+	Ryan Fetterman
+
++ [Reproducibility Study of "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models"](https://arxiv.org/abs/2606.26783)
+
+	Ananth K S, Arya Hariharan
+
++ [Full spectrum Unlearnable Examples via Spectral Equalization](https://arxiv.org/abs/2606.26719)
+
+	Jiale Cai, Gezheng Xu, Zhihao Li, Ruiyi Fang, Ruizhi Pu, Di Wu, Qicheng Lao, Charles Ling, Boyu Wang
+
 # 2026-06-24
 + [RAS: Measuring LLM Safety Through Refusal Alignment](https://arxiv.org/abs/2606.25750)
 
@@ -9,6 +26,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Detect, Unlearn, Restore: Defending Text Summarization Models Against Data Poisoning](https://arxiv.org/abs/2606.26036)
 
 	Poojitha Thota, Shirin Nilizadeh
+
++ [Refusal Lives Downstream of Persona in Chat Models](https://arxiv.org/abs/2606.26161)
+
+	Viola Zhong, Qirui Li
+
++ [How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring](https://arxiv.org/abs/2606.25487)
+
+	Yang Gao (Veyon Solutions)
+
++ [At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization](https://arxiv.org/abs/2606.26396)
+
+	Praneet Suresh, Jack Stanley, Sonia Joseph, Luca Scimeca, Danilo Bzdok
 
 # 2026-06-23
 + [Towards Version-aware Operations and Transaction Memories for Multi-layer MeMo](https://arxiv.org/abs/2606.24040)
@@ -4186,6 +4215,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157)
 
 	Alexandrine Fortier, Thomas Thebaud, Jesús Villalba, Najim Dehak, Patrick Cardinal, Peter West
+
++ [Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://arxiv.org/abs/2510.00586)
+
+	Yen-Shan Chen, Sian-Yao Huang, Cheng-Lin Yang, Yun-Nung Chen
 
 # 2025-09-30
 + [CHAI: Command Hijacking against embodied AI](https://arxiv.org/abs/2510.00181)
