@@ -1,6 +1,19 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-06-26
++ [CBD: API-Only LLM Black-Box Unlearning through Controlled Behavioral Divergence](https://arxiv.org/abs/2606.27683)
+
+	Zhiqiang Xie, Yijing Lin, Zhipeng Gao, Dong In Kim
+
++ [SHIFT: Gate-Modulated Activation Steering for Knowledge Conflict Mitigation in Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786)
+
+	Ruochang Li, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Huiyuan Xie, Yu Gu, Ge Yu, Maosong Sun
+
++ [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](https://arxiv.org/abs/2606.28153)
+
+	Yanchen Yin, Dongqi Han, Linghui Li
+
 # 2026-06-25
 + [Discovering Millions of Interpretable Features with Sparse Autoencoders](https://arxiv.org/abs/2606.26620)
 
@@ -17,6 +30,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Full spectrum Unlearnable Examples via Spectral Equalization](https://arxiv.org/abs/2606.26719)
 
 	Jiale Cai, Gezheng Xu, Zhihao Li, Ruiyi Fang, Ruizhi Pu, Di Wu, Qicheng Lao, Charles Ling, Boyu Wang
+
++ [On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models](https://arxiv.org/abs/2606.27567)
+
+	Dewank Pant, Shruti Lohani, Avijit Kumar
 
 # 2026-06-24
 + [RAS: Measuring LLM Safety Through Refusal Alignment](https://arxiv.org/abs/2606.25750)
@@ -768,6 +785,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Break the Brake, Not the Wheel: Untargeted Jailbreak via Entropy Maximization](https://arxiv.org/abs/2605.10764)
 
 	Mengqi He, Xinyu Tian, Xin Shen, Shu Zou, Jinhong Ni, Zhaoyuan Yang, Weikang Li, Xuesong Li, Jing Zhang
+
+# 2026-05-08
++ [Position: The Term "Machine Unlearning" Is Overused in LLMs](https://arxiv.org/abs/2606.27379)
+
+	Sangyeon Yoon, Yeachan Jun, Albert No
 
 # 2026-05-06
 + [Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](https://arxiv.org/abs/2605.04700)
@@ -2397,6 +2419,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Jacob L. Block, Mehryar Mohri, Aryan Mokhtari, Sanjay Shakkottai
 
++ [When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](https://arxiv.org/abs/2602.10179)
+
+	Jiacheng Hou, Yining Sun, Ruochong Jin, Haochen Han, Fangming Liu, Wai Kin Victor Chan, Alex Jinpeng Wang
+
 # 2026-02-09
 + [UniComp: A Unified Evaluation of Large Language Model Compression via Pruning, Quantization and Distillation](https://arxiv.org/abs/2602.09130)
 
@@ -3890,6 +3916,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Xuyuan Liu, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, Zhengzhang Chen
 
++ [Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning](https://arxiv.org/abs/2511.20196)
+
+	Zhen Zeng, Leijiang Gu, Zhangling Duan, Feng Li, Cees G. M. Snoek, Meng Wang, Zenglin Shi
+
 # 2025-11-24
 + [ModHiFi: Identifying High Fidelity predictive components for Model Modification](https://arxiv.org/abs/2511.19566)
 
@@ -4093,6 +4123,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851)
 
 	Sicheng Lyu, Yu Gu, Xinyu Wang, Jerry Huang, Sitao Luan, Yufei Cui, Xiao-Wen Chang, Peng Lu
+
++ [MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation](https://arxiv.org/abs/2510.10271)
+
+	Wentian Zhu, Zhen Xiang, Wei Niu, Le Guan
 
 # 2025-10-10
 + [Group-Adaptive Adversarial Learning for Robust Fake News Detection Against Malicious Comments](https://arxiv.org/abs/2510.09712)
@@ -39472,6 +39506,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [On Many-Shot In-Context Learning for Long-Context Evaluation](https://arxiv.org//abs/2411.07130)
 
 	Kaijian Zou, Muhammad Khalifa, Lu Wang
+
++ [Continual Memorization of Factoids in Language Models](https://arxiv.org/abs/2411.07175)
+
+	Howard Chen, Jiayi Geng, Adithya Bhaskar, Dan Friedman, Danqi Chen
 
 # 2024-11-10
 + [An Efficient Matrix Multiplication Algorithm for Accelerating Inference in Binary and Ternary Neural Networks](https://arxiv.org//abs/2411.06360)
