@@ -1,6 +1,65 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-06-29
++ [Inoculation Adapters: Improved Selective Generalization of Capabilities with Fewer Surprising Backdoors](https://arxiv.org/abs/2606.30252)
+
+	Maxime Riché, Daniel Tan, Vili Kohonen, Niels Warncke
+
++ [Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering](https://arxiv.org/abs/2606.29824)
+
+	Chengfeng Zhao, Yuqiao Tan, Shizhu He, Yequan Wang, Jun Zhao, Kang Liu
+
++ [Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents](https://arxiv.org/abs/2606.30306)
+
+	Tianyu Ding, Aditya Nannapaneni, Bingfan Liu, Ling Zhang
+
++ [IREU: Identity-Related Encoder-Only Unlearning for Customized Portrait Generation](https://arxiv.org/abs/2606.29880)
+
+	Chaoyi Shi, Shanshan Zhang, Jian Yang
+
++ [On the Vulnerability of Parameter-Level Defenses to Model Merging](https://arxiv.org/abs/2606.30360)
+
+	Kuangpu Guo, Qingyan Zheng, Jian Liang, Yongcan Yu, Zilei Wang, Ran He, Tieniu Tan
+
++ [MemLeak: Diagnosing Information Leaks in Multimodal Agent Memory](https://arxiv.org/abs/2606.29788)
+
+	Kuan Wang, Chao Zhang
+
++ [The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning](https://arxiv.org/abs/2606.29832)
+
+	Yiting Hu, Lingjie Duan, Qian Zhang
+
+# 2026-06-28
++ [SCARCE: Scalable Cascade Analysis for Rare-event Characterisation via Embeddings](https://arxiv.org/abs/2606.29623)
+
+	Yingjie Wang, Yi Dong, Edmund Lau, Jie Meng, Taylor T Johnson, Xiaowei Huang
+
++ [Symbolic Mechanistic Data Attribution: Tracing Training Influence to Learned Behavioral Policies](https://arxiv.org/abs/2606.29171)
+
+	Reza Habibi, Darian Lee, Magy Seif El-Nasr
+
++ [Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering](https://arxiv.org/abs/2606.29201)
+
+	Hao Wang, Jiuzhou Lei, Dayou Li, Bangya Liu, Minghui Zheng, Manling Li, Ruohan Zhang, Zhiwen Fan
+
++ [Mechanistically Eliciting Latent Behaviors in Language Models](https://arxiv.org/abs/2606.29604)
+
+	Andrew Mack, Nina Panickssery, Alexander Matt Turner
+
++ [Fuzzing Large Language Models to Elicit Hidden Behaviours](https://arxiv.org/abs/2606.29646)
+
+	Mohammed Abu Baker, Lakshmi Babu-Saheer
+
++ [Do Models Read What They Write? Causal Registers in Scratchpad Reasoning](https://arxiv.org/abs/2606.29522)
+
+	Benjamin Shih, John Winnicki, Eric Darve
+
+# 2026-06-27
++ [Memory-Managed Long-Context Attention: A Preliminary Study of Editable Request-Local Memory](https://arxiv.org/abs/2606.28876)
+
+	Junyi Zou, Avrova Donz
+
 # 2026-06-26
 + [CBD: API-Only LLM Black-Box Unlearning through Controlled Behavioral Divergence](https://arxiv.org/abs/2606.27683)
 
@@ -13,6 +72,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](https://arxiv.org/abs/2606.28153)
 
 	Yanchen Yin, Dongqi Han, Linghui Li
+
++ [Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](https://arxiv.org/abs/2606.28589)
+
+	Tianlong Wang, Yuhang Wang, Weibin Liao, Xin Gao, Xinyu Ma, Yang Lin, Yasha Wang, Liantao Ma
+
++ [Obliviate: Erasing Concepts from Autoregressive Image Generation Models](https://arxiv.org/abs/2606.28643)
+
+	Hossein Shakibania, Jonas Henry Grebe, Tobias Braun, Ege Aktemur, Saleh Aslani, Mehmet Görkem Yiğit, Marcus Rohrbach
 
 # 2026-06-25
 + [Discovering Millions of Interpretable Features with Sparse Autoencoders](https://arxiv.org/abs/2606.26620)
@@ -55,6 +122,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization](https://arxiv.org/abs/2606.26396)
 
 	Praneet Suresh, Jack Stanley, Sonia Joseph, Luca Scimeca, Danilo Bzdok
+
++ [Reclaim Evaluation: A Lossy Memory Is Worse Than an Empty One](https://arxiv.org/abs/2606.25449)
+
+	Alex Kwon
 
 # 2026-06-23
 + [Towards Version-aware Operations and Transaction Memories for Multi-layer MeMo](https://arxiv.org/abs/2606.24040)
@@ -336,6 +407,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models](https://arxiv.org/abs/2606.10740)
 
 	Sai Kartheek Reddy Kasu, Nils Lukas, Samuele Poppi
+
++ [Quantifying Subliminal Behavioral Transfer Ratios in Language Model Distillation](https://arxiv.org/abs/2606.11270)
+
+	Uwe König, Hamza Kazmi, Ruizhe Li, Maheep Chaudhary
 
 # 2026-06-04
 + [Where Should Knowledge Enter? A Layered Framework for Knowledge Infusion in Multimodal Iterative Generative Model](https://arxiv.org/abs/2606.06356)
@@ -3969,6 +4044,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Alina Fastowski, Bardh Prenkaj, Yuxiao Li, Gjergji Kasneci
 
++ [Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852)
+
+	Yinjie Cheng, Paul Youssef, Christin Seifert, Jörg Schlötterer, Zhixue Zhao
+
 # 2025-11-07
 + [A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476)
 
@@ -4104,6 +4183,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Locket: Robust Feature-Locking Technique for Language Models](https://arxiv.org/abs/2510.12117)
 
 	Lipeng He, Vasisht Duddu, N. Asokan
+
++ [Attribution Graphs and Causal Probing for Mechanistic Discovery and Bias Repair in Multimodal Generative Learning](https://arxiv.org/abs/2510.12957)
+
+	Noor Islam S. Mohammad, Uluğ Bayazıt
 
 # 2025-10-13
 + [CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](https://arxiv.org/abs/2510.11137)
@@ -11310,6 +11393,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Maria Damanaki, Ioulia Kapsali, Nikos Piperigkos, Alexandros Gkillas, Aris S. Lalos
 
++ [Efficient Unlearning with Privacy Guarantees](https://arxiv.org/abs/2507.04771)
+
+	Josep Domingo-Ferrer, Najeeb Jebreel, David Sánchez
+
 # 2025-07-06
 + [Mpemba Effect in Large-Language Model Training Dynamics: A Minimal Analysis of the Valley-River model](https://arxiv.org//abs/2507.04206)
 
@@ -11523,6 +11610,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Addressing The Devastating Effects Of Single-Task Data Poisoning In Exemplar-Free Continual Learning](https://arxiv.org//abs/2507.04106)
 
 	Stanisław Pawlak (1), Bartłomiej Twardowski (2 and 3), Tomasz Trzciński (1 and 2), Joost van de Weijer (3) ((1) Warsaw University of Technology, Poland, (2) IDEAS Research Institute, Poland, (3) Computer Vision Center, Universitat Autonoma de Barcelona, Spain)
+
++ [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](https://arxiv.org/abs/2507.07056)
+
+	Jiahao Chen, Junhao Li, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji
 
 # 2025-07-04
 + [Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems](https://arxiv.org//abs/2507.03226)
