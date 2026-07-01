@@ -1,6 +1,31 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-06-30
++ [Harnessing Textual Refusal Directions for Multimodal Safety](https://arxiv.org/abs/2606.31876)
+
+	Moreno D'Incà, Massimiliano Mancini, Nicu Sebe
+
++ [Probing Stylistic Appropriation using Large Language Models: An Evaluation Framework for Copyright Infringement under EU Law](https://arxiv.org/abs/2606.31250)
+
+	Noah Scharrenberg, Chang Sun
+
++ [Look But Don't Touch with Sparse Autoencoders for Unlearning in Diffusion Models](https://arxiv.org/abs/2606.31699)
+
+	Enrico Cassano, Riccardo Renzulli, Rayyan Ahmed, Marco Grangetto, Stephan Alaniz
+
++ [Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032)
+
+	Gabrielle Kaili-May Liu, Avi Caciularu, Gal Yona, Idan Szpektor, Arman Cohan
+
++ [Decodable Is Not Grounded: A Vision-Ablation Arbiter for VLM Spatial Reasoning](https://arxiv.org/abs/2606.31257)
+
+	Chih-Ting Liao, Fei Shen, Xin Cao, Tat-Seng Chua
+
++ [Fora: From Weight-Space to Function-Space Protection in Capability-Preserving Fine-Tuning](https://arxiv.org/abs/2606.31092)
+
+	Rui Zhou, Tianci Xie
+
 # 2026-06-29
 + [Inoculation Adapters: Improved Selective Generalization of Capabilities with Fewer Surprising Backdoors](https://arxiv.org/abs/2606.30252)
 
@@ -29,6 +54,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning](https://arxiv.org/abs/2606.29832)
 
 	Yiting Hu, Lingjie Duan, Qian Zhang
+
++ [Curvature-Guided Module Localization for Low-Rank Detoxification of Backdoored Large Language Models](https://arxiv.org/abs/2606.30899)
+
+	Arash Raftari, Mehrdad Mahdavi, Nathan Blackthorn, Andrew Arash Mahyari
+
++ [Revocable Learned State via Process Sidecars](https://arxiv.org/abs/2606.30788)
+
+	John Sweeney
 
 # 2026-06-28
 + [SCARCE: Scalable Cascade Analysis for Rare-event Characterisation via Embeddings](https://arxiv.org/abs/2606.29623)
@@ -1625,6 +1658,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [CNT: Safety-oriented Function Reuse across LLMs via Cross-Model Neuron Transfer](https://arxiv.org/abs/2603.18449)
 
 	Yue Zhao, Yujia Gong, Ruigang Liang, Shenchen Zhu, Kai Chen, Xuejing Yuan, Wangjun Zhang
+
++ [On Optimizing Multimodal Jailbreaks for Spoken Language Models](https://arxiv.org/abs/2603.19127)
+
+	Aravind Krishnan, Karolina Stańczak, Dietrich Klakow
 
 # 2026-03-18
 + [Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](https://arxiv.org/abs/2603.17305)
@@ -4142,6 +4179,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Agentic Reinforcement Learning for Search Misaligns Instruction-Tuning](https://arxiv.org/abs/2510.17431)
 
 	Yushi Yang, Shreyansh Padarha, Sarah Ball, Andrew Lee, Adam Mahdi
+
++ [Not Every Time and Frequency Need to Be Forgotten in Diffusion Unlearning](https://arxiv.org/abs/2510.17917)
+
+	Jinseong Park, Mijung Park
 
 # 2025-10-18
 + [SHIELD: Suppressing Hallucinations In LVLM Encoders via Bias and Vulnerability Defense](https://arxiv.org/abs/2510.16596)
