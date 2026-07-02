@@ -1,6 +1,39 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-07-01
++ [HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment](https://arxiv.org/abs/2607.00572)
+
+	Shei Pern Chua, Fangzhao Wu
+
++ [NeuroCogMap Reveals Cognitive Organization of Large Language Models](https://arxiv.org/abs/2607.00397)
+
+	Zhongxiang Sun, Haolang Lu, Qiang Ma, Qi Li, Qipeng Wang, Liang Pang, Chenyu Liu, Qiankun Li, Hao Sun, Kun Wang, Yi Zeng, Jun Xu, Guoqi Li, Ji-Rong Wen
+
++ [Auditing Forgetting in Limited Memory Language Models](https://arxiv.org/abs/2607.00605)
+
+	Arya Raeesi, Hanna Roed
+
++ [Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation](https://arxiv.org/abs/2607.01208)
+
+	Shayan Talaei, Abhinav Chinta, Devvrit Khatri, Amin Karbasi, Azalia Mirhoseini, Amin Saberi
+
++ [A Mechanistic View of Authority Hierarchy in LLM Sycophancy](https://arxiv.org/abs/2607.00415)
+
+	Emil Joswin, Srujananjali Medicherla, Priyanka Mary Mammen
+
++ [KnowledgeDebugger -- an Exploration Tool for Knowledge Localization and Editing in Transformers](https://arxiv.org/abs/2607.01000)
+
+	Eric Benz, Lennart Stöpler, Nikolai Bolik, Artur Andrzejak
+
++ [EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation](https://arxiv.org/abs/2607.01147)
+
+	Tatiana Gaintseva, Akshit Achara, Gregory Slabaugh, Jiankang Deng, Ismail Elezi
+
++ [Prototype Language Models](https://arxiv.org/abs/2607.00510)
+
+	Dan Ley, Giang Nguyen, Himabindu Lakkaraju, Julius Adebayo
+
 # 2026-06-30
 + [Harnessing Textual Refusal Directions for Multimodal Safety](https://arxiv.org/abs/2606.31876)
 
@@ -180,6 +213,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [FedUP: One-Shot Federated Unlearning via Centroid-Guided Plug-in Filters](https://arxiv.org/abs/2606.24113)
 
 	Feihong Nan, Zhengyi Zhong, Pan Wang, Weidong Bao, Xiongtao Zhang, Quan Wen, Ji Wang
+
++ [Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty](https://arxiv.org/abs/2606.25198)
+
+	Antonis Antoniades, Deepak Nathani, Ritam Saha, Alfonso Amayuelas, Ivan Bercovich, Zhaotian Weng, Vignesh Baskaran, Kunal Bhatia, William Yang Wang
 
 # 2026-06-22
 + [Priority-Aware Learning-Unlearning Correction for Dynamic Decentralized LoRA Fine-Tuning](https://arxiv.org/abs/2606.22878)
@@ -3618,6 +3655,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [QUAIL: Quantization Aware Unlearning for Mitigating Misinformation in LLMs](https://arxiv.org/abs/2601.15538)
 
 	Himanshu Mishra, Kanwal Mehreen
+
++ [NeuroFilter: Activation-Based Guardrails for Privacy-Conscious LLM Agents](https://arxiv.org/abs/2601.14660)
+
+	Saswat Das, Ferdinando Fioretto
 
 # 2026-01-20
 + [Activation-Space Anchored Access Control for Multi-Class Permission Reasoning in Large Language Models](https://arxiv.org/abs/2601.13630)
