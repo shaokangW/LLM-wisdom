@@ -1,6 +1,19 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-07-08
++ [Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003)
+
+	Anthony Baez, Sheer Karny, Pat Pataranutaporn
+
++ [Distributed Sparse Interventions in Language Models](https://arxiv.org/abs/2607.07128)
+
+	Maximilian S. Ernst (1,2,3), Lorenz Linhardt (3,4), Aaron Peikert (2), Oliver Eberle (3,4) ((1) Max Planck School of Cognition (2) Center for Lifespan Psychology Max Planck Institute for Human Development (3) Machine Learning Group Technische Universität Berlin (4) Berlin Institute for the Foundations of Learning and Data (BIFOLD))
+
++ [Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316)
+
+	Pranav Sawant, Jakub Krejčí
+
 # 2026-07-07
 + [Controlling Tool Use with Heading-Specific Activation Steering](https://arxiv.org/abs/2607.05790)
 
@@ -30,10 +43,26 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Sahasrajit Sarmasarkar, Anastasia Koloskova, Sanmi Koyejo
 
++ [LLMs Silently Correct African American English: Auditing and Mitigating Dialect Bias via Activation Steering](https://arxiv.org/abs/2607.06845)
+
+	Huan Wu, Ali Emami, Muhammad Furquan Hassan, Osaretin Igbinoba, Osakpolor Idusuyi, Osamede Igbinoba, Faiza Khan Khattak, Laleh Seyyed-Kalantari
+
++ [POPS: Recovering Unlearned Multi-Modality Knowledge in MLLMs with Prompt-Optimized Parameter Shaking](https://arxiv.org/abs/2607.06649)
+
+	Zhangheng LI, Jianing Zhu, Junyuan Hong, Sungmin Eum, Shuowen Hu, Suya You, Zhangyang Wang
+
++ [Auditable Machine Unlearning for Privacy-Compliant Ransomware Detection Using Multi-Shard SISA and Deep Reinforcement Learning](https://arxiv.org/abs/2607.06860)
+
+	Jannatul Ferdous, Rafiqul Islam, Md Zahidul Islam
+
 # 2026-07-06
 + [A Coin Flip Per Token: Bernoulli Sparse Steering of Large Language Models](https://arxiv.org/abs/2607.05615)
 
 	Nima Eshraghi, Lovedeep Gondara, Yuqing Huang, Sagarika Suresh, Leizer Teran, Jithin Pradeep, Xiaotong Xu, Fanny Chevalier
+
++ [When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents](https://arxiv.org/abs/2607.06595)
+
+	George Torres, Sharad Shrestha, Satyajayant Misra
 
 # 2026-07-02
 + [Epistemic Goggles: A Pretrained Module that Induces an Epistemic Frame via Gradient Editing](https://arxiv.org/abs/2607.01690)
@@ -555,6 +584,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Beyond Importance: Interchange-Sobol Sensitivity Reveals Task-Specific Content Channels in Transformer Components](https://arxiv.org/abs/2606.20678)
 
 	Yifeng Guo, Jin-Hong Du, Xiang Chen
+
+# 2026-06-10
++ [The Signs Were Always There: Training-Free Concept Detection and Steering in Raw Transformer Dimensions](https://arxiv.org/abs/2606.12629)
+
+	Varun Reddy Nalagatla
 
 # 2026-06-09
 + [When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models](https://arxiv.org/abs/2606.10740)
@@ -3312,6 +3346,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/abs/2602.04448)
 
 	Jiacheng Liang, Yuhui Wang, Tanqiu Jiang, Ting Wang
+
++ [$C$-$ΔΘ$: Circuit-Restricted Weight Arithmetic for Selective Refusal](https://arxiv.org/abs/2602.04521)
+
+	Aditya Kasliwal, Pratinav Seth, Vinay Kumar Sankarapu
 
 # 2026-02-03
 + [Steering Externalities: Benign Activation Steering Unintentionally Increases Jailbreak Risk for Large Language Models](https://arxiv.org/abs/2602.04896)
