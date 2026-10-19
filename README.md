@@ -1,6 +1,76 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-10-16
++ [Compression Precedes, Content Decides: Emergent Misalignment in Reward Models](https://arxiv.org/abs/2610.22805)
+
+	Dhruv Puri, Nikhil Prakash
+
++ [ShadowFPT: Backdooring Federated Prompt Tuning via Shadow Triggers](https://arxiv.org/abs/2610.22871)
+
+	Kun Zhai, Teng Li, Yunhao Feng, Xingjun Ma
+
++ [Multiple Turns, Short Horizons: Measuring Effective-Horizon Compression in Jailbreaks](https://arxiv.org/abs/2610.22928)
+
+	Zhipeng Wei, Michael Lee, N. Benjamin Erichson
+
++ [Prune the Leaky Neurons: Mitigating Private Data Leakage in Fine-Tuned LLMs via Joint-Embedding-Guided Pruning](https://arxiv.org/abs/2610.22792)
+
+	Mohamed Shaaban, Mohamed Elmahallawy
+
++ [Many Biases, One Circuit: Post-Training Tunes a Pretrained Cue-Routing Mechanism](https://arxiv.org/abs/2610.22937)
+
+	Prakhar Gupta, Terry Jingchen Zhang, Zhijing Jin
+
++ [VISTA: Steering LLMs with Latent User Values Inferred from a Few Survey Answers](https://arxiv.org/abs/2610.23702)
+
+	Yinuo Xu, Jadie Adams, Brian Hu, Shivani Kumar, David Jurgens, Arslan Basharat
+
++ [ECHO: Replacing the Compliance Proxy with Response Harmfulness in Optimization-Based Jailbreak Attack](https://arxiv.org/abs/2610.23030)
+
+	Yuanwei Wu, Lingdong Huang, Yunlong Mao, Kanye Ye Wang, Jingyu Hua, Sheng Zhong
+
+# 2026-10-15
++ [SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors](https://arxiv.org/abs/2610.22640)
+
+	Yutong Ke, Yansu Wang, Zeyu Zhang, Xihao Guo, Chongwen Zhao, Kaizhu Huang
+
++ [CoLU: Confidence-Weighted Layerwise Unlearning for Large Language Models](https://arxiv.org/abs/2610.22721)
+
+	Jingkai Guo, Ziyi Zhao, Chaitali Chakrabarti, Deliang Fan
+
++ [Risk and Refusal: Mechanisms of LLM Responses to Suicidal Ideation](https://arxiv.org/abs/2610.22715)
+
+	Drishti Goel, Soorya Ram Shimgekar, Jeongah Lee, Violeta J. Rodriguez, Daniel S. Brown, Ravi Karkar, Koustuv Saha
+
++ [Rank Measures of Fine-Tuning Updates Need a Noise Baseline](https://arxiv.org/abs/2610.22438)
+
+	Muhammad Usman Altaf
+
++ [Model-as-a-Trojan: Self-Activating Covert DNS Exfiltration Baked Into the Weights of an LLM Agent](https://arxiv.org/abs/2610.22578)
+
+	Barak Haryati, Shaked Zychlinski
+
+# 2026-10-11
++ [Engram Injection: A Study of Temporal Validity in Parametric Language-Model Memory](https://arxiv.org/abs/2610.15882)
+
+	Sam Siavoshian, Omar Ramadan, Amin M. E-A. Diab, Amir K. Saeed, Benjamin A. Johnson, Benjamin M. Rodriguez
+
+# 2026-09-21
++ [IMPLICIT-Bench: Stereotyped Defaults and Prompt Following in Text-to-Image Generation](https://arxiv.org/abs/2609.24228)
+
+	Yue Dai, Ziyang Liu, Marc Cheong, Caren Han
+
+# 2026-08-31
++ [Capability-Gated Language Models: Security Composes, Utility Does Not](https://arxiv.org/abs/2609.00445)
+
+	Patrikas Vanagas, Augustas Mačijauskas, Laurynas Lopata
+
+# 2026-08-20
++ [ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](https://arxiv.org/abs/2608.20338)
+
+	Sahil Kale, Ian Harris
+
 # 2026-07-08
 + [Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003)
 
@@ -12513,6 +12583,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Tianrui Lou, Xiaojun Jia, Siyuan Liang, Jiawei Liang, Ming Zhang, Yanjun Xiao, Xiaochun Cao
 
++ [GPT, But Backwards: Exactly Inverting Language Model Outputs](https://arxiv.org/abs/2507.01693)
+
+	Adrians Skapars, Edoardo Manino, Youcheng Sun, Lucas C. Cordeiro
+
 # 2025-07-01
 + [ASTRO: Teaching Language Models to Reason by Reflecting and Backtracking In-Context](https://arxiv.org//abs/2507.00417)
 
@@ -24639,6 +24713,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774)
 
 	Mengqi Zhang, Zisheng Zhou, Xiaotian Ye, Qiang Liu, Zhaochun Ren, Zhumin Chen, Pengjie Ren
+
++ [Safety Alignment via Constrained Knowledge Unlearning](https://arxiv.org/abs/2505.18588)
+
+	Zesheng Shi, Yucheng Zhou, Jing Li
 
 # 2025-05-23
 + [Misaligning Reasoning with Answers -- A Framework for Assessing LLM CoT Robustness](https://arxiv.org//abs/2505.17406)
