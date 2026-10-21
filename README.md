@@ -1,6 +1,27 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-10-20
++ [Orthogonal Boundary Unlearning for Dual-Use Concepts in Large Language Models](https://arxiv.org/abs/2610.27490)
+
+	Niccolò Ronchetti
+
++ [Factual Access States in Diffusion Language Models: From Mechanism to Knowledge Editing and Retrieval](https://arxiv.org/abs/2610.27580)
+
+	Yuchen Guo, Zhuoyuan Mao, Yiwen Guo
+
++ [Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs](https://arxiv.org/abs/2610.28184)
+
+	Matteo Cercola, Katie Z Luo, Simone Formentin, Marco Pavone
+
++ [Push-Pull Attentional Anchoring for Diffusion Concept Erasure](https://arxiv.org/abs/2610.27719)
+
+	Nattanat Chatthee, Tagon Sompong, Ekapol Chuangsuwanich, Supasorn Suwajanakorn
+
++ [On the Vulnerabilities and Data-Free Removal of Watermarks in Batch Normalization Layers](https://arxiv.org/abs/2610.28076)
+
+	Elena Rodríguez-Lois, Fernando Pérez-González
+
 # 2026-10-19
 + [When Safety Fails Collectively: Robust Alignment Against Harmful Fine-Tuning via Joint Weight Perturbations](https://arxiv.org/abs/2610.25683)
 
@@ -58,6 +79,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Cheng Jin, Zhongtian Ma, Xiao Wang, Han Qi, Xiaoyu Wen, Xiang Wang, Youbang Sun, Xia Hu, Bowen Zhou, Chaochao Lu, Qiaosheng Zhang
 
++ [Steering Vision-Language Models for Visual-Contextual Privacy in Location Disclosure](https://arxiv.org/abs/2610.27323)
+
+	Wenyue Chen, Yuhan Cheng, Ruixin Yang, Ethan Mendes, Alan Ritter, Jingwei Sun, Hai Li, Yiran Chen
+
++ [You Are the Trigger: Speaker-Activated Backdoors](https://arxiv.org/abs/2610.27210)
+
+	Nataša Krčo, Euodia Dodd, Peter Romov, Yves-Alexandre de Montjoye
+
++ [Neighborhood-Aware Unlearning for Generative Recommendation](https://arxiv.org/abs/2610.27232)
+
+	Pierre Lubitzsch, Yubao Tang, Maarten de Rijke, Sebastian Schelter
+
 # 2026-10-18
 + [Enhanced Masked Diffusion Unlearning](https://arxiv.org/abs/2610.25447)
 
@@ -70,6 +103,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Many Repairs, One Direction: Steering Code Models Toward Safer Cryptographic API Use](https://arxiv.org/abs/2610.25133)
 
 	Tianhe Lu, Sakuna Harinda Jayasundara, Eric Spero, Ewan Tempero, Robert Biddle, Giovanni Russello
+
++ [Do LLMs Really Lack Difference Awareness? Uncovering Heuristic Substitution in Group-Differentiating Fairness](https://arxiv.org/abs/2610.26961)
+
+	Jingshen Zhang, Bo Wang, Yanlin Fu, Yuewen Dang, Dongming Zhao, Zifei Yu, Yuexian Hou
 
 # 2026-10-17
 + [WAQS: Weight Absorption for Quadratic Probing and Affine Steering](https://arxiv.org/abs/2610.24367)
@@ -168,10 +205,19 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Tora Bodin, Eric Aubinais, Ilaria Torre, Chih-Hong Cheng
 
++ [Many Steps into One: Reasoning Contraction and the Limits of Safe Memory Reuse for LLM Agents](https://arxiv.org/abs/2610.17544)
+
+	Jianghong Zhou, Hao Rong, Chen Lin, Daoan Zhang
+
 # 2026-10-11
 + [Engram Injection: A Study of Temporal Validity in Parametric Language-Model Memory](https://arxiv.org/abs/2610.15882)
 
 	Sam Siavoshian, Omar Ramadan, Amin M. E-A. Diab, Amir K. Saeed, Benjamin A. Johnson, Benjamin M. Rodriguez
+
+# 2026-10-10
++ [What Survives When Activation Steering Is Used as Memory](https://arxiv.org/abs/2610.14958)
+
+	Vedant Jumle
 
 # 2026-10-05
 + [Cross-Modal Forgetting and Transfer in Unified Multimodal Post-Training](https://arxiv.org/abs/2610.23918)
@@ -207,6 +253,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Flipping Minds by Flipping Bits: Decision-Level Cognitive Hijacking of Large Language Models](https://arxiv.org/abs/2607.25227)
 
 	Yu Yan, Jiahao Chen, Siqi Lu, Yongjuan Wang, Ziming Zhao, Zhaoxuan Li, Tianyu Du, Qingjun Yuan, Shouling Ji
+
+# 2026-07-15
++ [High-dimensional layer-state trajectories reveal the internal dynamics of transformer inference](https://arxiv.org/abs/2610.26866)
+
+	Heng Zhao, Yufei Wang, Ruidian Song, Weisheng Chen
 
 # 2026-07-08
 + [Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003)
@@ -465,6 +516,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Obliviate: Erasing Concepts from Autoregressive Image Generation Models](https://arxiv.org/abs/2606.28643)
 
 	Hossein Shakibania, Jonas Henry Grebe, Tobias Braun, Ege Aktemur, Saleh Aslani, Mehmet Görkem Yiğit, Marcus Rohrbach
+
++ [H2DF: Calibrated Target Bands for Controllable Language-Model Unlearning](https://arxiv.org/abs/2610.26864)
+
+	Jupiter Yao
 
 # 2026-06-25
 + [Discovering Millions of Interpretable Features with Sparse Autoencoders](https://arxiv.org/abs/2606.26620)
@@ -810,6 +865,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Where Should Knowledge Enter? A Layered Framework for Knowledge Infusion in Multimodal Iterative Generative Model](https://arxiv.org/abs/2606.06356)
 
 	Renjith Prasad, Chathurangi Shyalika, Anushka Pawar, Aahan Rathod, Amit Sheth
+
+# 2026-06-02
++ [Decomposing Refusal Steering in Mixture-of-Experts Models](https://arxiv.org/abs/2606.04160)
+
+	Anna C. Marbut, Daniel R. Olson, Travis J. Wheeler
 
 # 2026-06-01
 + [Revisiting Ripple Effects in Knowledge Editing through Pressure-Aware Joint Neighborhood Optimization](https://arxiv.org/abs/2606.01610)
