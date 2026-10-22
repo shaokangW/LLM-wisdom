@@ -1,6 +1,23 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-10-21
++ [Mitigating Reward Hacking in Realistic Scenarios Through Representation Engineering](https://arxiv.org/abs/2610.29129)
+
+	Austin Meek, Kyle Cox, Matthew Nguyen, Austin J. Brockmeier, Steven Basart
+
++ [C$^2$U in RAG: Compositional Concept Unlearning in Retrieval-Augmented Generation](https://arxiv.org/abs/2610.29223)
+
+	Yiyang Duan, Fan Wu, Tiantong Wu, Che Wang, Zhiren Gong, Wei Guo, Yang Cao, Wei Yang Bryan Lim
+
++ [Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan](https://arxiv.org/abs/2610.29342)
+
+	Ju-Chun Ko
+
++ [WRDO: Weighted Refusal Direction Optimization in Aligned Language Models](https://arxiv.org/abs/2610.29555)
+
+	Grigoriy Evseev, Vladimir Solodkin, Dmitry Bylinkin, Daniil Medyakov, Vladimir Aletov, Aleksandr Beznosikov
+
 # 2026-10-20
 + [Orthogonal Boundary Unlearning for Dual-Use Concepts in Large Language Models](https://arxiv.org/abs/2610.27490)
 
@@ -21,6 +38,26 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [On the Vulnerabilities and Data-Free Removal of Watermarks in Batch Normalization Layers](https://arxiv.org/abs/2610.28076)
 
 	Elena Rodríguez-Lois, Fernando Pérez-González
+
++ [Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents](https://arxiv.org/abs/2610.28982)
+
+	Ekagra Gupta, Raj Saha, Aniekan-Abasi Inyang, Adam Al Gharib
+
++ [Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise](https://arxiv.org/abs/2610.28810)
+
+	Pedro H. Barcha Correia, Matheus Azevedo de Sá, Paulo H. Gomes de Senna, Giovanni Mandel Martignago, Victor Takashi Hayashi, Charles Christian Miers, Marcos A. Simplicio Jr
+
++ [RL-IF: Tracking Non-local Training Data Influence for Online Reinforcement Learning](https://arxiv.org/abs/2610.28883)
+
+	Shixuan Liu, Cheng Tang, Yuzheng Hu, Fan Wu, Han Zhao, Jiaqi W. Ma
+
++ [Is Refusal Direction Universal across Low-Resourced Languages?](https://arxiv.org/abs/2610.28897)
+
+	Anastasiia Ivanova
+
++ [Attention-based Classification for Indirect Prompt Injection](https://arxiv.org/abs/2610.28988)
+
+	Amelia Kawasaki, Stefan Lee
 
 # 2026-10-19
 + [When Safety Fails Collectively: Robust Alignment Against Harmful Fine-Tuning via Joint Weight Perturbations](https://arxiv.org/abs/2610.25683)
@@ -229,6 +266,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Xianmin Ye, Zhiyuan Fan, Tianju Liu, Yuhang Wang, Zhenxing Niu, Haichang Gao
 
+# 2026-09-29
++ [Alignment via Training Against Probes Without Losing Monitorability](https://arxiv.org/abs/2609.38645)
+
+	Lena Libon, Alexander Panfilov, Ben Rank, Xin Chen, Jonas Geiping, Maksym Andriushchenko
+
 # 2026-09-25
 + [User Model Extraction via Belief Self-Distillation](https://arxiv.org/abs/2609.31603)
 
@@ -238,6 +280,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [IMPLICIT-Bench: Stereotyped Defaults and Prompt Following in Text-to-Image Generation](https://arxiv.org/abs/2609.24228)
 
 	Yue Dai, Ziyang Liu, Marc Cheong, Caren Han
+
+# 2026-09-06
++ [When Retain Constraints Conflict: Mitigating Forget-Retain Interference in Tabular Data](https://arxiv.org/abs/2609.06786)
+
+	Zijie Liu, Jinhao Duan, Bingqi Shang, Xinming An, Sijia Liu, Tianlong Chen
 
 # 2026-08-31
 + [Capability-Gated Language Models: Security Composes, Utility Does Not](https://arxiv.org/abs/2609.00445)
@@ -258,6 +305,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [High-dimensional layer-state trajectories reveal the internal dynamics of transformer inference](https://arxiv.org/abs/2610.26866)
 
 	Heng Zhao, Yufei Wang, Ruidian Song, Weisheng Chen
+
+# 2026-07-12
++ [Conditional Optimal Bridge for Riemannian Activation Steering](https://arxiv.org/abs/2607.10517)
+
+	Seyed Arshan Dalili, Ajay Narayanan Sridhar, Vijaykrishnan Narayanan, Mehrdad Mahdavi
 
 # 2026-07-08
 + [Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003)
@@ -2385,6 +2437,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study](https://arxiv.org/abs/2604.00005)
 
 	Moran Sun, Tianlin Li, Yuwei Zheng, Zhenhong Zhou, Aishan Liu, Xianglong Liu, Yang Liu
+
++ [SYNAPSE: Framework for Neuron Analysis and Perturbation in Sequence Encoding](https://arxiv.org/abs/2603.08424)
+
+	Jesús Sánchez Ochoa, Enrique Tomás Martínez Beltrán, Alberto Huertas Celdrán
 
 # 2026-03-08
 + [Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](https://arxiv.org/abs/2603.15656)
