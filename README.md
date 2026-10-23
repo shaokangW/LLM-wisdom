@@ -1,6 +1,31 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-10-22
++ [Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate](https://arxiv.org/abs/2610.30727)
+
+	Abhishek Mishra, Sagnik Chatterjee, Suyash Maniyar
+
++ [Interpreting Model Reasoning through Behavioral Counterfactuals](https://arxiv.org/abs/2610.30630)
+
+	Shawn Im, James Oldfield, Adel Bibi, Sharon Li
+
++ [Delta N-gram: Forward-Only Continual Writing into a Language Model's Native N-gram Memory](https://arxiv.org/abs/2610.31125)
+
+	Hao Wu
+
++ [AfterDeleteBench: Auditing Post-Deletion Information Persistence in LLM Agents](https://arxiv.org/abs/2610.31366)
+
+	Ehsan Saleh, Roozbeh Nahavandi, Sama Salarian, Raef Bassily, Andrew Perrault
+
++ [Same molecule, Different Knowledge: Cross-Identifier Binding Failures in LLMs For chemistry](https://arxiv.org/abs/2610.30903)
+
+	Khouloud Saadi, Di Wang
+
++ [When Forgotten Facts Return: Relearning-Aware Unlearning of Knowledge Graph Embeddings via Tangent Kernels](https://arxiv.org/abs/2610.31075)
+
+	Parnian Fazel, Mohammad M Maheri, Hamed Haddadi
+
 # 2026-10-21
 + [Mitigating Reward Hacking in Realistic Scenarios Through Representation Engineering](https://arxiv.org/abs/2610.29129)
 
@@ -17,6 +42,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [WRDO: Weighted Refusal Direction Optimization in Aligned Language Models](https://arxiv.org/abs/2610.29555)
 
 	Grigoriy Evseev, Vladimir Solodkin, Dmitry Bylinkin, Daniil Medyakov, Vladimir Aletov, Aleksandr Beznosikov
+
++ [Probing and Steering for Safety-Relevant Behaviours in Large Language Models](https://arxiv.org/abs/2610.30363)
+
+	Nimun Bajwa, Massimo Poesio
+
++ [Beyond End-to-End Recovery: Towards a Better Understanding of LLM Steganography via Rolewise Decomposition](https://arxiv.org/abs/2610.30516)
+
+	Om Tailor, Yucheng Pan, Solaleh Mohammadi, Xinyan Liu, Kaiqing Zhang
+
++ [The Psychology of an AI Hacker](https://arxiv.org/abs/2610.30361)
+
+	Víctor Mayoral-Vilches, Hugo Osuna, Aitana Cornago
 
 # 2026-10-20
 + [Orthogonal Boundary Unlearning for Dual-Use Concepts in Large Language Models](https://arxiv.org/abs/2610.27490)
@@ -58,6 +95,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Attention-based Classification for Indirect Prompt Injection](https://arxiv.org/abs/2610.28988)
 
 	Amelia Kawasaki, Stefan Lee
+
++ [RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?](https://arxiv.org/abs/2610.27735)
+
+	Kaiwen Zhou, Udari Madhushani Sehwag
 
 # 2026-10-19
 + [When Safety Fails Collectively: Robust Alignment Against Harmful Fine-Tuning via Joint Weight Perturbations](https://arxiv.org/abs/2610.25683)
@@ -270,6 +311,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Alignment via Training Against Probes Without Losing Monitorability](https://arxiv.org/abs/2609.38645)
 
 	Lena Libon, Alexander Panfilov, Ben Rank, Xin Chen, Jonas Geiping, Maksym Andriushchenko
+
++ [UnlearningSoup: Is Repeated Tuning Necessary for Large Language Model Unlearning?](https://arxiv.org/abs/2609.37076)
+
+	Puning Yang, Qizhou Wang, Junchi Yu, Bo Han, Xiuying Chen
 
 # 2026-09-25
 + [User Model Extraction via Belief Self-Distillation](https://arxiv.org/abs/2609.31603)
@@ -4589,6 +4634,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Zixun Xiong, Gaoyi Wu, Qingyang Yu, Mingyu Derek Ma, Lingfeng Yao, Miao Pan, Xiaojiang Du, Hao Wang
 
+# 2025-11-10
++ [MENTOR: A Metacognition-Driven Self-Evolution Framework for Uncovering and Mitigating Implicit Domain Risks in LLMs](https://arxiv.org/abs/2511.07107)
+
+	Liang Shan, Kaicheng Shen, Wen Wu, Zhenyu Ying, Chaochao Lu, Yan Teng, Jingqi Huang, Qingshan Liu, Guoqing Wang, Jie Zhou, Liang He
+
 # 2025-11-08
 + [Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs](https://arxiv.org/abs/2511.05919)
 
@@ -5891,6 +5941,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Design and Implementation of a Secure RAG-Enhanced AI Chatbot for Smart Tourism Customer Service: Defending Against Prompt Injection Attacks -- A Case Study of Hsinchu, Taiwan](https://arxiv.org//abs/2509.21367)
 
 	Yu-Kai Shih, You-Kai Kang
+
++ [Interpreting vision transformers via residual replacement model](https://arxiv.org/abs/2509.17401)
+
+	Jinyeong Kim, Junhyeok Kim, Yumin Shim, Joohyeok Kim, Sunyoung Jung, Seong Jae Hwang
 
 # 2025-09-21
 + [Mind the Gap: Comparing Model- vs Agentic-Level Red Teaming with Action-Graph Observability on GPT-OSS-20B](https://arxiv.org//abs/2509.17259)
