@@ -1,6 +1,31 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-10-23
++ [Concept Acupuncturist: An Efficient and Precise Concept Erasure Method for Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2610.32059)
+
+	Yiran Xiahou, Siliang Qin, Kai Chen, Shengzhi Zhang, Renyang Liu
+
++ [REACT: Representational Early Analysis and Control of Chain-of-Thought Trajectories](https://arxiv.org/abs/2610.32113)
+
+	Hanwen Zhang, Enyi Jiang, Ruike Zhu, Qinan Yu, Sanmi Koyejo
+
++ [Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery](https://arxiv.org/abs/2610.32866)
+
+	Marek Masiak, Andrzej Szablewski, Nicola Cancedda, Constantin Venhoff
+
++ [Context or Knowledge: How LLMs Attribute Their Own Answers](https://arxiv.org/abs/2610.32109)
+
+	Kirill Afendulev, Alexey Dontsov, Alla Chepurova, Elena Tutubalina, Anton Korznikov
+
++ [Depth-Dependent Safety Geometry in Vision-Language Models: Layer-Wise Localization and Bidirectional Refusal Control](https://arxiv.org/abs/2610.32182)
+
+	Muhammad Zeeshan Karamat, Syed Talal Hassan, Christiana Chamon Garcia
+
++ [Principled Nonlinear Concept Erasure and Steering](https://arxiv.org/abs/2610.32516)
+
+	Idan Simai, Shauli Ravfogel, Uri Shaham
+
 # 2026-10-22
 + [Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate](https://arxiv.org/abs/2610.30727)
 
@@ -25,6 +50,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [When Forgotten Facts Return: Relearning-Aware Unlearning of Knowledge Graph Embeddings via Tangent Kernels](https://arxiv.org/abs/2610.31075)
 
 	Parnian Fazel, Mohammad M Maheri, Hamed Haddadi
+
++ [TaxoSAE: Rethinking Sparse Autoencoders through Taxonomic Logic](https://arxiv.org/abs/2610.31894)
+
+	Xinyu Guo, Minglai Yang, Clayton T. Morrison, Eduardo Blanco, Mihai Surdeanu
+
++ [Not All Retained Clients Are Equal: Client Selection for Federated Unlearning](https://arxiv.org/abs/2610.31786)
+
+	Thanh Linh Nguyen, Quoc-Viet Pham
+
++ [TRACE: Data-Free Text Reconstruction Attacks against Approximate Unlearning in LLMs](https://arxiv.org/abs/2610.31995)
+
+	Mengying Zhang, Derui Wang, Ibrahim Khalil, Bowen Liu, Xiaoyu Xia, Minhui Xue
 
 # 2026-10-21
 + [Mitigating Reward Hacking in Realistic Scenarios Through Representation Engineering](https://arxiv.org/abs/2610.29129)
@@ -99,6 +136,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?](https://arxiv.org/abs/2610.27735)
 
 	Kaiwen Zhou, Udari Madhushani Sehwag
+
++ [Fooling LLM Safety Guards into Judging the Wrong Text](https://arxiv.org/abs/2610.31695)
+
+	Utkarsh Kanwat
 
 # 2026-10-19
 + [When Safety Fails Collectively: Robust Alignment Against Harmful Fine-Tuning via Joint Weight Perturbations](https://arxiv.org/abs/2610.25683)
@@ -297,10 +338,19 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Vedant Jumle
 
+# 2026-10-07
++ [Safe at One Loop, Risky at Another: Aligning Safety Across Recurrent Depths in Looped Language Models](https://arxiv.org/abs/2610.10625)
+
+	Yi Wang, Xiuyuan Qi, Dongqi Han, Dongsheng Li, Wenjie Wang
+
 # 2026-10-05
 + [Cross-Modal Forgetting and Transfer in Unified Multimodal Post-Training](https://arxiv.org/abs/2610.23918)
 
 	Francesco Colasurdo, Ivan Slobozhan, Joaquin Vanschoren, Anna Vettoruzzo
+
++ [From Target Selection to Condition Reuse: Auditing Residual Interventions in Tool-Use Models](https://arxiv.org/abs/2610.31686)
+
+	Tianda Sun, Dimitar Kazakov
 
 # 2026-09-30
 + [When the Editing Intent Is Split: A Cross-Modal Jailbreak Attack for Large Image Editing Models](https://arxiv.org/abs/2610.23909)
@@ -326,6 +376,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Yue Dai, Ziyang Liu, Marc Cheong, Caren Han
 
+# 2026-09-08
++ [Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054)
+
+	Gabriel J. Perin, Lucas Boscaini, André Araujo, Nina S. T. Hirata
+
 # 2026-09-06
 + [When Retain Constraints Conflict: Mitigating Forget-Retain Interference in Tabular Data](https://arxiv.org/abs/2609.06786)
 
@@ -340,6 +395,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](https://arxiv.org/abs/2608.20338)
 
 	Sahil Kale, Ian Harris
+
+# 2026-08-10
++ [When Humans Leave Context Unsaid: Implicit Context as a Risk for Large Language Models](https://arxiv.org/abs/2608.09551)
+
+	Bocheng Chen, Han Zi, Yuda Chen, Yawei Liu, Zimo Qi, Rongrong Wang, Guangliang Liu
 
 # 2026-07-28
 + [Flipping Minds by Flipping Bits: Decision-Level Cognitive Hijacking of Large Language Models](https://arxiv.org/abs/2607.25227)
