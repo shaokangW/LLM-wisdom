@@ -1,6 +1,64 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-10-26
++ [TrustJev: Separating Policy Authority from Untrusted Evidence in LLM-Based Decisions](https://arxiv.org/abs/2610.34826)
+
+	Zhiwei Xu, Xuyang Liu, Xiaolin Peng, Weixian Deng, Jiabao Gao, Zirui Li, Tian Qiu, Boya Zhou, Wei Jiao, Hai Wan, Xibin Zhao
+
++ [Logic Hijacking of RAG: Single-Document Poisoning via Local Optimization](https://arxiv.org/abs/2610.34829)
+
+	Hangyi Zhao, Bonan Zhang, Fusen Guo, Jiaheng Wei, Chao Chen, Tianqing Zhu
+
++ [Why Are LLMs Confidently Wrong? Correcting Overconfident Errors via Causal Head Intervention](https://arxiv.org/abs/2610.34994)
+
+	Jing Ren, Bowen Li, Ziqi Xu, Xuechao Yang, Feng Xia
+
++ [Trainable Boundary-Keeping Where No Formal Answer Exists: A Controlled Knock-In Study of Reward Training in Evidence-Sufficiency Judgment](https://arxiv.org/abs/2610.35226)
+
+	YaJie Yin
+
++ [CANS: Capability-Preserving Neuron Steering for Large Language Models](https://arxiv.org/abs/2610.35530)
+
+	Yucheng Wu, Chengyi Xie, Chenpeng Wang, Liangming Pan
+
++ [DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models](https://arxiv.org/abs/2610.34768)
+
+	Jinhu Fu, Yan Bai, Yihang Lou, Li Sun, Jiahong Wu, Xiangxiang Chu, Sen Su
+
++ [One-Shot Federated Model Editing for Device Dynamics at the Edge](https://arxiv.org/abs/2610.35212)
+
+	Youming Tao, Weijun Yin, Huanyi Xie, Yanqing Yao, Dongxiao Yu, Xiuzhen Cheng, Di Wang, Falko Dressler
+
++ [SEMA-Auto: Sighted and Efficient Multi-Turn Attack with Autonomy](https://arxiv.org/abs/2610.35743)
+
+	Mingqian Feng, Xiaodong Liu, Weiwei Yang, Chenliang Xu, Jialin Song, Qiyao Ma, Chengquan Guo, Carolyn Buractaon, Christopher White, Jianfeng Gao
+
++ [When Pointing Becomes Profiling: Social Bias and Refusal in Text-Steerable Visual Encoders](https://arxiv.org/abs/2610.35017)
+
+	Seyedarmin Azizi, Parsa Razmara, Sajjad Ghiasvand, Ardalan Aryashad, Tina Khezresmaeilzadeh
+
++ [Risk-Aware Output Control Should be the Focus of Machine Unlearning](https://arxiv.org/abs/2610.35052)
+
+	Yahya Alkhatib, Yuyang Xiao, Wee Peng Tay
+
++ [Phantom Forgetting: How BatchNorm State Fakes Deletion in Edge Split Machine Unlearning](https://arxiv.org/abs/2610.34800)
+
+	Anand Agrawal, Anil Kumar Chillara, Naresh Mandan
+
++ [Steering for Safety, Hijacking for Profit: Trojan Threats in the LLM Activation Steering Supply Chain](https://arxiv.org/abs/2610.35043)
+
+	Yu Yan, Jiahao Chen, Siqi Lu, Yongjuan Wang, Ziming Zhao, Zhaoxuan Li, Qingjun Yuan
+
+# 2026-10-24
++ [Exact Unlearning After Data Curation](https://arxiv.org/abs/2610.33426)
+
+	Priyank Jayraj, Devanshu sahoo, Uday Mittal
+
++ [SEDATE: Do Large Language Models Share an Aggression Circuit Across Languages?](https://arxiv.org/abs/2610.33542)
+
+	Sagnik Basu, Sayan Das, Somnath Banerjee, Animesh Mukherjee
+
 # 2026-10-23
 + [Concept Acupuncturist: An Efficient and Precise Concept Erasure Method for Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2610.32059)
 
@@ -25,6 +83,14 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Principled Nonlinear Concept Erasure and Steering](https://arxiv.org/abs/2610.32516)
 
 	Idan Simai, Shauli Ravfogel, Uri Shaham
+
++ [Neyman Orthogonal Activation Steering](https://arxiv.org/abs/2610.33217)
+
+	David Arbour, Erfan Jahanparast, Serina Chang, Avi Feller
+
++ [All-in-One: A Composable Attack on LLM Transformations](https://arxiv.org/abs/2610.33298)
+
+	Xiaohua Zhan, Kazuki Egashira, Robin Staab, Mark Vero, Martin Vechev
 
 # 2026-10-22
 + [Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate](https://arxiv.org/abs/2610.30727)
@@ -91,6 +157,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [The Psychology of an AI Hacker](https://arxiv.org/abs/2610.30361)
 
 	Víctor Mayoral-Vilches, Hugo Osuna, Aitana Cornago
+
++ [Diagnosing and Mitigating Evidence Misgrounding in Multimodal Knowledge Editing](https://arxiv.org/abs/2610.33075)
+
+	Zhiwu Wang, Yichen Wu, Jinqian Yang, Yizhou Yang, Renzhen Wang, Qian Zhao, Deyu Meng
 
 # 2026-10-20
 + [Orthogonal Boundary Unlearning for Dual-Use Concepts in Large Language Models](https://arxiv.org/abs/2610.27490)
@@ -343,6 +413,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Yi Wang, Xiuyuan Qi, Dongqi Han, Dongsheng Li, Wenjie Wang
 
+# 2026-10-06
++ [Where Do LLMs Retrieve Network Information? Identifying the Responsible Heads and Neurons](https://arxiv.org/abs/2610.08200)
+
+	Md Abdul Kadir (1 and 2), Md Mohasin Hossain (1 and 3), Omair Shahzad Bhatti (1), Abdulrahman Mohamed Selim (1 and 2), Daniel Sonntag (1 and 2) ((1) German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany, (2) University of Oldenburg, Oldenburg, Germany, (3) Saarland University, Saarbrücken, Germany)
+
 # 2026-10-05
 + [Cross-Modal Forgetting and Transfer in Unified Multimodal Post-Training](https://arxiv.org/abs/2610.23918)
 
@@ -371,6 +446,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Ali Holmov, Yiran Huang, Kirill Bykov, Zeynep Akata
 
+# 2026-09-24
++ [Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems](https://arxiv.org/abs/2609.30383)
+
+	Zihao Zhu, Siwei Lyu, Adel Bibi, Baoyuan Wu
+
 # 2026-09-21
 + [IMPLICIT-Bench: Stereotyped Defaults and Prompt Following in Text-to-Image Generation](https://arxiv.org/abs/2609.24228)
 
@@ -391,25 +471,50 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Patrikas Vanagas, Augustas Mačijauskas, Laurynas Lopata
 
+# 2026-08-29
++ [Recognition-Refusal Misalignment in LLMs: Why Models Answer Structurally Unanswerable Questions](https://arxiv.org/abs/2608.29109)
+
+	Yucheng Du, Xiyang Hu
+
 # 2026-08-20
 + [ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](https://arxiv.org/abs/2608.20338)
 
 	Sahil Kale, Ian Harris
+
+# 2026-08-16
++ [Broken Symmetry in LLM Refusal: Answer Release Is More Local Than Refusal Restoration](https://arxiv.org/abs/2608.15772)
+
+	Yiqi Liu, Yang Wang, Songxin Wang, Chenghao Xiao, Chenghua Lin
 
 # 2026-08-10
 + [When Humans Leave Context Unsaid: Implicit Context as a Risk for Large Language Models](https://arxiv.org/abs/2608.09551)
 
 	Bocheng Chen, Han Zi, Yuda Chen, Yawei Liu, Zimo Qi, Rongrong Wang, Guangliang Liu
 
+# 2026-08-07
++ [LoRAScan: Detecting Backdoor Prompts in Low-Rank Adapters for Large Language Models via Down-Projection Activation Spikes](https://arxiv.org/abs/2608.06795)
+
+	Doniyorkhon Obidov, Honggang Yu, Xiaolong Guo, Kaichen Yang
+
 # 2026-07-28
 + [Flipping Minds by Flipping Bits: Decision-Level Cognitive Hijacking of Large Language Models](https://arxiv.org/abs/2607.25227)
 
 	Yu Yan, Jiahao Chen, Siqi Lu, Yongjuan Wang, Ziming Zhao, Zhaoxuan Li, Tianyu Du, Qingjun Yuan, Shouling Ji
 
+# 2026-07-21
++ [Mark, Don't Erase: Token Inoculation for Dual-Use Knowledge in LLMs](https://arxiv.org/abs/2607.18639)
+
+	Seunghyun Lee, Dongyoon Han, Sangdoo Yun
+
 # 2026-07-15
 + [High-dimensional layer-state trajectories reveal the internal dynamics of transformer inference](https://arxiv.org/abs/2610.26866)
 
 	Heng Zhao, Yufei Wang, Ruidian Song, Weisheng Chen
+
+# 2026-07-13
++ [Amplitude-Only FFN Intervention for Tool-Structured LLM Inference: Method, Gated Evaluation Protocol, and Cross-Model Empirical Results](https://arxiv.org/abs/2607.11183)
+
+	Sheng Xu, Zhen Chen, Junhua Wang, Boyuan Huang, Ke Jia, Jiadun Zhu, Yiming Xu
 
 # 2026-07-12
 + [Conditional Optimal Bridge for Riemannian Activation Steering](https://arxiv.org/abs/2607.10517)
@@ -1009,6 +1114,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Varun Reddy Nalagatla
 
++ [Dummy Backdoor as a Defense: Removing Unknown Backdoors via Shared Internal Mechanisms for Generative LLMs](https://arxiv.org/abs/2606.11648)
+
+	Kazuki Iwahana, Masaru Matsubayashi, Takuma Koyama, Toshiki Shibahara, Kenichiro Ominato, Akira Ito
+
 # 2026-06-09
 + [When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models](https://arxiv.org/abs/2606.10740)
 
@@ -1441,6 +1550,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Zhenyu Yu, Yangchen Zeng, Chunlei Meng, Guangzhen Yao, Shuigeng Zhou
 
++ [What the Abstention Option Measures: Refusal Loss, Sampling Churn, and Option Capture in Distilled Small Language Models](https://arxiv.org/abs/2607.28639)
+
+	Plawan Kumar Rath
+
 # 2026-05-18
 + [Language-Switching Triggers Take a Latent Detour Through Language Models](https://arxiv.org/abs/2605.18646)
 
@@ -1455,6 +1568,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Judge Circuits](https://arxiv.org/abs/2605.16023)
 
 	Nils Feldhus, Tanja Baeumel, Elena Golimblevskaia, Qianli Wang, Van Bach Nguyen, Aaron Louis Eidt, Selin Kahvecioglu, Christopher Ebert, Wojciech Samek, Jing Yang, Vera Schmitt, Sebastian Möller, Simon Ostermann
+
++ [A Cross-Modal Prompt Injection Attack against Large Vision-Language Models with Image-Only Perturbation](https://arxiv.org/abs/2605.16090)
+
+	Hao Yang, Zhuo Ma, Yang Liu, Yilong Yang, Guancheng Wang, JianFeng Ma
 
 # 2026-05-14
 + [One Step to the Side: Why Defenses Against Malicious Finetuning Fail Under Adaptive Adversaries](https://arxiv.org/abs/2605.14605)
@@ -4367,6 +4484,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Peng-Fei Zhang, Zi Huang
 
++ [The Straight and Narrow: Do LLMs Possess an Internal Moral Path?](https://arxiv.org/abs/2601.10307)
+
+	Luoming Hu, Jingjie Zeng, Liang Yang, Hongfei Lin
+
 # 2026-01-14
 + [BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning](https://arxiv.org/abs/2601.09172)
 
@@ -4554,6 +4675,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [From Unlearning to UNBRANDING: A Benchmark for Trademark-Safe Text-to-Image Generation](https://arxiv.org/abs/2512.13953)
 
 	Dawid Malarz, Filip Manjak, Maciej Zięba, Przemysław Spurek, Artur Kasymov
+
+# 2025-12-14
++ [One Leak Away: How Pretrained Model Exposure Amplifies Jailbreak Risks in Finetuned LLMs](https://arxiv.org/abs/2512.14751)
+
+	Yixin Tan, Zhe Yu, Rui Wen, Jun Sakuma
 
 # 2025-12-13
 + [Sparse Concept Anchoring for Interpretable and Controllable Neural Representations](https://arxiv.org/abs/2512.12469)
