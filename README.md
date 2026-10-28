@@ -1,6 +1,47 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-10-27
++ [Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories](https://arxiv.org/abs/2610.37369)
+
+	Zirui Ding (1,2), Xinxin Fan (2,3), Hao Yuan (1,4), Shaoye Luo (2,3), Men Niu (1,2), Yunfeng Lu (5) ((1) Institute of Computing Technology, Chinese Academy of Sciences, (2) University of Chinese Academy of Sciences, (3) State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences, (4) ShanghaiTech University, (5) Beihang University)
+
++ [Follow the Gradient: Tracing Safety Degradation Back to Training Data](https://arxiv.org/abs/2610.37481)
+
+	Saket Reddy, Amro Abbas, Anshuman Suri, Ari Morcos, David Schwab, Pratyush Maini
+
++ [Orthogonal and Parametrized Multi-Attribute Steering of LLMs](https://arxiv.org/abs/2610.37517)
+
+	Remy Ogasawara, Cullen Anderson, Narmeen Fatimah Oozeer, Foad Namjoo, Amir Abdullah, Jens Kristian Refsgaard Schou, Jeff M. Phillips
+
++ [Weakness Localization Is Not Enough: State-Aware Recursive Knowledge Improvement for Large Language Models](https://arxiv.org/abs/2610.36811)
+
+	Runze Jiang, Yan Wang, Boran Jin, Bingyu Zhu, Longtao Huang
+
++ [Mechanistic Failure Modes of Weight Pruning in Transformer Language Models](https://arxiv.org/abs/2610.37126)
+
+	Nabeelah Faumi, Deshan Sumanathilaka
+
++ [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](https://arxiv.org/abs/2610.37657)
+
+	Igor Shilov, Xiaoxue Yang, Alexander Panfilov, Evgenii Kortukov, Matthieu Meeus, Peter Romov, Wojciech Samek, Jonas Geiping, Yves-Alexandre de Montjoye
+
++ [Haste Makes Waste? Towards Safe Few-Step Text-to-Image Models](https://arxiv.org/abs/2610.36665)
+
+	Lior Ziv, Mahmood Sharif
+
++ [Forget the Data, Keep the Capability: Switchable Unlearning for Retrieval](https://arxiv.org/abs/2610.36858)
+
+	Jingong Chen, Kyle Gao, Guangyuan Li, Chulwoo Pack, Sijia Liu, Kwanghee Won
+
++ [When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations Shape Refusal in Multimodal Language Models](https://arxiv.org/abs/2610.37430)
+
+	Ananth K Suresh, Aveen Dayal, Gouthaman KV, Aditya Pola, Vineeth N Balasubramanian
+
++ [The Envelope Layer: An Underestimated Surface of LLM Agent Defense](https://arxiv.org/abs/2610.37415)
+
+	Yuelin Han
+
 # 2026-10-26
 + [TrustJev: Separating Policy Authority from Untrusted Evidence in LLM-Based Decisions](https://arxiv.org/abs/2610.34826)
 
@@ -49,6 +90,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Steering for Safety, Hijacking for Profit: Trojan Threats in the LLM Activation Steering Supply Chain](https://arxiv.org/abs/2610.35043)
 
 	Yu Yan, Jiahao Chen, Siqi Lu, Yongjuan Wang, Ziming Zhao, Zhaoxuan Li, Qingjun Yuan
+
++ [Beyond Update Counts: A Control Map for Evaluating Test-Time Model Updates](https://arxiv.org/abs/2610.36109)
+
+	Zehao Zhao, Shangjian Yin, Rui Liu, Chongyang Bai, Mark Ibrahim, Kavosh Asadi, Yuchen Lu, Hang Cui, Hamed Firooz
 
 # 2026-10-24
 + [Exact Unlearning After Data Curation](https://arxiv.org/abs/2610.33426)
@@ -34918,6 +34963,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [AutoPDL: Automatic Prompt Optimization for LLM Agents](https://arxiv.org//abs/2504.04365)
 
 	Claudio Spiess, Mandana Vaziri, Louis Mandel, Martin Hirzel
+
++ [Exact Unlearning of Finetuning Data via Model Merging at Scale](https://arxiv.org/abs/2504.04626)
+
+	Kevin Kuo, Amrith Setlur, Kartik Srinivas, Aditi Raghunathan, Virginia Smith
 
 # 2025-04-05
 + [Among Us: A Sandbox for Measuring and Detecting Agentic Deception](https://arxiv.org//abs/2504.04072)
