@@ -1,6 +1,35 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-10-30
++ [LLM Detoxification via Transition-Aware Reward-Guided Representation Sampling](https://arxiv.org/abs/2610.41165)
+
+	Aishan Liu, Yisong Xiao, Xianglong Liu, Yongxin Huang, Siyuan Liang, Zonghao Ying, Yang Qu, Jian Yang, Yaodong Yang, Dacheng Tao
+
++ [Subliminal Reinforcement Learning: traits travel through a judge's scores](https://arxiv.org/abs/2610.41301)
+
+	Keuntae Kim, Yong Suk Choi
+
++ [What Should LLMs Forget: Reinforcement Unlearning of Knowledge Associations](https://arxiv.org/abs/2610.41616)
+
+	Wutong Xu, Yun Qu, Haiyan Feng, Qi Wang, Xiangyang Ji
+
++ [When Steering Shifts Discourse: Identifying and Intervening on Discourse-Level Changes due to Activation Steering in LLMs](https://arxiv.org/abs/2610.41661)
+
+	Shivam Adarsh, Hetianyu Huang, Lau Safin, Maria Maistro, Christina Lioma
+
++ [HyperRepair: Recovering Forgotten General Capabilities of Fine-Tuned Language Models](https://arxiv.org/abs/2610.41147)
+
+	Junrong Tang, Jianghui Wang, Hao Kong, Yang Lin, Yibo Yang
+
++ [KV-Cache Patching: Tracing How and Where Fine-Tuned Behaviors Arise](https://arxiv.org/abs/2610.41480)
+
+	Jonas Loos, Oliver Eberle
+
++ [Less Loss, Fixed Weights: Logit Corrections for Forgetting](https://arxiv.org/abs/2610.42000)
+
+	Hanyu Yang
+
 # 2026-10-29
 + [Revisiting Over-refusal in Safety-aligned Large Language Models: A Representation and Optimization Perspective](https://arxiv.org/abs/2610.39802)
 
@@ -29,6 +58,22 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors](https://arxiv.org/abs/2610.40632)
 
 	Fnu Aryan, Yaqi Xie, Joseph Campbell, Woojun Kim, Kwonjoon Lee, Hossein Nourkhiz Mahjoub, Ehsan Moradi-Pari, Katia Sycara, Simon Stepputtis
+
++ [Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement](https://arxiv.org/abs/2610.40751)
+
+	Jingnan Zheng, Cheng Jin, Ming Zhang, Huan Sun, Zhongtian Ma, Kaisen Yang, Ziyuan Zhou, Tong Wu, Dongcheng Zhang, Yi Zhang, Xiao Wang, Han Qi, Shu Yu, Ermo Hua, Zongji Yu, Chaozhuo Li, Xiaoyu Wen, Zhekai Chen, Jiawei Zhou, Sirui Chen, Ning Ding, An Zhang, Tat-Seng Chua, Xiangnan He, Xia Hu, Bowen Zhou, Qiaosheng Zhang, Youbang Sun, Xiang Wang, Zhongyu Huang, Chaochao Lu
+
++ [Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs](https://arxiv.org/abs/2610.41039)
+
+	Fei Wang, Baochun Li, Bo Li
+
++ [Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents](https://arxiv.org/abs/2610.41056)
+
+	Runze Zhao, Dongruo Zhou, Sumit Kumar Jha, Nathaniel D. Bastian, Ankit Shah
+
++ [Fewer Heads, Fewer Memories: Pruning Redundant Attention Heads Suppresses Verbatim Memorisation](https://arxiv.org/abs/2610.40974)
+
+	Aryan Chowdhury, Riza Batista-Navarro
 
 # 2026-10-28
 + [Post-Training Large Language Models with LLMON](https://arxiv.org/abs/2610.38120)
@@ -625,6 +670,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Broken Symmetry in LLM Refusal: Answer Release Is More Local Than Refusal Restoration](https://arxiv.org/abs/2608.15772)
 
 	Yiqi Liu, Yang Wang, Songxin Wang, Chenghao Xiao, Chenghua Lin
+
+# 2026-08-14
++ [You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model](https://arxiv.org/abs/2608.14465)
+
+	Ziyang Luo, Zhongyao Chu, Xinjie He, Youting Wang, Xukui Qin, Runxiong Wu, Yan-Syuan Chen
 
 # 2026-08-10
 + [When Humans Leave Context Unsaid: Implicit Context as a Risk for Large Language Models](https://arxiv.org/abs/2608.09551)
@@ -1531,6 +1581,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Knowledge Offloading: Decomposing LLMs into Sparse Backbones and Memory Modules](https://arxiv.org/abs/2605.29075)
 
 	Karim Galliamov, Rochelle Choenni, Ivan Titov
+
++ [Semantic Optimal Transport for Sparse Autoencoder Feature Matching and Circuit Compression](https://arxiv.org/abs/2605.28567)
+
+	Tue M. Cao, Nguyen Do, My T. Thai
 
 # 2026-05-26
 + [Beyond a Single Direction: Chain-of-Thought Disrupts Simple Steering of Refusal](https://arxiv.org/abs/2605.26772)
@@ -4187,6 +4241,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Multi-Agent Teams Hold Experts Back](https://arxiv.org/abs/2602.01011)
 
 	Aneesh Pappu, Batu El, Hancheng Cao, Carmelo di Nolfo, Yanchao Sun, Meng Cao, James Zou
+
++ [Differential Vector Erasure: Unified Training-Free Concept Erasure for Flow Matching Models](https://arxiv.org/abs/2602.01089)
+
+	Zhiqi Zhang, Xinhao Zhong, Yi Sun, Shuoyang Sun, Jiahui Wang, Bin Chen, Shu-Tao Xia, Xuan Wang
 
 # 2026-01-31
 + [Self-Guard: Defending Large Reasoning Models via enhanced self-reflection](https://arxiv.org/abs/2602.00707)
