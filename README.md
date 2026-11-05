@@ -1,6 +1,43 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-11-04
++ [Auditable Unlearning for LLMs](https://arxiv.org/abs/2611.05866)
+
+	Piyush Tiwary, Anushka Srivastava, Prathosh A.P
+
++ [SafeStart: Mitigating the Overlooked Safety Cost of Active Expert Reduction in MoE LLM Serving](https://arxiv.org/abs/2611.06147)
+
+	Erfan Baghaei Potraghloo, Saeid Shokoufa, Seyedarmin Azizi, Arya Fayyazi, Souvik Kundu, Mehdi Kamal, Massoud Pedram
+
++ [Does Context Compression Preserve Refusal Alignment?](https://arxiv.org/abs/2611.06380)
+
+	Anthony Nguyen, Wenjun Lin
+
++ [Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models](https://arxiv.org/abs/2611.06553)
+
+	Hamid Dashtbani, Alexandra Dmitrienko
+
++ [Reasoning-Aware Cross-Modal Association Unlearning in Multimodal Large Reasoning Models](https://arxiv.org/abs/2611.06168)
+
+	Xinghao Li, Chenchen Tan, Youyang Qu, Shujie Cui, Xingliang Yuan, Cunjian Chen, Chi Liu, Longxiang Gao
+
++ [Editing Large Language Models with Geometry-Aware Regularization](https://arxiv.org/abs/2611.06185)
+
+	Bingqing Liu, Wei Liu, Jun Wang, Xiaobo Sun, Yuhua Li, Ruixuan Li
+
++ [IDSISA: Influence-Distilled Sharded Training for Efficient Machine Unlearning](https://arxiv.org/abs/2611.06519)
+
+	Deeraj SK, Sadhana Devarajan, Tanmoy Hazra, Anupam Shukla
+
++ [How Far Can You Steer? Behavior-Capability Frontiers in Contrastive Activation Addition](https://arxiv.org/abs/2611.06001)
+
+	Deepanshu Raj
+
++ [Do unlearning algorithms learn the right features?](https://arxiv.org/abs/2611.06681)
+
+	Polina Dolgova, Amartya Sanyal, Sebastian U. Stich
+
 # 2026-11-03
 + [Reducing Logprob Without Causal Verification: Diagnosing SAE-Based PII Suppression in LLMs](https://arxiv.org/abs/2611.04782)
 
@@ -65,6 +102,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery](https://arxiv.org/abs/2611.04717)
 
 	Masoud Poorghaffar Aghdam, Göktuğ Serdar Yıldırım, Sinem Sav
+
++ [A Unified Framework for Training-Dataset Aggregation and Exact Machine Unlearning via Gibbs Probability Measures](https://arxiv.org/abs/2611.05544)
+
+	Yaiza Bermudez, Samir M. Perlaza, Iñaki Esnaola
 
 # 2026-11-02
 + [Towards Multi-Value Alignment via Value Localization in LLMs](https://arxiv.org/abs/2611.02503)
@@ -778,6 +819,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Narrative Paradoxes in LLM Inference: Shaping Reasoning Trajectories toward Misalignment](https://arxiv.org/abs/2610.16312)
 
 	Haoming Yang, Ke Ma, Yangbangyan Jiang, Ligong Zhang, Xiaojun Jia, Longtao Huang, Yingfei Sun, Qianqian Xu, Qingming Huang
+
++ [Where Is the "Self" of a Large Language Model? -- From Self-Index to Self-Reference](https://arxiv.org/abs/2610.16717)
+
+	Yuchen Li, Xintong Li, Zongqi Fan, Ken-tye Yong, Nguyen H. Tran
 
 # 2026-10-11
 + [Engram Injection: A Study of Temporal Validity in Parametric Language-Model Memory](https://arxiv.org/abs/2610.15882)
@@ -1536,6 +1581,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Dummy Backdoor as a Defense: Removing Unknown Backdoors via Shared Internal Mechanisms for Generative LLMs](https://arxiv.org/abs/2606.11648)
 
 	Kazuki Iwahana, Masaru Matsubayashi, Takuma Koyama, Toshiki Shibahara, Kenichiro Ominato, Akira Ito
+
++ [Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code](https://arxiv.org/abs/2606.11817)
+
+	Yitong Zhang, Shiteng Lu, Jia Li
 
 # 2026-06-09
 + [When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models](https://arxiv.org/abs/2606.10740)
@@ -3714,6 +3763,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Jiacheng Hou, Yining Sun, Ruochong Jin, Haochen Han, Fangming Liu, Wai Kin Victor Chan, Alex Jinpeng Wang
 
++ [Steer2Edit: From Activation Steering to Component-Level Editing](https://arxiv.org/abs/2602.09870)
+
+	Chung-En Sun, Ge Yan, Zimo Wang, Tsui-Wei Weng
+
 # 2026-02-09
 + [UniComp: A Unified Evaluation of Large Language Model Compression via Pruning, Quantization and Distillation](https://arxiv.org/abs/2602.09130)
 
@@ -5577,6 +5630,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Multimodal Function Vectors for Visual Relations](https://arxiv.org/abs/2510.02528)
 
 	Shuhao Fu, Esther Goldberg, Ying Nian Wu, Hongjing Lu
+
++ [UpSafe$^\circ$C: Upcycling for Controllable Safety in Large Language Models](https://arxiv.org/abs/2510.02194)
+
+	Yuhao Sun, Zhuoer Xu, Shiwen Cui, Kun Yang, Lingyun Yu, Yongdong Zhang, Hongtao Xie
 
 # 2025-10-01
 + [Towards Verifiable Federated Unlearning: Framework, Challenges, and The Road Ahead](https://arxiv.org/abs/2510.00833)
@@ -10565,6 +10622,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [IMU: Influence-guided Machine Unlearning](https://arxiv.org/abs/2508.01620)
 
 	Xindi Fan, Jing Wu, Mingyi Zhou, Pengwei Liang, Mehrtash Harandi, Dinh Phung
+
++ [DUP: Detection-guided Unlearning for Backdoor Purification in Language Models](https://arxiv.org/abs/2508.01647)
+
+	Man Hu, Yahui Ding, Yatao Yang, Liangyu Chen, Yanhao Jia, Shuai Zhao
 
 # 2025-08-02
 + [Win-k: Improved Membership Inference Attacks on Small Language Models](https://arxiv.org//abs/2508.01268)
@@ -18323,6 +18384,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Lifting Data-Tracing Machine Unlearning to Knowledge-Tracing for Foundation Models](https://arxiv.org/abs/2506.11253)
 
 	Yuwen Tan, Boqing Gong
+
++ [Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?](https://arxiv.org/abs/2506.10912)
+
+	Fei Lin, Ziyang Gong, Cong Wang, Tengchao Zhang, Yonglin Tian, Yining Jiang, Ji Dai, Chao Guo, Xiaotong Yu, Xue Yang, Gen Luo, Fei-Yue Wang
 
 # 2025-06-11
 + [Beyond Nash Equilibrium: Bounded Rationality of LLMs and humans in Strategic Decision-making](https://arxiv.org//abs/2506.09390)
@@ -30876,6 +30941,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Access Controls Will Solve the Dual-Use Dilemma](https://arxiv.org//abs/2505.09341)
 
 	Evžen Wybitul
+
++ [Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs](https://arxiv.org/abs/2505.09338)
+
+	Jingcheng Niu, Xingdi Yuan, Tong Wang, Hamidreza Saghir, Amir H. Abdi
 
 # 2025-05-13
 + [Lost in Transmission: When and Why LLMs Fail to Reason Globally](https://arxiv.org//abs/2505.08140)
