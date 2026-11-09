@@ -1,6 +1,23 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-11-06
++ [Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations](https://arxiv.org/abs/2611.09382)
+
+	Junru Hu, Cheng Tang, Wei Li, Hongze Zhu, Chun-Mei Feng, Qi Zhang, Yirong Chen, Ming Hu
+
++ [When Feedback Becomes a Backdoor: Tracing Backdoor Skill Formation in Text-Space Skill Optimization](https://arxiv.org/abs/2611.09348)
+
+	Louise Nayeong Koh, Yaechan Lee, Myeongjong Lee, Doyeon Kim, Juyoung Park, Seunggyu Kim, Inseo Kim, Chaerin Jung, Hyogon Ryu
+
++ [Can LLMs Debug Robots by Editing Their Weights?](https://arxiv.org/abs/2611.09376)
+
+	Jusheng Zhang, Keze Wang, Liang Lin
+
++ [ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models](https://arxiv.org/abs/2611.09770)
+
+	Lingyun Song, Ziyao Chen, Kang Pan, Xiaolin Han, Yifei Zhang, Xiaoqi Wang, Yudai Pan, Xuequn Shang
+
 # 2026-11-05
 + [Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks](https://arxiv.org/abs/2611.07640)
 
@@ -33,6 +50,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [An Information Bottleneck for Post-hoc Memorization Mitigation in LLMs](https://arxiv.org/abs/2611.07669)
 
 	Dina EL Zein, Shashi Kumar, James Henderson
+
++ [IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection](https://arxiv.org/abs/2611.08647)
+
+	Chris von Csefalvay, Pranav Doma, Achyuthan Unni Krishnan, Tamás Földi
+
++ [AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling](https://arxiv.org/abs/2611.08752)
+
+	Doniyorkhon Obidov, Honggang Yu, Xiaolong Guo, Kaichen Yang
+
++ [Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP](https://arxiv.org/abs/2611.08639)
+
+	Stepan Epifantsev, Anna Antipova, Oleg Chernikov, Leon Strelkov, Alexey Dontsov
 
 # 2026-11-04
 + [Auditable Unlearning for LLMs](https://arxiv.org/abs/2611.05866)
@@ -2134,6 +2163,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Persona-Model Collapse in Emergent Misalignment](https://arxiv.org/abs/2605.12850)
 
 	Davi Bastos Costa, Renato Vicente
+
++ [Backdoor Channels Hidden in Latent Space: Extending Cryptographic Undetectability to Modern Neural Networks](https://arxiv.org/abs/2605.13214)
+
+	Marte Eggen, Eirik Reiestad, Kristian Gjøsteen, Inga Strümke
 
 # 2026-05-12
 + [REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations](https://arxiv.org/abs/2605.12813)
@@ -4719,6 +4752,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Statistical Estimation of Adversarial Risk in Large Language Models under Best-of-N Sampling](https://arxiv.org/abs/2601.22636)
 
 	Mingqian Feng, Xiaodong Liu, Weiwei Yang, Chenliang Xu, Christopher White, Jianfeng Gao
+
++ [What Does a Sparse Autoencoder Feature Do? A Weight-Based Account](https://arxiv.org/abs/2601.22447)
+
+	Yiting Liu, Zhi-Hong Deng
 
 # 2026-01-29
 + [KnowBias: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement](https://arxiv.org/abs/2601.21864)
