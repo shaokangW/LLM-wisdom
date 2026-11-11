@@ -1,6 +1,31 @@
 # LLM-wisdom
 The papers related to the LLM wisdom, including test-time scaling, knowledge editing, model recognition, capacity enhancement, RAG, Agent, internal mechanism of LLM and etc. 
 
+# 2026-11-10
++ [Multimodal Abstention That Preserves Acquired Correct Answers](https://arxiv.org/abs/2611.14311)
+
+	Jinyuan Zhang
+
++ [Massive Activations Confound Sparse Autoencoders](https://arxiv.org/abs/2611.13548)
+
+	Nathan Delisle, Chenhao Tan
+
++ [TERM: Target-Free Jailbreak Defense via Entropy-Guided Residual Modulation](https://arxiv.org/abs/2611.13577)
+
+	Yunkai Dang, Wanyu Zhang, Meiyi Zhu, Qi Fan, Tianyu Ding, Wenbin Li
+
++ [POEM: Output-Relative Block-Sparse Attention for Long-Context Prefilling](https://arxiv.org/abs/2611.13578)
+
+	Haoyi Wu, Yunkai Dang, Wanyu Zhang, Lei Wang, Wenbin Li
+
++ [Are Causal Neuron Circuits Unique and Transferable?](https://arxiv.org/abs/2611.13885)
+
+	Ömer Tekin Yavuz (İletişim Yazılım)
+
++ [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://arxiv.org/abs/2611.14210)
+
+	Hadi Salloum, Ammar Ali
+
 # 2026-11-09
 + [TANSAR: Editable and Attributable Correlation Matrix Memories under Correlated Keys, with Rule-Constrained Multi-Hop Knowledge Editing](https://arxiv.org/abs/2611.12374)
 
@@ -30,6 +55,18 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Junsheng Fu, Shuangshuang Gao
 
++ [W-ISA: Transactional Execution of Weight-Space Intervention Programs](https://arxiv.org/abs/2611.13232)
+
+	Ekrem Aksoy
+
++ [NCP: Verifier-Guided Optimization of Weight-Space Control Policies](https://arxiv.org/abs/2611.13236)
+
+	Ekrem Aksoy
+
++ [MicroLens: Read, Trace, and Rewire the Residual Stream with Two Lenses](https://arxiv.org/abs/2611.13322)
+
+	Nika Zahedi, Fangyi Zhu, Anna Wu
+
 # 2026-11-08
 + [WarBias: A Bilingual LLM Benchmark of Stereotypes About Internally Displaced People and Veterans](https://arxiv.org/abs/2611.11284)
 
@@ -38,6 +75,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Unlearning at Speed: Rapid Activation Dampening for Efficient Machine Unlearning in Real-World Face Recognition](https://arxiv.org/abs/2611.11433)
 
 	Rouqaiah Al-Refai, Leo Scheubel, Philipp Terhörst
+
++ [Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing](https://arxiv.org/abs/2611.12995)
+
+	Dongyao Chen, Jiayun Lei, Zhiyuan Ji, Zhiying Deng, Wei Liu, Xiaobo Sun
 
 # 2026-11-07
 + [Hallucination-Guided Unlearning: Using Hallucination Traces to Reveal Overfitted Memories](https://arxiv.org/abs/2611.10697)
@@ -1035,6 +1076,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Md Sazid Uddin, Md. Khairul Alam Mazumder, M. F. Mridha
 
+# 2026-10-01
++ [Mitigating Private Data Leakage in LLMs with Whiteout](https://arxiv.org/abs/2610.02418)
+
+	Anna Yoo Jeong Ha, Ronik Bhaskar, Haitao Zheng, Ben Y. Zhao
+
 # 2026-09-30
 + [When the Editing Intent Is Split: A Cross-Modal Jailbreak Attack for Large Image Editing Models](https://arxiv.org/abs/2610.23909)
 
@@ -1047,6 +1093,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [Backdoor Purification for LoRA-Tuned LLMs via Null-Space Projection](https://arxiv.org/abs/2610.00685)
 
 	Jianwei Li, Jung-Eun Kim
+
++ [LARC: Low-Rank Adaptive Residual Connections for Learning in Frozen Models](https://arxiv.org/abs/2609.40063)
+
+	Junyi Zou, Avrova Donz
 
 # 2026-09-29
 + [Alignment via Training Against Probes Without Losing Monitorability](https://arxiv.org/abs/2609.38645)
@@ -1135,6 +1185,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Tavish Mankash, Vardhaman Kalloli, Keshava Prasad, Deepan Muthirayan
 
+# 2026-08-24
++ [ST$^2$U: Stateful Test-Time Unlearning via Restricted Knowledge Boundary Control](https://arxiv.org/abs/2608.23034)
+
+	Xunlei Chen, Qinghui Gong, Ruini Xue, Yaodong Hu, Tian Lan, Wenhong Tian
+
 # 2026-08-20
 + [ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](https://arxiv.org/abs/2608.20338)
 
@@ -1159,6 +1214,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [When Humans Leave Context Unsaid: Implicit Context as a Risk for Large Language Models](https://arxiv.org/abs/2608.09551)
 
 	Bocheng Chen, Han Zi, Yuda Chen, Yawei Liu, Zimo Qi, Rongrong Wang, Guangliang Liu
+
++ [Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928)
+
+	Hunar Batra, Lachin Naghashyar, Ashkan Khakzar, Philip Torr, Christian Schroeder de Witt, Constantin Venhoff, Ronald Clark
 
 # 2026-08-07
 + [LoRAScan: Detecting Backdoor Prompts in Low-Rank Adapters for Large Language Models via Down-Projection Activation Spikes](https://arxiv.org/abs/2608.06795)
@@ -1818,6 +1877,11 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [BrainSurgery: Reproducible and Flexible Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707)
 
 	Gianluca Barmina, Annemette Broch Pirchert, Andrea Blasi Núñez, Lukas Galke Poech, Peter Schneider-Kamp
+
+# 2026-06-06
++ [Building Comparative Motivation Profiles with Symmetric Belief Editing](https://arxiv.org/abs/2606.08243)
+
+	David Vella Zarb, Rustem Turtayev, Taywon Min, Jinghua Ou, Shi Feng
 
 # 2026-06-05
 + [TRACER: Token ReAssignment for Concept ERasure in Generative Recommendation](https://arxiv.org/abs/2606.07688)
@@ -34661,6 +34725,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 + [DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing](https://arxiv.org//abs/2504.17894)
 
 	Aniruddha Bala, Rohit Chowdhury, Rohan Jaiswal, Siddharth Roheda
+
++ [BadMoE: Backdooring Mixture-of-Experts LLMs via Routing-Aware Triggers and Task-Underutilized Experts](https://arxiv.org/abs/2504.18598)
+
+	Qingyue Wang, Qi Pang, Xixun Lin, Shuai Wang, Daoyuan Wu
 
 # 2025-04-23
 + [Steering the CensorShip: Uncovering Representation Vectors for LLM "Thought" Control](https://arxiv.org//abs/2504.17130)
