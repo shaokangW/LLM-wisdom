@@ -26,6 +26,10 @@ The papers related to the LLM wisdom, including test-time scaling, knowledge edi
 
 	Hadi Salloum, Ammar Ali
 
++ [Sanity Checks for Attention Surgery: Null Models and Matched Interventions for Representation-Motivated Design](https://arxiv.org/abs/2611.13543)
+
+	Basavaraj R M, Aryan Bharat Kumar
+
 # 2026-11-09
 + [TANSAR: Editable and Attributable Correlation Matrix Memories under Correlated Keys, with Rule-Constrained Multi-Hop Knowledge Editing](https://arxiv.org/abs/2611.12374)
 
